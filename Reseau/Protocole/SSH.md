@@ -131,6 +131,11 @@ Pour une sécurité correcte, il est recommandé d'utiliser des clés de 4096 bi
 
 ![[cle-asymetrique.png]]
 
+```powershell
+ls ~/.ssh #permet de voir les clés SSH
+
+```
+
 ### Génération de la clef RSA 
 #### Linux
 ```bash
@@ -150,14 +155,6 @@ ssh-copy-id root@192.168.240.132
 ## Tunneling et encapsulation de protocole
 Un protocole non chiffré comme l'HTTP peut être encapsulé dans le protocole SSH pour passer un pare feu ou un proxy par exemple. Il sera ensuite désencapsulé à la destination. 
 
-## Ressources
-[Le protocole SSH pour les débutants](https://www.youtube.com/watch?v=gxQKw7A6qDM)
-
-https://www.it-connect.fr/cours/comprendre-et-maitriser-ssh/
-
-https://www.it-connect.fr/installer-et-configurer-openssh-server-sur-windows-server-2019/
-
-https://www.it-connect.fr/comment-utiliser-le-client-ssh-natif-de-windows-10/
 
 ## Commandes
 ```shell

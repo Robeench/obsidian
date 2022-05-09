@@ -140,14 +140,14 @@
   "active": "5f75b06e011b5718",
   "lastOpenFiles": [
     "Developpement/Git.md",
-    "Reseau/Hardware/Mémoire vive - RAM.md",
     "Perso/Recherche d'emploi.md",
+    "Reseau/Protocole/Active directory.md",
+    "Reseau/Protocole/DNS.md",
+    "Reseau/Protocole/SSH.md",
+    "Reseau/Hardware/Mémoire vive - RAM.md",
     "Développement/Github.md",
     "Developpement/Langages/Javascript.md",
     "Developpement/Langages/Markdown.md",
-    "Reseau/Protocole/SSL - TLS.md",
-    "Reseau/Protocole/HTTPS.md",
-    "Reseau/Protocole/Certificat électronique.md",
-    "().md"
+    "Reseau/Protocole/SSL - TLS.md"
   ]
 }
