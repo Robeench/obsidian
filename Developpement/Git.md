@@ -29,3 +29,5 @@ git branch -D nomDeLaBranche #supprime une branche non fusionnée
 
 git push #ajouter sous GitHub
 ```
+
+POUET
