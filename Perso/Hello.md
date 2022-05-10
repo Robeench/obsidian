@@ -39,13 +39,3 @@ Un livre blanc sur les notions fondamentales des réseaux, un document au format
 **ENI** le site de l'éditeur n°1 de livres informatiques
 
 [](http://www.editions-eni.fr/)[http://www.editions-eni.fr/](http://www.editions-eni.fr/)
-
-
-
-
-
-
-
-
-
-ouaaaaaaaaaaaaaaaiiiiiiiiiiiiis
