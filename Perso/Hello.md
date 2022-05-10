@@ -41,5 +41,11 @@ Un livre blanc sur les notions fondamentales des réseaux, un document au format
 [](http://www.editions-eni.fr/)[http://www.editions-eni.fr/](http://www.editions-eni.fr/)
 
 
-BOURREAU
-Quelles sont mes valeurs ? Est-ce que je suis alignée avec elles ? 
+
+
+
+
+
+
+
+ouaaaaaaaaaaaaaaaiiiiiiiiiiiiis
