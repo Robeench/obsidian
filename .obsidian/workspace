@@ -7,9 +7,9 @@
         "id": "18227a99e47d9824",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "image",
           "state": {
-            "file": "🖖 TSSR/Administratif/Fiche mission TSSR.pdf"
+            "file": "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Administratif/Fiche mission TSSR.pdf",
+                "file": "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Administratif/Fiche mission TSSR.pdf"
+                "file": "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Administratif/Fiche mission TSSR.pdf",
+                "file": "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,15 @@
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
+    "❤ Home/Voir/Films en automne.md",
+    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
+    "🖖 TSSR/Administratif/Fiche mission TSSR.pdf",
     "🖖 TSSR/Administratif/Planning TSSR.pdf",
     "🖖 TSSR/Administratif/Plan de formation TSSR.pdf",
     "🖖 TSSR/Administratif/Plan de formation TAI.pdf",
-    "🖖 TSSR/Administratif/Fiche mission TSSR.pdf",
     "📚 Apprendre/Reseau/Common ports.jpg",
     "📚 Apprendre/Reseau/Untitled.md",
     "📚 Apprendre/Reseau/Hardware/Hardware.md",
-    "📚 Apprendre/Reseau/Applications/Applications.md",
-    "❤ Home/Hello.md",
-    "❤ Home/Lire/affiche_feminisme.pdf"
+    "📚 Apprendre/Reseau/Applications/Applications.md"
   ]
 }
