@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes du jour/30.08.2022.md",
+            "file": "Développement web/Langages/Langage.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes du jour/30.08.2022.md",
+                "file": "Développement web/Langages/Langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes du jour/30.08.2022.md"
+                "file": "Développement web/Langages/Langage.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes du jour/30.08.2022.md",
+                "file": "Développement web/Langages/Langage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d0a73622232b9318",
+  "active": "18227a99e47d9824",
   "lastOpenFiles": [
-    "Reseau/Modèle TCP IP.md",
-    "Reseau/Applications/Applications.md",
-    "Reseau/Applications/OVH/Lier un domaine à un hébergement.md",
-    "demo/Tricot.md",
-    "demo/first note.md",
-    "Reseau/Applications/OVH/OVH.md",
+    "Développement web/Langages/Javascript.md",
+    "Développement web/Langages/HTML 5.md",
     "Développement web/Langages/CSS 3.md",
-    "Développement web/Langages/Python.md",
-    "Développement web/Langages/Markdown.md",
-    "Développement web/Langages/Langage.md"
+    "Perso/Plugins.md",
+    "Notes du jour/30.08.2022.md",
+    "Perso/Cadeaux.md",
+    "Reseau/Modèle TCP IP.md",
+    "Reseau/Modèle OSI.md",
+    "Reseau/Hardware/Hardware.md",
+    "Reseau/Hardware/Carte mère.md"
   ]
 }
