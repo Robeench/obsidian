@@ -19,11 +19,9 @@ logiciel d'enregistrement : risen studio
 nouvelle basse (la même que violette)
 kayak
 visiter Giverny
-piano
 
 **Pour moi**
 Kit de feutres pour dessiner
 Bouquin sur Edward Hopper
 "Cent ans de solitude" de Gabriel Garcia Marquez
 "Un espace à soi" de Virginia Woolf
-
