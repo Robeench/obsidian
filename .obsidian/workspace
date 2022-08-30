@@ -7,11 +7,9 @@
         "id": "18227a99e47d9824",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "audio",
           "state": {
-            "file": "❤ Home/Films en automne.md",
-            "mode": "source",
-            "source": false
+            "file": "❤ Home/A écouter/meditation_bonheur.mp3"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/Films en automne.md",
+                "file": "❤ Home/A écouter/meditation_bonheur.mp3",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❤ Home/Films en automne.md"
+                "file": "❤ Home/A écouter/meditation_bonheur.mp3"
               }
             }
           },
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/Films en automne.md",
+                "file": "❤ Home/A écouter/meditation_bonheur.mp3",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +142,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18227a99e47d9824",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
+    "❤ Home/Hello.md",
+    "❤ Home/Recherche d'emploi.md",
+    "❤ Home/Plugins.md",
+    "❤ Home/Voir/Films en automne.md",
     "Développement web/Langages/CSS 3.md",
     "Développement web/Langages/Langage.md",
     "Développement web/Langages/Javascript.md",
     "Développement web/Langages/HTML 5.md",
-    "❤ Home/Plugins.md",
     "Notes du jour/30.08.2022.md",
-    "❤ Home/Cadeaux.md",
-    "Reseau/Modèle TCP IP.md",
-    "Reseau/Modèle OSI.md",
-    "Reseau/Hardware/Hardware.md"
+    "❤ Home/Cadeaux.md"
   ]
 }
