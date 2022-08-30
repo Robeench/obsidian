@@ -1,2 +1,0 @@
-# Tricot
-- commencer le tricot
