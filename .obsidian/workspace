@@ -7,9 +7,11 @@
         "id": "18227a99e47d9824",
         "type": "leaf",
         "state": {
-          "type": "audio",
+          "type": "markdown",
           "state": {
-            "file": "❤ Home/A écouter/meditation_bonheur.mp3"
+            "file": "📚 Apprendre/Lire/Lire.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/A écouter/meditation_bonheur.mp3",
+                "file": "📚 Apprendre/Lire/Lire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❤ Home/A écouter/meditation_bonheur.mp3"
+                "file": "📚 Apprendre/Lire/Lire.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/A écouter/meditation_bonheur.mp3",
+                "file": "📚 Apprendre/Lire/Lire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +144,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d85cf4ebcdb3fcb",
+  "active": "18227a99e47d9824",
   "lastOpenFiles": [
     "❤ Home/Hello.md",
+    "❤ Home/Ecouter/meditation_bonheur.mp3",
     "❤ Home/Recherche d'emploi.md",
     "❤ Home/Plugins.md",
     "❤ Home/Voir/Films en automne.md",
@@ -152,7 +155,6 @@
     "Développement web/Langages/Langage.md",
     "Développement web/Langages/Javascript.md",
     "Développement web/Langages/HTML 5.md",
-    "Notes du jour/30.08.2022.md",
-    "❤ Home/Cadeaux.md"
+    "Notes du jour/30.08.2022.md"
   ]
 }
