@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Développement web/Langages/Langage.md",
+            "file": "Développement web/Langages/CSS 3.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Développement web/Langages/Langage.md",
+                "file": "Développement web/Langages/CSS 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Développement web/Langages/Langage.md"
+                "file": "Développement web/Langages/CSS 3.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Développement web/Langages/Langage.md",
+                "file": "Développement web/Langages/CSS 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,7 @@
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
+    "Développement web/Langages/Langage.md",
     "Développement web/Langages/Javascript.md",
     "Développement web/Langages/HTML 5.md",
     "Développement web/Langages/CSS 3.md",
@@ -154,7 +155,6 @@
     "Perso/Cadeaux.md",
     "Reseau/Modèle TCP IP.md",
     "Reseau/Modèle OSI.md",
-    "Reseau/Hardware/Hardware.md",
-    "Reseau/Hardware/Carte mère.md"
+    "Reseau/Hardware/Hardware.md"
   ]
 }
