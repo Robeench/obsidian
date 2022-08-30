@@ -1,11 +1,11 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "foldHeading": true,
   "foldIndent": true,
   "tabSize": 3,
-  "trashOption": "local",
+  "trashOption": "none",
   "alwaysUpdateLinks": true,
   "communityThemeSortOrder": "download",
   "promptDelete": false

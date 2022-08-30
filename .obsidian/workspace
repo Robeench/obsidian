@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5f75b06e011b5718",
+        "id": "18227a99e47d9824",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reseau/Protocole/Active directory.md",
+            "file": "Notes du jour/30.08.2022.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reseau/Protocole/Active directory.md",
+                "file": "Notes du jour/30.08.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reseau/Protocole/Active directory.md"
+                "file": "Notes du jour/30.08.2022.md"
               }
             }
           },
@@ -115,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reseau/Protocole/Active directory.md",
+                "file": "Notes du jour/30.08.2022.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -128,26 +128,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d0a73622232b9318",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5f75b06e011b5718",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
-    "Reseau/Protocole/Active directory.md",
-    "cours-active-directory-27.png",
-    "Telechargements/arborescence10.png",
-    "Telechargements/Capture d’écran 2022-02-18 110119.png",
-    "Reseau/Protocole/Kerberos.md",
-    "Reseau/Protocole/DNS.md",
-    "Reseau/Protocole/LDAP.md",
-    "Pasted image 20220511104607.png.md",
-    "Telechargements/Capture d’écran 2022-05-04 093747.png",
-    "Telechargements/Capture d’écran 2022-05-05 114652.png"
+    "demo/Tricot.md",
+    "Notes du jour/30.08.2022.md",
+    "demo/first note.md",
+    "Perso/Hello.md",
+    "Perso/Cadeaux.md",
+    "Perso/Plugins.md",
+    "Developpement/Git.md",
+    "Developpement/Langages/Markdown.md",
+    "Reseau/Applications/OVH/Lier un domaine à un hébergement.md",
+    "Reseau/Applications/OVH/OVH.md"
   ]
 }

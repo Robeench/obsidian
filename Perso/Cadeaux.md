@@ -15,11 +15,15 @@ Carnet du voyageur : Paris de Zoé de Las Cases
 places pour une course de moto (type Grand Prix / 24H)
 
 **Maxime**
-BD "Manabé Shima"
-logiciel d'enregistrement : rizen studio
+logiciel d'enregistrement : risen studio
 nouvelle basse (la même que violette)
 kayak
+visiter Giverny
+piano
 
 **Pour moi**
 Kit de feutres pour dessiner
+Bouquin sur Edward Hopper
+"Cent ans de solitude" de Gabriel Garcia Marquez
+"Un espace à soi" de Virginia Woolf
 

@@ -16,9 +16,7 @@ exit
 ### Changement de port
 ```shell
 #SUR LE SERVEUR
-cd /etc/ssh
-ls
-nano sshd_config #
+nano /etc/ssh/sshd_config
 #modifier le port au sein du fichier de configuration
 
 #SUR LE CLIENT
@@ -30,8 +28,7 @@ ss -lntp | grep ssh
 
 ### Gérer l'IP d'écoute du serveur
 ```shell
-cd /etc/ssh
-nano sshd_config
+nano /etc/ssh/sshd_config
 #en dessous des 2 lignes ListenAddress commentée, ajouter 
 ListenAddress 192.168.1.3 #j'indique l'IP qui écoute
 ListenAddress :: #si je souhaite ajouter l'adresse IPv6, inutile si non utilisé
@@ -42,8 +39,7 @@ reboot now
 Par sécurité, il est interdit de se conneter en SSH directement en root. 
 NE PAS autoriser une connexion directe root sur un environnement en production
 ```shell
-cd /etc/ssh
-nano sshd_config
+nano /etc/ssh/sshd_config
 #en dessous de la ligne PermitRootLogin commentée, ajouter
 PermitRootLogin yes
 reboot now

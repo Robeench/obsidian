@@ -133,11 +133,9 @@ p { /*si la page du navigateur est trop petite, le p se force à occuper au moin
 }
 ```
 
-Trois éléments importants contrôlent l'espace entre les différents block HTML : **padding**, **border**, **margin**.
+**padding** = marge intérieure 
 
-**padding** contrôle le remplissage entre un élément et ses bordures. Quand on augmente le padding d'un block html, cela augmente la distance entre le texte et ses bordures.
-
-**margin** contrôle l'espace entre les bordures de plusieurs éléments. Si **margin** utilise une valeur négative, l'élément va se développer en largeur.
+**margin** = marge extérieure
 
 ![https://user.oc-static.com/files/5001_6000/5633.jpg](https://user.oc-static.com/files/5001_6000/5633.jpg)
 

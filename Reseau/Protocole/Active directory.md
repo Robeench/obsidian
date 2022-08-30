@@ -1,5 +1,6 @@
 [[Protocole]]
 # Active directory
+# Cours
 C'est un service d'annuaire [[LDAP]] pour les OS [[Windows]] utilisé pour stocker des informations relatives aux ressources réseau sur un domaine. 
 C'est une organisation hiérarchisée d'objets classée en 3 catégories : 
 - ressources (imprimantes, ordinateurs ...)
@@ -249,6 +250,30 @@ La réplication intersites a lieu toutes les 3h.
 Premier site par défaut se crée automatiquement : Default-First-Site-Name
 
 
+
+
+# Tutoriel
+1. Renommer le serveur (device name)
+
+![[Capture.png]]
+
+Attention à nommer correctement mon serveur AD : 
+
+![[Pasted image 20220519145118.png]]
+
+2. Configurer une adresse IP fixe
+[Configurer une IP fixe sur Windows Server](https://guides.proxgroup.fr/docs/vps/vps-game/configurer-une-ip-fixe-sur-windows-server/)
+
+3. Configurer que le contrôleur de domaine est son propre serveur DNS
+127.0.01 = nomenclature pour lui dire de s'interroger soi-même
+
+4. Ajouter des PC Windows (PRO) à mon domaine
+[Ajouter un PC Windows dans un domaine AD](https://www.youtube.com/watch?v=-XUO_BeGRI8)
+
+```powershell
+Add-Computer -DomainName nitou.corp
+#permet d'ajouter le PC à un domaine AD
+```
 
 # Ressources
 https://www.it-connect.fr/cours/notions-de-base-de-lactive-directory/

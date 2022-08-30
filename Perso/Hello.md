@@ -2,15 +2,6 @@
 _Fondamentalement, l’ordinateur et l’homme sont les deux opposés les plus intégraux qui existent. L’homme est lent, peu rigoureux et très intuitif. L’ordinateur est super rapide, très rigoureux et complètement con._
 [Gérard Berry, professeur au collège de France](https://www.nouvelobs.com/rue89/rue89-le-grand-entretien/20160826.RUE7684/gerard-berry-l-ordinateur-est-completement-con.html)
 
-- Montage vidéo
-- Anticiper le déménagement
-- Voiture
-Freins : 365€
-Pneus
-Courroie accessoire
-Révision
-Changement rétro
-total : 1100
 
 **Bibliographie & webographie**
 
@@ -22,7 +13,7 @@ dont surtout le classique
 
 [](http://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip)[http://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip](http://openclassrooms.com/courses/apprenez-le-fonctionnement-des-reseaux-tcp-ip)
 
-**MISC** ( magazine consacré à la sécurité informatique sous tous ses aspects commele système, le réseau ou encore la programmation)
+**MISC** ( magazine consacré à la sécurité informatique sous tous ses aspects comme le système, le réseau ou encore la programmation)
 
 [](http://www.linuxmag-france.org/presentation_fam.php?famille=2)[http://www.linuxmag-france.org/presentation_fam.php?famille=2](http://www.linuxmag-france.org/presentation_fam.php?famille=2)
 

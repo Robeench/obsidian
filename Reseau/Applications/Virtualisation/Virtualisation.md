@@ -3,7 +3,7 @@
 ## Hyperviseur de type 2
 Hyperviseur de type 2 = hosted hypervisor (hyperviseur hébergé)
 
-Hyperviseur de type 2 : adaptés pour de petites infrastructures, pour une seule machine et faire des tests multiplateformes.
+Adaptés pour de petites infrastructures, pour une seule machine et faire des tests multiplateformes.
 
 S'installe comme une application système et permet de créer des VM indépendantes de l'[[OS]] hôte. Il est donc considéré comme n’importe quelle application et n’a **aucune priorité** sur les ressources de l’hôte.
 
@@ -18,11 +18,11 @@ Les utilisations d’un hyperviseur de type 2 sont multiples. Ils sont assez fac
 ## Hyperviseur de type 1
 Hyperviseur de type 1 = hyperviseur natif
 
-Hyperviseur de type 1 : adapptés pour des grosses architectures réseaux d'entreprise qui nécessitent des optimisations de coût et de maintenance, tout en améliorant la robustesse face aux pannes.
+Hyperviseur de type 1 : adaptés pour des grosses architectures réseaux d'entreprise qui nécessitent des optimisations de coût et de maintenance, tout en améliorant la robustesse face aux pannes.
 
 Installé directement sur le matériel, sans OS intermédiaire. Les ressources de l’hôte sont directement gérées par l’hyperviseur et non plus par l’OS qui **disparaît** ou est **relégué** au statut de VM. La **totalité** des ressources est dédiée aux VM.
 
-Les hyperviseurs de type 1 sont utilisés en entreprise pour plusieurs raisons, comme par exemple :
+Les hyperviseurs de type 1 sont utilisés en entreprise pour  :
 -   réduire les coûts matériels et de maintenance ;
 -   optimiser les ressources physiques ;
 -   répartir la charge dynamiquement ;

@@ -27,12 +27,8 @@ HTML est un langage qui permet d'écrire et d'organiser le contenu de la page.
 ```
 
 # Structurer sa page
-Une page web est une succession et un empilement de boites, on les appelle **block**.
+
 ## Balises block et inline
-Il existe deux types de balises :
-- balise **block** : par exemple des paragraphes `<p></p>`. Elle crée automatiquement un retour à la ligne avant et après. On peut mettre un block dans un autre block.
-- balise **inline** : par exemple les liens `<a></a>`. Elle se trouve obligatoirement à l'intérieur d'une balise block et ne crée pas de retour à la ligne, le texte à l'intérieur s'écrit à la suite du texte précédent, sur la même ligne.
-- il existe d'autres catégories très spécifiques pour les cellules de tableau et les puces, elles sont minoritaires.
 [Mémento des balises HTML](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1608357-memento-des-balises-html)
 
 ```html
@@ -70,7 +66,6 @@ Il existe deux types de balises :
 ![https://user.oc-static.com/files/343001_344000/343677.png](https://user.oc-static.com/files/343001_344000/343677.png)
 
 ## Balises universelles
-Ce sont des balises qui n'ont aucun sens particulier. On peut leur appliquer une **class** ou un **id** pour le CSS quand aucune autre balise ne convient.
 
 ```html
 <span></span> <!-- balise inline -->

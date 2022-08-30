@@ -35,6 +35,7 @@
 `ls` affiche le contenu d’un répertoire
 `lsblk` indique la manière dont sont connectés mes périphériques de stockage
 `man [nom de commande externe]` permet d’accéder au manuel unix concernant cette commande
+`mkdir [nom de répertoire à créer]` permet de créer un répertoire
 `nano` permet d’éditer du texte
 	`nano /etc/network/interfaces` permet de modifier les interfaces réseaux
 `ping` pour packet internet groper, permet grâce à l’envoi de paquets de vérifier si une machine distante répond et donc si ell e est accessible par le réseau.

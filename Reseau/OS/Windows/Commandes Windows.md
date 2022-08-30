@@ -5,5 +5,6 @@
 `ipconfig /all` informations complètes sur mes cartes réseaux
 `Get-NetIPInterface` liste les interfaces réseaux sur notre machine
 `route print` permet de voir ma table de routage
-`ping [www.openclassrooms.com](<http://www.openclassrooms.com>)` permet d’envoyer une requête vers un site/une adresse IP
 `tracert www.openclassrooms.com` permet de voir les routeurs empruntés pour atteindre une adresse
+
+
