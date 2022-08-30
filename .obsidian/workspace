@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes du jour/30.08.2022.md",
+            "file": "Reseau/Applications/Applications.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes du jour/30.08.2022.md",
+                "file": "Reseau/Applications/Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes du jour/30.08.2022.md"
+                "file": "Reseau/Applications/Applications.md"
               }
             }
           },
@@ -115,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes du jour/30.08.2022.md",
+                "file": "Reseau/Applications/Applications.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -137,24 +137,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d85cf4ebcdb3fcb",
+  "active": "8446cd1e8bb451e6",
   "lastOpenFiles": [
-    "demo/Tricot.md",
-    "Notes du jour/30.08.2022.md",
-    "demo/first note.md",
-    "Perso/Hello.md",
-    "Perso/Cadeaux.md",
-    "Perso/Plugins.md",
-    "Developpement/Git.md",
-    "Developpement/Langages/Markdown.md",
     "Reseau/Applications/OVH/Lier un domaine à un hébergement.md",
-    "Reseau/Applications/OVH/OVH.md"
+    "demo/Tricot.md",
+    "demo/first note.md",
+    "Reseau/Applications/OVH/OVH.md",
+    "Developpement/Langages/CSS 3.md",
+    "Developpement/Langages/Python.md",
+    "Developpement/Langages/Markdown.md",
+    "Developpement/Langages/Langage.md",
+    "Developpement/Langages/Javascript.md",
+    "Developpement/Langages/Java.md"
   ]
 }
