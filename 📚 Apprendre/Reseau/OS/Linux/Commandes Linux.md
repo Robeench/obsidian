@@ -81,8 +81,8 @@ Ces commandes sont externes à l'interpréteur de commandes, c'est-à-dire qu'el
 L’argument est pris en compte comme une entrée pour exécuter la commande.
 L’option modifie la manière dont sort le résultat.
 
-## Evolution en routeur
-`echo 1 > /proc/sys/net/ipv4/ip_forward` me permet de recevoir des paquets qui ne me sont pas destinés (routeur)
+## Evolution en [[routeur]]
+`echo 1 > /proc/sys/net/ipv4/ip_forward` me permet de recevoir des paquets qui ne me sont pas destinés ([[routeur]])
 ```shell
 auto eth0:1
 allow-hotplug eth0:1
@@ -102,7 +102,7 @@ dpkg -i [nom du package]
 ```
 
 Certaines dépendances peuvent ne pas être installés, il faut les installer pour que l’installation complète puisse se faire.
-Si je télécharge un fichier .run (équivalent d’un fichier exécutable sous windows). Il faut que je lui donne des droits d’exécution sinon il ne pourra pas être utilisé :
+Si je télécharge un fichier .run (équivalent d’un fichier exécutable sous [[windows]]). Il faut que je lui donne des droits d’exécution sinon il ne pourra pas être utilisé :
 
 ```shell
 cd Téléchargements/
@@ -117,4 +117,4 @@ modifier `dhcp` en `static`
 `address 1.1.1.1`
 `netmask 255.0.0.0`
 `gateway 1.1.1.255`
-pour définir une adresse IP précise
+pour définir une adresse [[IP]] précise

@@ -9,7 +9,7 @@ Connaitre les adresses IP du réseau déjà utilisées :
 ## Ajout carte réseau sous VirtualBox
 ![[Capture d’écran 2022-02-18 110119.png]]
 
-## Configuration IP static
+## Configuration [[IP]] static
 ```shell
 ip a #afficher la configuration de mes cartes réseaux
 nano /etc/network/interfaces 
@@ -21,6 +21,6 @@ iface nomCarteReseau inet static
         gateway 192.168.1.1
 
 reboot now
-ip a #vérifier que mon ip est correcte
+ip a #vérifier que mon [[ip]] est correcte
 ```
 
