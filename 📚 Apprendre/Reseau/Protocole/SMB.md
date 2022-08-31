@@ -1,6 +1,6 @@
 [[Protocole]]
 # Server Message Block (SMB)
-Protocole client - serveur qui permet d’accéder à des ressources via le réseau., particulièrement des fichiers et des dossiers.
+[[Protocole]] client - serveur qui permet d’accéder à des ressources via le réseau., particulièrement des fichiers et des dossiers.
 On le retrouve essentiellement sur les réseaux locaux car il a été pensé pour cet usage.
 Né en 1985, il été connu sous le nom de CIFS (common internet file system).
 Client - Serveur qui permet d’accéder aux ressources (notamment les fichiers).

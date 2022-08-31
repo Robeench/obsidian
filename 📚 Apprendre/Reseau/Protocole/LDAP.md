@@ -1,8 +1,8 @@
 [[Protocole]], [[Active directory]]
 # Lightweight Directory Access Protocol (LDAP) 
-Protocole permettant de gérer des annuaires. Il repose sur le [[Modèle TCP IP]]. 
+[[Protocole]] permettant de gérer des annuaires. Il repose sur le [[Modèle TCP IP]]. 
 
-Port par défaut : 389 pour LDAP
+[[Port]] par défaut : 389 pour LDAP
 									636 pour LDAP over SSL
 
 Il contient tous les objets de chacune des classes : utilisateurs, ordinateurs, groupes ...
