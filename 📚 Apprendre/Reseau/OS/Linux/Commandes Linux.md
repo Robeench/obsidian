@@ -23,7 +23,7 @@
 `[nom de commande externe] --help` permet d’avoir plus d’informations sur ces options et caractères disponibles
 `history` affiche l’historique des commandes passées sur mon terminal
 	`![numéro de la commande dans l'history]` pour l’appeler
-`[[ip]] a` permet de configurer de manière dynamique mes cartes réseaux
+`ip a` permet de configurer de manière dynamique mes cartes réseaux
 `id` permet de relever les informations concernant le compte utilisateur connecté
 `less` affiche les données passées en paramètre, paginées directement sur le terminal.
 	`ESPACE` pour passer à la page suivante
@@ -70,7 +70,7 @@ Il est possible de cumuler les options sous la forme `ls -ltr` au lieu de `ls -l
 `$PATH` liste de répertoires dans lesquels sont rangés des commandes que je vais rechercher automatiquement
 
 # Divers
-## Les différents types de commande Linux
+## Les différents types de commande [[Linux]]
 ### Commandes internes
 Ces commandes sont livrées avec l'interpréteur de commandes directement, comme une primitive du shell. Elles sont disponibles à tout moment par l'administrateur du système. Cependant, il est probable que toutes ne soient pas forcément intégrées à l’interpréteur de commandes que vous allez utiliser. Il est également possible que leurs options ne soient pas toutes identiques non plus.
 

@@ -1,4 +1,4 @@
-[[OS]], [[Commandes Linux]]
+
 # Linux
 ## Configuration Linux
 Changer le nom de la machine :
@@ -18,7 +18,7 @@ Se connecter en [[SSH]] à un serveur distant depuis [[Windows]] :
 Partage de fichiers Linux :
 [Comment partager des fichiers entre [[Windows]] et Linux - phhsnews.com](https://www.phhsnews.com/how-to-share-files-between-windows-and-linux4290)
 
-Protocole [[SMB]]
+[[Protocole]] [[SMB]]
 [Le protocole SMB pour les débutants | IT-Connect](https://www.it-connect.fr/le-protocole-smb-pour-les-debutants/)
 [Consultation de fichiers sur un serveur ou un réseau partagé](https://help.gnome.org/users/gnome-help/stable/nautilus-connect.html.fr#urls)
 
@@ -50,7 +50,7 @@ Un émulateur de terminal permet de se connecter avec un protocole réseau sur l
 ### [[Windows]]
 [[Windows]]
 -   **PuTTY** est à la fois un émulateur de terminal et un client pour différents protocoles réseau tels que telnet, SFTP, [[SSH]], rlogin, et TCP.
--   **Windows Terminal**
+-   **[[Windows]] Terminal**
 
 ### MacOS
 [[MacOS]]

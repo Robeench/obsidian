@@ -1,4 +1,4 @@
-[[OS]] ,[[Windows]]
+
 # Commande [[Windows]]
 `cmd` ouvre l'invite de commande
 `ipconfig` liste les adresses [[IP]] utilisées sur mes différentes cartes réseaux

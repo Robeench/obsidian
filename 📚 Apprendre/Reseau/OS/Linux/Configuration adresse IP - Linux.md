@@ -1,5 +1,5 @@
-[[Linux]]
-# Configuration adresse [[IP]] - Linux
+
+# Configuration adresse [[IP]] - [[Linux]]
 Un serveur doit garder la même adresse [[IP]] (pas via un serveur [[DHCP]])
 
 ## Scan du réseau

@@ -1,4 +1,4 @@
-[[OS]], [[Commandes Windows]]
+
 # Windows
 ## Configuration Windows
 Couper les MAJ de windows update :

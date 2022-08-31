@@ -1,4 +1,4 @@
-[[Linux]]
+
 # Utilisateurs - [[Linux]]
 ## Création et suppression compte utilisateur
 Uniquement utilisable par l'utilisateur root
