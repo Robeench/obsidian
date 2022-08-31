@@ -1,7 +1,7 @@
 [[Protocole]]
 # Secure Sockets Layer (SSL) - Transport Layer Security (TLS)
 
-Protocole de sécurisation des échanges sur internet. 
+[[Protocole]] de sécurisation des échanges sur internet. 
 SSL est obsolète, on utilise désormais TLS
 
 Le chiffrement consiste à transformer les données en les rendant illisibles via un algorithme de chiffrement et une clé de chiffrement. 

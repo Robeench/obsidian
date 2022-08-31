@@ -1,8 +1,8 @@
 [[Protocole]]
 # SSH
-Port par défaut : 22, une bonne pratique consiste à changer le port d'écoute.
+[[Port]] par défaut : 22, une bonne pratique consiste à le changer
 
-Linux : serveur SSH
+[[Linux]] : serveur SSH
 Ma machine : client
 
 ## Administration distante et sécurisée
@@ -26,12 +26,12 @@ ssh utilisateur@127.0.0.1 -p 2222 #j'indique le n° du port
 ss -lntp | grep ssh
 ```
 
-### Gérer l'IP d'écoute du serveur
+### Gérer l'[[IP]] d'écoute du serveur
 ```shell
 nano /etc/ssh/sshd_config
 #en dessous des 2 lignes ListenAddress commentée, ajouter 
 ListenAddress 192.168.1.3 #j'indique l'IP qui écoute
-ListenAddress :: #si je souhaite ajouter l'adresse IPv6, inutile si non utilisé
+ListenAddress :: #si je souhaite ajouter l'adresse [[IPv6]], inutile si non utilisé
 reboot now
 ```
 
@@ -76,7 +76,7 @@ Utiliser le logiciel WinSCP : [Download WinSCP](https://winscp.net/eng/download.
 ### SCP - Secure Copy
 scp est le nom d'une commande permettant d'échanger des fichiers et dossiers entre un client SSH et un serveur SSH. 
 
-#### Entre deux machines Linux
+#### Entre deux machines [[Linux]]
 
 ![[ssh-scp-linux-01.jpg]]
 
@@ -98,14 +98,14 @@ scp -r -P 7256 /home/mickael/data/ root@192.168.10.131:/var/www/
 #-p chiffreDuPort permet de spécifier un port différent du port 22
 ```
 
-#### Avec un client Windows
+#### Avec un client [[Windows]]
 Utiliser le logiciel WinSCP : [Download WinSCP](https://winscp.net/eng/download.php)
 
-### SFTP - SSH File Transfert Protocole
+### SFTP - SSH File Transfert [[Protocole]]
 S'utilise exactement comme scp, le nom de commande devient sftp. 
 
 ### SSHFS - SSH File System
-Permet de monter un répertoire d'une machine linux sur une autre. Le client le verra instantanément et pourra agir dessus comme s'il s'agissait d'un répertoire local. 
+Permet de monter un répertoire d'une machine [[linux]] sur une autre. Le client le verra instantanément et pourra agir dessus comme s'il s'agissait d'un répertoire local. 
 
 ```bash
 apt-get install sshfs #installer sshfs
@@ -133,12 +133,12 @@ ls ~/.ssh #permet de voir les clés SSH
 ```
 
 ### Génération de la clef RSA 
-#### Linux
+#### [[Linux]]
 ```bash
 ssh-keygen #génère une clef RSA de 2048 bits
 ssh-keygen -b 4096 #-b permet de spécifier la taille de clef
 ```
-#### Windows
+#### [[Windows]]
 utiliser Putty
 
 ### Envoyer la clef sur le serveur
@@ -149,7 +149,7 @@ ssh-copy-id root@192.168.240.132
 ```
 
 ## Tunneling et encapsulation de protocole
-Un protocole non chiffré comme l'HTTP peut être encapsulé dans le protocole SSH pour passer un pare feu ou un proxy par exemple. Il sera ensuite désencapsulé à la destination. 
+Un protocole non chiffré comme l'[[HTTP]] peut être encapsulé dans le protocole SSH pour passer un pare feu ou un [[proxy]] par exemple. Il sera ensuite désencapsulé à la destination. 
 
 
 ## Commandes
