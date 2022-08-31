@@ -2,7 +2,7 @@
 # CSS 3
 Pour vérifier si mon navigateur peut lire une instruction : [https://www.caniuse.com/](https://www.caniuse.com/)
 
-## Formater mon texte
+## Formater du texte
 ```css
 font-size: 1em; /* modifier la taille relative du texte */
 font-family: nomdepolice1, nomdepolice2; /* changer la police */
