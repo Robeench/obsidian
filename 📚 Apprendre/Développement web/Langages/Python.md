@@ -1,4 +1,4 @@
-[[Langage]]
+
 # Python
 # Affichage du texte
 ```python

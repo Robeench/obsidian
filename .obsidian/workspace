@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Développement web/Langages/Javascript.md",
+            "file": "📚 Apprendre/Développement web/Git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/Javascript.md",
+                "file": "📚 Apprendre/Développement web/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/Javascript.md"
+                "file": "📚 Apprendre/Développement web/Git.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/Javascript.md",
+                "file": "📚 Apprendre/Développement web/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,15 +145,15 @@
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
+    "📚 Apprendre/Développement web/Langages/Python.md",
+    "📚 Apprendre/Développement web/Langages/Markdown.md",
+    "📚 Apprendre/Développement web/Langages/Javascript.md",
     "📚 Apprendre/Développement web/Langages/Java.md",
     "📚 Apprendre/Développement web/Langages/HTML 5.md",
     "📚 Apprendre/Développement web/Langages/CSS 3.md",
     "📚 Apprendre/Développement web/Langages/Langage.md",
     "Développement web.md",
     "❤ Home/Notes du jour/31.08.2022.md",
-    "❤ Home/Cadeaux.md",
-    "Notes du jour/31.08.2022 1.md",
-    "Day Planners/Day Planner-20220831.md",
-    "❤ Home/Notes du jour/30.08.2022.md"
+    "❤ Home/Cadeaux.md"
   ]
 }

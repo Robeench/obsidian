@@ -1,4 +1,4 @@
-[[Langage]]
+
 # Markdown
 https://michelf.ca/projets/php-markdown/syntaxe/
 

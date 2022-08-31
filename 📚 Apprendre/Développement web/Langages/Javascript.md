@@ -1,4 +1,4 @@
-[[Langage]]
+
 # Javascript
 ## Déclarez une variable
 ```jsx
@@ -505,7 +505,7 @@ for (let i in passengers) {
 
 i démarre automatiquement à zéro et s'incrémente à chaque boucle.
 
-### La boucle for ... of
+#### La boucle for ... of
 Lorsque l'indice précis d'un élément n'est pas nécessaire pendant l'itération, on utilise for ... of
 
 ```jsx
@@ -551,7 +551,7 @@ for (let passenger of passengers) {
 }
 ```
 
-## La boucle while
+### La boucle while
 Elle vérifie si une condition est vraie. Si c'est le cas elle se poursuit, sinon elle s'arrête.
 
 ```jsx
@@ -570,21 +570,21 @@ console.log(passengersBoarded); // imprime 8, car il y a 8 passagers pour 10 si�
 
 Cette boucle while poursuit son exécution jusqu'à ce que l'un des nombres seatsLeft et passengersStillTaBoard atteigne zéro. A ce point elle se termine.
 
-# Gérez des erreurs et des exceptions dans mon programme
+## Gérez des erreurs et des exceptions dans mon programme
 Ne pas faire d'erreur lorsqu'on code est pratiquement impossible. On distingue trois types d'erreurs
 
-## Les erreurs de syntaxe
+### Les erreurs de syntaxe
 ou erreur d'analyse.
 Elles surviennent quand je fais une faute d'écriture dans mon code. Il peut s'agir de l'oubli ou ajout d'un crochet, d'une faute d'ortographe ... Beaucoup d'éditeurs de texte mettent automatiquement en évidence les erreurs de syntaxe/
 
-## Les erreurs de logique
+### Les erreurs de logique
 -   affectation d'une valeur erronnée à une variable
 -   mélange de conditions dans les instructions if
 -   ordre incorrect d'écriture des lignes ou des blocs de code
 
 Avec ce genre d'erreur mon programme peut avoir un comportement inattendu voire complètement planter.
 
-## Les erreurs d'exécutions
+### Les erreurs d'exécutions
 Elles surviennent quand quelque chose d'inattendu se produit dans mon application. Il s'agit souvent de quelque chose associée aux ressources extérieures ou à une saisie/erreur humaine.
 
 Parfois, on sait à l'avance que ce type d'erreur est susceptible de survenir, on peut prévoiri du code de traitement d'erreur. Une façon de traiter les erreurs potentielles consiste à utiliser une instruction if/else pour vérifier la validité des données.
@@ -607,8 +607,8 @@ try {
 }
 ```
 
-# Travaillez sur les fonctions
-## Comprendre les fonctions
+## Travaillez sur les fonctions
+### Comprendre les fonctions
 Une fonction est un bloc de code auquel j'attribue un nom. Quand j'appelle cette fonction, elle exécute le code qu'elle contient. Par exemple console.log() permet d'imprimer sur la console.
 
 ```jsx
@@ -639,11 +639,11 @@ Si j'ai un fonction qui compte le nombre de mots dans une chaine :
 -   l'argument sera toute chaine attribuée à une fonction quand je l'appelle
 -   la valeur de retour sera le nombre de mots
 
-# Définir des méthodes d'instance et des propriétés
+## Définir des méthodes d'instance et des propriétés
 Propriété de classe = attribut de classe
 C'est une variable interne à une classe que l'on peut définir par défaut et faire évoluer au fur et à mesure du code. On peut ensuite exploiter ces propriétés pour afficher leurs valeurs, les utiliser pour des calculs, les modifier, etc.
 
-## Tirez parti des classes avec des méthodes d'instance
+### Tirez parti des classes avec des méthodes d'instance
 On peut ajouter des méthodes d'instance aux classes, pour augmenter leur puissance et leur utilité.
 
 Une méthode d'instance est une fonction faisant partie d'une classe, et qui agit sur cette instance de classe.
@@ -713,7 +713,7 @@ this.showBalance();
 
 Dans le corps d'une classe, this fait référence à l'instance créée de la classe.
 
-## Découvrir les méthodes statiques
+### Découvrir les méthodes statiques
 Elle est différente des méthodes d'instance car elle n'est pas liée à une instance particulière, mais à la classe elle-même. Elle sert à créer des méthodes utilitaires (= helper). Par exemple l'objet Math en Javascript contient beaucoup de méthodes utiles :
 
 ```jsx
@@ -747,12 +747,12 @@ BePolite.sayHelloTo("Will"); // imprime "Hello Will!""
 const sum = BePolite.add(2, 3); // sum = 5
 ```
 
-## C'est quoi le DOM ?
+### C'est quoi le DOM ?
 DOM = Document Objet Model, c'est une interface de programmation qui représente une page HTML permettant d'accéder à ses éléments et de les modifier avec Javascript.
 
 Chaque élément de notre DOM est un objet Javascript avec ses propriétés et fonctions pour le manipuler. On doit d'abord retrouver des éléments eu sein de notre page HTML :
 
-### Recherches depuis le document
+#### Recherches depuis le document
 
 ```jsx
 const element = document.getElementById("mon-ancre");
@@ -761,7 +761,7 @@ const element = document.getElementsByTagName("div");
 const element = document.querySelector("mon-ancre p.article > a" /// fera une recherche dans l'élément ayant pour id  #myId , les éléments de type  <p>  qui ont pour classe  article , afin de récupérer le lien (  <a>  ) qui est un enfant direct (pas des enfants de ses enfants).
 ```
 
-### Recherches depuis un élément
+#### Recherches depuis un élément
 
 ```jsx
 element.children();
@@ -770,8 +770,8 @@ element.nextElementSibling();
 element.previousElementSibling();
 ```
 
-## Modifier les éléments du DOM
-### Créez le contenu d'un élément
+### Modifier les éléments du DOM
+#### Créez le contenu d'un élément
 
 Définir une valeur à innerHTML ou textContent remplace directement le contenu actuel de l'élément par celui que vous précisez.
 
@@ -788,7 +788,7 @@ textContent permet d'ajouter du texte :
 
 [element.textContent](https://developer.mozilla.org/fr/docs/Web/API/Node/textContent)
 
-### Modifiez des classes
+#### Modifiez des classes
 
 ```jsx
 elt.classList.add("nouvelleClasse");    // Ajoute la classe nouvelleClasse à l'élément
@@ -797,7 +797,7 @@ elt.classList.contains("nouvelleClasse");   // Retournera false car on vient de 
 elt.classList.replace("oldClass", "newClass"): // Remplacera oldClass par newClass si oldClass était présente sur l'élément
 ```
 
-### Changez le style
+#### Changez le style
 
 ```jsx
 elt.style.color = "#fff";      // Change la couleur du texte de l'élément en blanc
@@ -807,7 +807,7 @@ elt.style.fontWeight = "bold"; // Met le texte de l'élément en gras
 
 [HTMLElement.style](https://developer.mozilla.org/fr/docs/Web/API/ElementCSSInlineStyle/style)
 
-### Modifiez les attributs
+#### Modifiez les attributs
 
 ```jsx
 elt.setAttribute("type", "password");   // Change le type de l'input en un type password
@@ -817,7 +817,7 @@ elt.getAttribute("name");               // Retourne my-password
 
 [Element.setAttribute()](https://developer.mozilla.org/fr/docs/Web/API/Element/setAttribute)
 
-### Créez des éléments
+#### Créez des éléments
 
 ```jsx
 const newElt = document.createElement("div");
@@ -827,7 +827,7 @@ Un élément créé avec cette fonction ne fait pas encore partie du document, i
 
 [document.createElement](https://developer.mozilla.org/fr/docs/Web/API/Document/createElement)
 
-### Ajoutez des enfants
+#### Ajoutez des enfants
 
 ```jsx
 const newElt = document.createElement("div");
@@ -836,7 +836,7 @@ let elt = document.getElementById("main");
 elt.appendChild(newElt);
 ```
 
-### Supprimez et remplacez des éléments
+#### Supprimez et remplacez des éléments
 
 ```jsx
 const newElt = document.createElement("div");
@@ -851,14 +851,14 @@ elt.replaceChild(document.createElement("article"), newElt); // Remplace l'élé
 
 [element.removeChild](https://developer.mozilla.org/fr/docs/Web/API/Node/removeChild)
 
-## Ecoutez des événements
+### Ecoutez des événements
 
 Un événement est une réaction à une action émise par l'utilisateur. En JavaScript c'est représenté par un nom ( click , mousemove ...) et une fonction que l'on nomme une callback.
 Pour écouter un événement : addEventListener()
 Type d'événements :
 [Référence des événements](https://developer.mozilla.org/fr/docs/Web/Events)
 
-### Réaction à un clic
+#### Réaction à un clic
 ```jsx
 const elt = document.getElementById('mon-lien'); // On récupère l'élément sur lequel on veut détecter le clic
 elt.addEventListener('click', function() { // On écoute l'événement click
