@@ -26,6 +26,23 @@ Pour trouver des polices cool en libre-service :
 Pour la taille des éléments, utiliser REM :
 [Unité de mesure CSS : REM | Le blog d'Adfab](https://connect.adfab.fr/dev/dev-front/unite-de-mesure-css-rem)
 
+Modifier la capitalisation d'un texte :
+
+```css
+text-transform : capitalize; /*première lettre en capitale*/
+text-transform : uppercase; /*en majuscules*/
+text-transform : lowercase; /*en minuscules*/
+text-transform : none;
+```
+
+## Liste
+```css
+ul { 
+list-style-type: none; /*enlever le style d'une liste*/
+list-style-image: url("images/icone.jpg"); /*mettre une image comme puce*/
+} 
+```
+
 ## Couleur et fond
 ```css
 color: #FFFFFF; /* couleur du texte en hexadécimal */
@@ -94,25 +111,7 @@ background: var(--penguin-skin, black); /*ajout d'une couleur si jamais le navig
 
 ```
 
-## Texte
-Modifier la capitalisation d'un texte :
-
-```css
-text-transform : capitalize; /*première lettre en capitale*/
-text-transform : uppercase; /*en majuscules*/
-text-transform : lowercase; /*en minuscules*/
-text-transform : none;
-```
-
-## Liste
-```css
-ul { 
-list-style-type: none; /*enlever le style d'une liste*/
-list-style-image: url("images/icone.jpg"); /*mettre une image comme puce*/
-} 
-```
-
-# Réglage du remplissage d'un élément
+## Réglage du remplissage d'un élément
 
 ```css
 p {
@@ -180,8 +179,7 @@ word-wrap: break-word;
 
 ```
 
-# Flexbox
-## Un conteneur, des éléments
+## Flexbox
 
 ```css
 <div id="conteneur">
@@ -192,7 +190,6 @@ word-wrap: break-word;
 
 ```
 
-## Soyez flex !
 ```css
 #conteneur
 {
@@ -200,7 +197,7 @@ word-wrap: break-word;
 }
 ```
 
-## La direction
+### Direction
 ```css
 #conteneur {
     display: flex;
@@ -211,7 +208,7 @@ word-wrap: break-word;
 }
 ```
 
-## Le retour à la ligne
+### Retour à la ligne
 
 ```css
 #conteneur {
@@ -222,7 +219,7 @@ word-wrap: break-word;
 }
 ```
 
-## Alignement
+### Alignement
 Les éléments sont organisés horizontalement (par défaut) ou verticalement = c'est l'axe principal.
 Il y a aussi un axe secondaire = **cross axis**
 -   si mes éléments sont organisés horizontalement, l'axe secondaire est VERTICAL.
@@ -269,7 +266,7 @@ Il est possible de faire une exception pour un seul des éléments sur l'axe sec
 }
 ```
 
-## Répartir plusieurs lignes
+### Répartir plusieurs lignes
 Si on a plusieurs lignes dans une Flexbox, on peut choisir comment elles seront réparties avec **align-content**.
 
 ```css
@@ -284,7 +281,7 @@ Si on a plusieurs lignes dans une Flexbox, on peut choisir comment elles seront 
 	}
 ```
 
-## Ordre des éléments
+### Ordre des éléments
 ```css
 .element:nth-child(1)
 {
@@ -301,7 +298,7 @@ Si on a plusieurs lignes dans une Flexbox, on peut choisir comment elles seront 
 ```
 Les éléments sont automatiquement triés du plus petit au plus grand nombre.
 
-## Faire grossir ou maigrir les éléments
+### Faire grossir ou maigrir les éléments
 ```css
 .element:nth-child(2)
 {
@@ -322,7 +319,7 @@ Cela permet à un élément de grossir pour occuper tout l'espace restant. Le no
 
 La propriété flex est une super-propriété qui combine flex-grow (capacité à grossir), flex-shrink (capacité à maigrir) et flex-basis (taille par défaut).
 
-## Tableau
+### Tableau
 ```css
 border-collapse: collapse; /*bordures du tableau html collées entre elles*/
 border-collapse: separate; /*bordures du tableau html dissociés*/
