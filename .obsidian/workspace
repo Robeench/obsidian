@@ -7,9 +7,11 @@
         "id": "18227a99e47d9824",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "❤ Home/Voir/Films d'automne.jpg"
+            "file": "❤ Home/Notes du jour/31.08.2022.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/Voir/Films d'automne.jpg",
+                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❤ Home/Voir/Films d'automne.jpg"
+                "file": "❤ Home/Notes du jour/31.08.2022.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/Voir/Films d'automne.jpg",
+                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d85cf4ebcdb3fcb",
+  "active": "18227a99e47d9824",
   "lastOpenFiles": [
-    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
+    "❤ Home/Notes du jour/30.08.2022.md",
+    "❤ Home/Notes du jour/31.08.2022.md",
+    "❤ Home/Cadeaux.md",
     "❤ Home/Voir/Films d'automne.jpg",
+    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
     "❤ Home/Voir/Films en automne.md",
     "Telechargements/Pasted image 20220513112542.png",
     "Telechargements/Pasted image 20220519145118.png",
     "Telechargements/schema-xforwarding-01-730x319.jpg",
-    "Telechargements/ssh-scp-linux-01.jpg",
-    "Telechargements/Pasted image 20220512091144.png",
-    "Telechargements/cle-asymetrique.png",
-    "Telechargements/Capture d’écran 2022-05-05 121803.png"
+    "Telechargements/ssh-scp-linux-01.jpg"
   ]
 }
