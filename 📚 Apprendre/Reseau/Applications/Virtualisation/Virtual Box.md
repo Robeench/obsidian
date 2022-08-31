@@ -1,11 +1,11 @@
 [[Virtualisation]], [[Applications]]
 # VirtualBox
-VM Windows 10 directement sur le site de Microsoft : 
+VM [[Windows]] 10 directement sur le site de Microsoft : 
 [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
 ## Guest Additions
 
-### Sous Linux
+### Sous [[Linux]]
 [how-to-install-virtualbox-guest-additions-on-debian-10/](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-on-debian-10/)
 
 ```shell
@@ -23,5 +23,5 @@ sh ./VBoxLinuxAdditions.run --nox11
 shutdown -r now
 ```
 
-### Sous Windows
+### Sous [[Windows]]
 https://lecrabeinfo.net/virtualbox-installer-les-additions-invite-guest-additions.html#sur-une-machine-virtuelle-windows

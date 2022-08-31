@@ -30,4 +30,4 @@ git branch -D nomDeLaBranche #supprime une branche non fusionnée
 git push #ajouter sous GitHub
 ```
 
-[How to SSH into GitHub to commit, push, pull via VSCode](https://cdn.discordapp.com/attachments/942400007758299156/942415690290319360/VSCode_SSH__GitHub.pdf)
+[How to [[SSH]] into GitHub to commit, push, pull via VSCode](https://cdn.discordapp.com/attachments/942400007758299156/942415690290319360/VSCode_SSH__GitHub.pdf)
