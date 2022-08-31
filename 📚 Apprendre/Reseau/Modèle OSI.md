@@ -1,4 +1,4 @@
-[[Modèle TCP IP]]
+
 # Modèle OSI
 Ce modèle est créé en 1984. C'est une norme préconisant la manière dont les machines communiquent entre elles. C'est un modèle théorique. Le modèle réel utilisé est le [[Modèle TCP IP]].
 C'est un modèle en 7 couches. Chaque couche est indépendante, cela garantit qu'elles sont interchangeables. Chaque couche communique uniquement avec celles qui lui sont adjacentes. 

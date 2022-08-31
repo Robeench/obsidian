@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
+            "file": "📚 Apprendre/Reseau/Hardware/GPU.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
+                "file": "📚 Apprendre/Reseau/Hardware/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md"
+                "file": "📚 Apprendre/Reseau/Hardware/GPU.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
+                "file": "📚 Apprendre/Reseau/Hardware/GPU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -138,23 +138,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18227a99e47d9824",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
+    "📚 Apprendre/Reseau/Hardware/RAM.md",
+    "❤ Home/Notes du jour/31.08.2022.md",
+    "❤ Home/Cadeaux.md",
+    "❤ Home/Lire/affiche_feminisme.pdf",
+    "❤ Home/Ecouter/Méditation bonheur.mp3",
+    "❤ Home/Ecouter/Jeanne Tonique.png",
+    "📚 Apprendre/Reseau/Modèle TCP IP.md",
+    "📚 Apprendre/Reseau/Modèle OSI.md",
     "📚 Apprendre/Reseau/Protocole/VPN.md",
-    "📚 Apprendre/Reseau/Protocole/RFC 1918.md",
-    "📚 Apprendre/Reseau/Protocole/Protocole.md",
-    "📚 Apprendre/Reseau/Protocole/NTP.md",
-    "📚 Apprendre/Reseau/Protocole/NAT.md",
-    "MacOS.md",
-    "📚 Apprendre/Reseau/Protocole/Ethernet.md",
-    "📚 Apprendre/Reseau/Protocole/DNS.md",
-    "📚 Apprendre/Reseau/Protocole/DMZ.md",
-    "📚 Apprendre/Reseau/Protocole/DHCP.md"
+    "📚 Apprendre/Reseau/Protocole/SSL - TLS.md"
   ]
 }

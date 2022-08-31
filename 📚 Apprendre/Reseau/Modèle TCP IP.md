@@ -1,4 +1,4 @@
-[[Modèle OSI]]
+
 # Modèle TCP / IP
 ## Couche 1 - Accès au réseau
 Correspond aux couches Liaison et Physique du [[Modèle OSI]].

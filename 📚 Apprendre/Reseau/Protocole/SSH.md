@@ -1,4 +1,4 @@
-[[Protocole]]
+
 # SSH
 [[Port]] par défaut : 22, une bonne pratique consiste à le changer
 
@@ -31,7 +31,7 @@ ss -lntp | grep ssh
 nano /etc/ssh/sshd_config
 #en dessous des 2 lignes ListenAddress commentée, ajouter 
 ListenAddress 192.168.1.3 #j'indique l'IP qui écoute
-ListenAddress :: #si je souhaite ajouter l'adresse [[IPv6]], inutile si non utilisé
+ListenAddress :: #si je souhaite ajouter l'adresse IPv6, inutile si non utilisé
 reboot now
 ```
 
