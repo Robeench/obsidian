@@ -19,6 +19,7 @@ logiciel d'enregistrement : risen studio
 nouvelle basse (la même que violette)
 kayak
 visiter Giverny
+Salopette en velours côtelé
 
 **Pour moi**
 Kit de feutres pour dessiner
