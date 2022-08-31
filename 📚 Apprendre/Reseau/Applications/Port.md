@@ -1,9 +1,9 @@
 [[Applications]], [[IP]], [[Protocole]]
 # Port
-Lors de l'envoi de paquets, l'adresse IP permet de retrouver uniquement le serveur hébergeant mais pas l'application concernée. 
+Lors de l'envoi de paquets, l'adresse [[IP]] permet de retrouver uniquement le serveur hébergeant mais pas l'application concernée. 
 Chaque application a un numéro de ports attribuée. 
 
-La combinaison adresse IP + n° de port est appelée SOCKET. C'est une adresse unique. 
+La combinaison adresse [[IP]] + n° de port est appelée SOCKET. C'est une adresse unique. 
 Les données sont alors envoyées au bon endroit.
 
 Il existe 65 535 ports.

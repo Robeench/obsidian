@@ -6,7 +6,7 @@ Il exécute des tâches simples et sa force réside dans sa vitesse d'exécution
 Les deux principaux fabricants de processeurs sont Intel et Advanced Micro Devices (AMD).
 Lorsqu'on choisit un processeur, le but est d'équilibrer les coûts et performances. Il est défini par plusieurs caractéristiques : 
 - fabricant : dépend de la préférence de la marque, du ratio coût/performance, de la disponibilité
-- type de socket : (= broches). Elle doit être compatible avec le socket du CPU de la carte mère
+- type de socket : (= broches). Elle doit être compatible avec le socket du CPU de la [[carte mère]]
 
 ![Socket 1150 Intel. Source : Rainer Knäpper, Free Art License](https://user.oc-static.com/upload/2021/09/21/16322241629743_AM4%202.jpeg)
 
@@ -17,5 +17,5 @@ Lorsqu'on choisit un processeur, le but est d'équilibrer les coûts et performa
 - génération
 - coût / performance
 - hyperthreading : CPU qui charge un coeur avec deux tâches en simultané. Un CPU à 2 coeurs passe donc pour un CPU à 4 coeurs. Ils sont souvent moins chers, mais la performance n'est pas la même.
-- fonctionnalités du processeur : par exemple l'édition d'image, l'IA, la cryptographie, la virtualisation.
-- GPU intégrés à la carte mère : si un GPU intégré suffit, il faut vérifier que la carte mère le propose. 
+- fonctionnalités du processeur : par exemple l'édition d'image, l'IA, la cryptographie, la [[virtualisation]].
+- GPU intégrés à la [[carte mère]] : si un GPU intégré suffit, il faut vérifier que la [[carte mère]] le propose. 

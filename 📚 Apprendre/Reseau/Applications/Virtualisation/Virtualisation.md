@@ -30,7 +30,7 @@ Les hyperviseurs de type 1 sont utilisés en entreprise pour  :
 -   créer des VM de préproduction pour les tester en environnement réel avant de les mettre en production.
 
 ## Fichiers ISO
-VM Windows 10 directement sur le site de Microsoft : 
+VM [[Windows]] 10 directement sur le site de Microsoft : 
 [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
 ## Guest Additions

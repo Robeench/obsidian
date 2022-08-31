@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Reseau/Applications/Virtualisation/Virtual Box.md",
+            "file": "📚 Apprendre/Reseau/Hardware/Switch.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Reseau/Applications/Virtualisation/Virtual Box.md",
+                "file": "📚 Apprendre/Reseau/Hardware/Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Reseau/Applications/Virtualisation/Virtual Box.md"
+                "file": "📚 Apprendre/Reseau/Hardware/Switch.md"
               }
             }
           },
@@ -115,8 +115,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Reseau/Applications/Virtualisation/Virtual Box.md",
-                "linksCollapsed": false,
+                "file": "📚 Apprendre/Reseau/Hardware/Switch.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -146,15 +146,15 @@
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
-    "📚 Apprendre/Reseau/Applications/OVH/Lier un domaine à un hébergement.md",
-    "📚 Apprendre/Lire/Bibliographie & webographie.md",
-    "📚 Apprendre/Développement web/Git.md",
-    "📚 Apprendre/Développement web/Langages/Python.md",
-    "📚 Apprendre/Développement web/Langages/Markdown.md",
-    "📚 Apprendre/Développement web/Langages/Javascript.md",
-    "📚 Apprendre/Développement web/Langages/Java.md",
-    "📚 Apprendre/Reseau/Applications/OVH/OVH.md",
-    "📚 Apprendre/Développement web/Langages/HTML 5.md",
-    "📚 Apprendre/Développement web/Langages/CSS 3.md"
+    "📚 Apprendre/Reseau/Hardware/Routeur.md",
+    "📚 Apprendre/Reseau/Hardware/Processeur - CPU.md",
+    "📚 Apprendre/Reseau/Hardware/Mémoire vive - RAM.md",
+    "📚 Apprendre/Reseau/Hardware/Hardware.md",
+    "📚 Apprendre/Reseau/Hardware/Disque dur.md",
+    "📚 Apprendre/Reseau/Hardware/Carte mère.md",
+    "📚 Apprendre/Reseau/Hardware/Carte graphique - GPU.md",
+    "📚 Apprendre/Reseau/Hardware/BIOS.md",
+    "📚 Apprendre/Reseau/Hardware/Type de réseaux/WAN.md",
+    "📚 Apprendre/Reseau/Hardware/Type de réseaux/PAN.md"
   ]
 }
