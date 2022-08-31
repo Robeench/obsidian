@@ -1,4 +1,4 @@
-[[Port]]
+
 # Procotole
 Pour l'envoi de données entre deux machines, on utilise un même langage : un protocole applicatif.
 

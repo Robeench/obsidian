@@ -1,4 +1,4 @@
-[[Protocole]], [[IP]]
+
 # Network Address Translation (NAT)
 ![[Capture d’écran 2022-05-05 114652.png]]
 

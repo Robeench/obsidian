@@ -1,4 +1,4 @@
-[[Protocole]]
+
 # Active directory
 # Cours
 C'est un service d'annuaire [[LDAP]] pour les OS [[Windows]] utilisé pour stocker des informations relatives aux ressources réseau sur un domaine. 
@@ -22,7 +22,7 @@ Administration et gestion de la sécurité centralisée.
 Synchronisation de la base d'annuaire entre tous les contrôleurs de domaine (ils se répliquent entre eux à intervalles réguliers).
 
 #### Contrôleur de domaine
-Il traite les demandes d'authentification, veille à l'application des stratégies de groupe et stocke une copie de l'annuaire AD (nommée NTDS.dit). La réplication se fait via le protocole DFSR.
+Il traite les demandes d'authentification, veille à l'application des stratégies de groupe et stocke une copie de l'annuaire AD (nommée NTDS.dit). La réplication se fait via le [[protocole]] DFSR.
 Il doit rester actif et joignable depuis les postes clients. 
 Il implique la création du domaine, de la forêt et du premier site.
 Minimum 2 contrôleurs de domaine.

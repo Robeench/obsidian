@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Reseau/Protocole/IP/IPv4.md",
+            "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/IP/IPv4.md",
+                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/IP/IPv4.md"
+                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Reseau/Protocole/IP/IPv4.md",
+                "file": "📚 Apprendre/Reseau/Protocole/SSL - TLS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,15 +146,15 @@
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
-    "📚 Apprendre/Reseau/Protocole/IP/IP.md",
-    "📚 Apprendre/Reseau/OS/Linux/Linux.md",
-    "📚 Apprendre/Reseau/OS/Windows/Windows.md",
-    "📚 Apprendre/Reseau/OS/Windows/Commandes Windows.md",
-    "📚 Apprendre/Reseau/OS/Linux/Créer des utilisateurs - Linux.md",
-    "📚 Apprendre/Reseau/OS/Linux/Configuration adresse IP - Linux.md",
-    "📚 Apprendre/Reseau/OS/Linux/Commandes Linux.md",
-    "📚 Apprendre/Reseau/OS/Linux/Arborescence Linux.md",
-    "📚 Apprendre/Reseau/Hardware/Switch.md",
-    "📚 Apprendre/Reseau/Hardware/Routeur.md"
+    "📚 Apprendre/Reseau/Protocole/VPN.md",
+    "📚 Apprendre/Reseau/Protocole/RFC 1918.md",
+    "📚 Apprendre/Reseau/Protocole/Protocole.md",
+    "📚 Apprendre/Reseau/Protocole/NTP.md",
+    "📚 Apprendre/Reseau/Protocole/NAT.md",
+    "MacOS.md",
+    "📚 Apprendre/Reseau/Protocole/Ethernet.md",
+    "📚 Apprendre/Reseau/Protocole/DNS.md",
+    "📚 Apprendre/Reseau/Protocole/DMZ.md",
+    "📚 Apprendre/Reseau/Protocole/DHCP.md"
   ]
 }

@@ -1,4 +1,4 @@
-[[IP]]
+
 # IPv4
 La version 4 reste la plus utilisée, la version 6 devrait la remplacer.
 Notation décimale avec 4 valeurs comprises entre 0 et 255, séparées par des points. Sa longueur est de 32 bits soit 4 octets.
@@ -9,7 +9,7 @@ La notion de classe d'adresse [[IP]] a été utilisé pour distribuer des plages
 Il y a 5 classes différentes : A, B, C, D, E.
 [Classe d'adresse IP - Wikipédia](https://fr.wikipedia.org/wiki/Classe_d%27adresse_IP)
 
-### Adresses IP privées et publiques
+### Adresses [[IP]] privées et publiques
 #### Privées
 On peut les utiliser pour un équipement sur un réseau local. Elle ne peut pas être utilisée sur internet, car elles ne sont pas routées sur internet.
 Classe A = 10.0.0.0 à 10.255.255.255
@@ -40,13 +40,13 @@ Dernière adresse du réseau : tous les bits de la partie machine sont à 1 - ad
 Nombre d’adresses dans un réseau : 2 puissance nombrede0danslemasque
 
 #### Exemple entre 2 octets
-Adresse IP
+Adresse [[IP]]
 192.168.0.1 > **11000000.10101000**.00000000.00000001
 Masque de sous réseau
 255.255.0.0 > **11111111.11111111**.0000000.0000000
 
 #### Exemple au milieu d'1 octet
-Adresse IP
+Adresse [[IP]]
 192.168.0.1 > **11000000.10101000.0000**0000.00000001
 Masque de sous réseaux
 255.255.240.0 > **1111111.11111111.1111**0000.00000000

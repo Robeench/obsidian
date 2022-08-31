@@ -1,4 +1,4 @@
-[[IP]]
+
 # IPv6
 Notation hexadécimale avec 8 valeurs séparés par des ":"
 Sa longueur est de 128 bits, soit 16 octets.

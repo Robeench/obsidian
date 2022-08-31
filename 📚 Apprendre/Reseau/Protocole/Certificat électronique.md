@@ -1,4 +1,4 @@
-[[Protocole]], [[SSL - TLS]], [[HTTPS]]
+
 # Certificat électronique
 Ensemble de données contenant : 
 - une clé publique
