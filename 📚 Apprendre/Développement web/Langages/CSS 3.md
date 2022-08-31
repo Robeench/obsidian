@@ -1,4 +1,4 @@
-[[Développement web]], [[Langage]], [[HTML 5]]
+[[HTML 5]]
 # CSS 3
 Pour vérifier si mon navigateur peut lire une instruction : [https://www.caniuse.com/](https://www.caniuse.com/)
 

@@ -1,8 +1,8 @@
-[[Langage]]
+[[CSS 3]]
 # HTML 5
 HTML est un langage qui permet d'écrire et d'organiser le contenu de la page.
 
-# Base
+## Base
 ```html
 <!DOCTYPE html>
 <html lang="fr">
@@ -26,9 +26,8 @@ HTML est un langage qui permet d'écrire et d'organiser le contenu de la page.
 <button type="button">Click Me!</button>
 ```
 
-# Structurer sa page
-
-## Balises block et inline
+## Structurer sa page
+### Balises block et inline
 [Mémento des balises HTML](https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3/1608357-memento-des-balises-html)
 
 ```html
@@ -65,7 +64,7 @@ HTML est un langage qui permet d'écrire et d'organiser le contenu de la page.
 
 ![https://user.oc-static.com/files/343001_344000/343677.png](https://user.oc-static.com/files/343001_344000/343677.png)
 
-## Balises universelles
+### Balises universelles
 
 ```html
 <span></span> <!-- balise inline -->
@@ -74,7 +73,7 @@ HTML est un langage qui permet d'écrire et d'organiser le contenu de la page.
 
 Il faut TOUJOURS utiliser la balise la plus adaptée avant d'utiliser une balise universelle. Cela permet d'améliorer la position de ses pages au sein d'un résultat de recherche.
 
-# Liens
+## Liens
 ```html
 <a href="<https://openclassrooms.com>"> <!-- pour insérer un lien, la balise a avec l'attribut href qui indique l'adresse de la page cible -->
 <a href="page2.html"> <!-- lien vers une autre page de son site en écrivant le nom du fichier -->
@@ -82,7 +81,7 @@ Il faut TOUJOURS utiliser la balise la plus adaptée avant d'utiliser une balise
 <a href="#ancre"> <!-- lien vers une ancre -->
 ```
 
-# Images
+## Images
 Il existe plusieurs formats d'images adaptés au web :
 - JPEG : pour les photos
 - PNG : pour toutes les autres illustrations
@@ -94,7 +93,7 @@ Il existe plusieurs formats d'images adaptés au web :
 <figcaption></figcaption> <!-- insérer une légende au sein d'une figure -->
 ```
 
-# Formulaire
+## Formulaire
 ```html
 <form action="<https://freecatphotoapp.com/submit-cat-photo>"> <!--formulaire DATA via HTML-->
 	<input type="text" required <!--oblige à remplir le formulaire--> placeholder="cat photo url"<!--donnée pour l'utilisateur-->> 
@@ -111,7 +110,7 @@ Il existe plusieurs formats d'images adaptés au web :
 <input type="radio" name="test-name" checked> <!--coche d'office le bouton-->
 ```
 
-# Tableau
+## Tableau
 ```html
 <table> <!--tableau-->
 	<caption>Passagers du vol 377</caption> <!--titre du tableau-->
@@ -136,7 +135,7 @@ Il existe plusieurs formats d'images adaptés au web :
 
 ![https://user.oc-static.com/files/5001_6000/5706.png](https://user.oc-static.com/files/5001_6000/5706.png)
 
-## Diviser un tableau
+### Diviser un tableau
 ```html
 <thead></thead> <!--en-tête-->
 <tfoot></tfoot> <!--pied du tableau-->
@@ -145,7 +144,7 @@ Il existe plusieurs formats d'images adaptés au web :
 
 Il faut écrire les balises dans l'ordre ci-dessus.
 
-## Fusionner des cellules
+### Fusionner des cellules
 ```html
 <td colspan="2"> <!--fusion de colonnes : horizontalement-->
 <td rowspan="3"> <!--fusion de lignes : verticalement-->
@@ -206,7 +205,7 @@ Exemple verticale :
 
 ![https://user.oc-static.com/files/344001_345000/344374.png](https://user.oc-static.com/files/344001_345000/344374.png)
 
-# Formulaires
+## Formulaires
 La balise form comprend deux attributs :
 **method** = indique par quel moyen les données sont envoyées
 **get** = limitée à 255 caractères, envoyés dans l'adresse de la page.
@@ -220,7 +219,7 @@ La balise form comprend deux attributs :
 </form>
 ```
 
-## Zone de saisie simple
+### Zone de saisie simple
 
 Il existe deux zones de textes différentes :
 - monoligne : on ne peut y écrire qu'une seule ligne, sert à saisir des textes courts types pseudo, via **input**
@@ -262,8 +261,8 @@ On peut ajouter des attributs à **textearea** :
 **cols** = nombre de colonnes affichées simultanément
 On peut préremplir **textarea** avec une valeur par défaut, au lieu d'utiliser l'attribut **value**.
 
-## Elements d'options
-### **Cases à cocher**
+### Elements d'options
+#### **Cases à cocher**
 
 ```html
 <form method="post" action="traitement.php">
@@ -330,7 +329,7 @@ Format conteneur : boite qui permet de contenir les éléments ci-dessus
 codec audio : format du son de la vidéo
 codec vidéo : format qui compresse les images
 H.264 : l'un des plus puissants et utilisés mais n'est pas 100% gratuit
-Ogg Theora : codec gratuit et libre de droits mais moins puissant. Bien reconnu sous Linux, demande des programmes à installer sous Windows
+Ogg Theora : codec gratuit et libre de droits mais moins puissant. Bien reconnu sous [[Linux]], demande des programmes à installer sous [[Windows]]
 WebM : codec gratuit et libre de droits proposé par Google, concurrent le plus sérieux de H.264
 Pour convertir une vidéo dans ses différents formats :
 [Miro Video Converter](http://www.mirovideoconverter.com/)
