@@ -1,8 +1,6 @@
 [[Langage]]
 # Javascript
 ## Déclarez une variable
-Pour utiliser une variable, on doit la créer, c'est ce qu'on appelle "déclarer une variable"
-
 ```jsx
 let numberOfCats = 2;
 let numberOfDogs = 4;
