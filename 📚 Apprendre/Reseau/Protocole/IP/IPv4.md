@@ -5,7 +5,7 @@ Notation décimale avec 4 valeurs comprises entre 0 et 255, séparées par des p
 Exemple : 192.168.1.10
 
 ## Les classes
-La notion de classe d'adresse IP a été utilisé pour distribuer des plages d'adresses à des utilisateurs finaux. Elle est désormais obsolète, on utilise les masques de sous réseaux.
+La notion de classe d'adresse [[IP]] a été utilisé pour distribuer des plages d'adresses à des utilisateurs finaux. Elle est désormais obsolète, on utilise les masques de sous réseaux.
 Il y a 5 classes différentes : A, B, C, D, E.
 [Classe d'adresse IP - Wikipédia](https://fr.wikipedia.org/wiki/Classe_d%27adresse_IP)
 
@@ -26,7 +26,7 @@ Classe C = tout sauf de 192.168.1.0 à 192.168.255.255
 
 ### Exceptions
 Le réseau 127.0.0.0 est réservé pour la boucle locale, défini par défaut sur chaque machine.
-Le réseau 0.0.0.0 est réservé pour définir une route par défaut sur un routeur.
+Le réseau 0.0.0.0 est réservé pour définir une route par défaut sur un [[routeur]].
 
 ## Masque de sous-réseaux
 [IP Calculator](http://jodies.de/ipcalc)

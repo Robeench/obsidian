@@ -9,13 +9,13 @@ C'est une organisation hiérarchisée d'objets classée en 3 catégories :
 
 ## Contrôleur de domaine et domaine
 ### Modèle groupe de travail
-Les postes Windows sont par défaut dans un groupe de travail "WORKGROUP".
+Les postes [[Windows]] sont par défaut dans un groupe de travail "WORKGROUP".
 La base d'utilisateurs est locale, appelée base SAM.
 Inadapté lorsque le nombre de postes et d'utilisateurs augmente car lourd en administration.
 Simple à mettre en oeuvre pour le partage de fichiers entre quelques machines. 
 
 ### Modèle domaine
-Nécessite la mise en place d'un domaine Active Directory sous Windows Server. 
+Nécessite la mise en place d'un domaine Active Directory sous [[Windows]] Server. 
 Base d'utilisateurs, de groupes et d'ordinateurs centralisée.
 Ouverture d'une session unique par utilisateur.
 Administration et gestion de la sécurité centralisée.
@@ -40,7 +40,7 @@ Une forêt partage un schéma AD, un catalogue global, la communication entre le
 
 ### Le niveau fonctionnel
 Détermine les fonctionnalités des services de domaine AD. 
-Si le niveau fonctionnel est défini pour Windows Server 2008, les fonctionnalités seront bridés à ce niveau. Le niveau fonctionnel est toujours adapté au plus "ancien", sinon le serveur devient inutilisable. 
+Si le niveau fonctionnel est défini pour [[Windows]] Server 2008, les fonctionnalités seront bridés à ce niveau. Le niveau fonctionnel est toujours adapté au plus "ancien", sinon le serveur devient inutilisable. 
 Augmenter le niveau permet de débloquer de nouvelles fonctionnalités de l'AD, c'est indispensable dans le cadre d'une migration de l'AD. 
 Le retour arrière est impossible !
 
@@ -49,19 +49,19 @@ Il y a un niveau fonctionnel pour les domaines et pour la forêt.
 ## Les protocoles
 Utilisation des protocoles [[LDAP]], [[DNS]] et [[Kerberos]].
 
-### LDAP
+### [[LDAP]]
 voir [[LDAP]]
 
-### DNS
+### [[DNS]]
 Plusieurs enregistrements sont indispensables au bon fonctionnement de l'AD : 
 - pour localiser le "Primary Domain Controller"
 - pour localiser un contrôleur de domaine qui est un catalogue global
 - pour localiser les KDC du domaine
 - pour localiser les contrôleurs de domaine du domaine cible
-- pour la correspondance nom / adresse IP des différents contrôleurs de domaine
+- pour la correspondance nom / adresse [[IP]] des différents contrôleurs de domaine
 - pour les contrôleurs de domaine via le GUID pour assurer la localisation dans toute la forêt
 
-### Kerberos
+### [[Kerberos]]
 Chaque contrôleur de domaine dispose d'un service de distribution de clés de sécurité, on l'appelle le centre de distributions de clés (KDC). 
 
 #### Service d'authentification
@@ -134,7 +134,7 @@ Permet de gérer des clés et des certificats, c'est une autorité de certificat
 Par exemple : 
 - basculer en LDAPS
 - signer les cripts powershell
-- HTTPS pour les applications web d'entreprise
+- [[HTTPS]] pour les applications web d'entreprise
 - certificat pour le bureau à distance
 
 ### ADFS
@@ -148,7 +148,7 @@ Compatible avec la suite Office.
 
 ### ADLDS
 C'est un AD allégé car l'on peut créer un annuaire autonome sans créer de domaine. 
-Permet de créer une base d'utilisateurs pouvant être utilisé dans le cadre d'un processus d'authentification auprès de l'annuaire LDAP. 
+Permet de créer une base d'utilisateurs pouvant être utilisé dans le cadre d'un processus d'authentification auprès de l'annuaire [[LDAP]]. 
 Ces utilisateurs ne seront pas utilisables pour mettre en place du contrôle d'accès.
 
 ## Le catalogue global
@@ -261,14 +261,14 @@ Attention à nommer correctement mon serveur AD :
 
 ![[Pasted image 20220519145118.png]]
 
-2. Configurer une adresse IP fixe
-[Configurer une IP fixe sur Windows Server](https://guides.proxgroup.fr/docs/vps/vps-game/configurer-une-ip-fixe-sur-windows-server/)
+2. Configurer une adresse [[IP]] fixe
+[Configurer une [[IP]] fixe sur [[Windows]] Server](https://guides.proxgroup.fr/docs/vps/vps-game/configurer-une-ip-fixe-sur-windows-server/)
 
-3. Configurer que le contrôleur de domaine est son propre serveur DNS
+3. Configurer que le contrôleur de domaine est son propre serveur [[DNS]]
 127.0.01 = nomenclature pour lui dire de s'interroger soi-même
 
-4. Ajouter des PC Windows (PRO) à mon domaine
-[Ajouter un PC Windows dans un domaine AD](https://www.youtube.com/watch?v=-XUO_BeGRI8)
+4. Ajouter des PC [[Windows]] (PRO) à mon domaine
+[Ajouter un PC [[Windows]] dans un domaine AD](https://www.youtube.com/watch?v=-XUO_BeGRI8)
 
 ```powershell
 Add-Computer -DomainName nitou.corp

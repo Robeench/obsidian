@@ -3,11 +3,11 @@
 ## Couche 1 - Accès au réseau
 Correspond aux couches Liaison et Physique du [[Modèle OSI]].
 Protocole : Adresses MAC
-Matériels : Câbles ethernet, fibres, wifi, bluetooth
+Matériels : Câbles [[ethernet]], fibres, wifi, bluetooth
 
 ## Couche 2 - Internet
 Correspond à la couche Réseau du [[Modèle OSI]].
-Protocole : IP
+Protocole : [[IP]]
 
 ## Couche 3 - Transport
 Correspond à la couche Transport du [[Modèle OSI]].
@@ -15,7 +15,7 @@ Protocole : TCP, UDP
 
 ## Couche 4 - Application
 Correspond aux couches Application, Présentation et Session du [[Modèle OSI]].
-Protocole : DHCP, DNS, FTP, HTTP, SSH, SMTP...
+Protocole : [[DHCP]], [[DNS]], FTP, [[HTTP]], [[SSH]], SMTP...
 
 
 ## Encapsulation
