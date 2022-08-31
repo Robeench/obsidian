@@ -144,8 +144,6 @@ utiliser Putty
 ### Envoyer la clef sur le serveur
 ```bash
 ssh-copy-id root@192.168.240.132
-
-
 ```
 
 ## Tunneling et encapsulation de protocole
