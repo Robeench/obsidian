@@ -31,7 +31,7 @@ On branche les machines dessus à l’aide de la prise RJ45 :
 ![RJ45 mâle](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.hubo.be%2Fimg%2FCable-ethernet-RJ45-20m_904383_000_1920x1440.jpg%3Fbase%3Dimages%26sub%3Dhb0%26bottom%3Dh2c%26name%3D9139693977630.jpg%26context%3DbWFzdGVyfGltYWdlc3wxMTI1NjV8aW1hZ2UvanBlZ3xpbWFnZXMvaGIwL2gyYy85MTM5NjkzOTc3NjMwLmpwZ3w1ZTY2OWIzN2JmZDViMWVmNDZiNGM0ZTg0ZjIzMTJjNDNmMzI0Y2JhYzYzZTgwZWU4ZGRmNzlmYzFhMjAwNTcz%26attachment%3Dtrue&f=1&nofb=1)
 
 ![RJ45 femelle](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.leroymerlin.fr%2Fmultimedia%2F5a1400199913%2Fproduits%2Fadaptateur-rj45-categorie-5-femelle-femelle-evology.jpg&f=1&nofb=1)
-Switch : 
+[[Switch]] : 
 ![Switch](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Feu.dlink.com%2Ffr%2Ffr%2F-%2Fmedia%2Fproduct-pages%2Fdgs%2F105%2Fdgs105b1image-lfront.png&f=1&nofb=1)
 Lorsqu’il y a plusieurs machines connectées au hub, s’il reçoit une information il l’envoie à toutes les machines.
 
@@ -56,8 +56,8 @@ N’existe plus.
 Un « jeton » tourne en permanence sur l’anneau et les machines peuvent le prendre pour envoyer un message. Pas de possibilités d’une infinité de machine car un seul jeton pour tous. La taille du réseau doit aussi être limitée.
 
 ##### En étoile
-Toutes les machines sont branchées à une machine centrale (comme un switch) qui sait envoyer les informations à une machine en particulier.
-Toutes les communications passent par le point central. On envoie l’information et le point central aiguille vers la bonne machine. Plus le switch peut traiter un grand nombre de machines, plus on peut brancher de machines. Aujourd’hui, les switches peuvent traiter plusieurs milliers de machines. On peut faire un réseau de taille illimitée en reliant plusieurs switches entre eux, ainsi ils peuvent transmettre l’information jusqu’au destinataire.
+Toutes les machines sont branchées à une machine centrale (comme un [[switch]]) qui sait envoyer les informations à une machine en particulier.
+Toutes les communications passent par le point central. On envoie l’information et le point central aiguille vers la bonne machine. Plus le [[switch]] peut traiter un grand nombre de machines, plus on peut brancher de machines. Aujourd’hui, les switches peuvent traiter plusieurs milliers de machines. On peut faire un réseau de taille illimitée en reliant plusieurs switches entre eux, ainsi ils peuvent transmettre l’information jusqu’au destinataire.
 
 ### CSMA / CD
 Carrier Sense Multiple Access / Collision Detection
@@ -77,7 +77,7 @@ C'est l'adresse de ma carte réseau, écrite en hexadécimal. Chaque carte rése
 #### Calcul binaire
 Tout nombre décimal s'écrit comme une somme de puissance de 2. 
 [IP calculator](http://jodies.de/ipcalc)
-[IP calcul masque de sous réseaux](http://vlsmcalc.net/)
+[[[IP]] calcul masque de sous réseaux](http://vlsmcalc.net/)
 
 #### Calcul hexadécimal
 On utilise les chiffres de 0 à 9 et les lettres de A à F. 
@@ -87,17 +87,17 @@ Assure le routage des paquets entre les noeuds du réseau.
 Matériel : [[Routeur]]
 Protocole : [[IP]]
 ### Appréhendez la notion de réseau
-#### LAN
-LAN = Local Area Network
+#### [[LAN]]
+[[LAN]] = Local Area Network
 réseau à l'échelle locale, tels qu'un réseau domestique ou à l'échelle d'une entreprise.
 
-#### MAN
-MAN = Metropolitan Area Network
-déployés à l'échelle d'une ville. Par exemple un réseau universitaire qui connectent différentes facultés d'une même ville. Ils sont constitués de LAN qui ensemble, forment un MAN.
+#### [[MAN]]
+[[MAN]] = Metropolitan Area Network
+déployés à l'échelle d'une ville. Par exemple un réseau universitaire qui connectent différentes facultés d'une même ville. Ils sont constitués de [[LAN]] qui ensemble, forment un [[MAN]].
 
-#### WAN
-WAN = Wide Area Network
-Réseau à l'échelle mondiale, dont le plus connu est internet. Il est composé de MAN et de LAN.
+#### [[WAN]]
+[[WAN]] = Wide Area Network
+Réseau à l'échelle mondiale, dont le plus connu est internet. Il est composé de [[MAN]] et de [[LAN]].
 
 ### Distinguez schéma logique et schéma physique
 Le schéma logique permet de concevoir, modéliser et configurer mon réseau.
@@ -118,5 +118,5 @@ Elle encode, compresse, convertit et reformate les données.
 Non utilisé
 ## Couche 7 - Application
 Point d'accès pour l'utilisateur aux services applicatifs
-Matériel : proxy
+Matériel : [[proxy]]
 Protocole : SMTP, HTTP, FTP ...

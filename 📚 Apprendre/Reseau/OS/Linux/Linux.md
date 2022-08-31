@@ -73,9 +73,9 @@ Programme exécuté lors de la connexion de l’administrateur sur un terminal.
 
 Le rôle principal du shell est d'exécuter les commandes saisies par l'administrateur lui permettant d'effectuer des appels systèmes vers le noyau.Sous Linux, le shell standard est le **Bash** (pour Bourne Again Shell).
 
-Bash est un programme écrit en C, visant à respecter au maximum [les standards POSIX](https://standards.ieee.org/standard/1003_1-2017.html) concernant les interpréteurs de commandes. Il est livré en standard sur la plupart des distributions Linux SystemV/d (Les distributions BSD implémentent plutôt C Shell par défaut), il est compatible avec “presque toutes les versions de Unix” et est disponible également pour Windows !
+Bash est un programme écrit en C, visant à respecter au maximum [les standards POSIX](https://standards.ieee.org/standard/1003_1-2017.html) concernant les interpréteurs de commandes. Il est livré en standard sur la plupart des distributions Linux SystemV/d (Les distributions BSD implémentent plutôt C Shell par défaut), il est compatible avec “presque toutes les versions de Unix” et est disponible également pour [[Windows]] !
 
-# Comprendre l’arborescence Linux
+# Comprendre l’[[arborescence Linux]]
 La [fondation Linux](https://www.linuxfoundation.org/) est responsable du maintien de la norme définissant l’arborescence des systèmes Unix/Linux. Cette norme est appelée **[FHS** pour **Filesystem Hierarchy Standard** et est disponible sous plusieurs formats](http://refspecs.linuxfoundation.org/fhs.shtml).
 
 Ce document recense
@@ -116,7 +116,7 @@ D'un système à l'autre, les éléments contenus dans ce répertoire sont cens�
 Il stocke toutes les informations utilisateurs, administrateurs et systèmes variables.
 Normalement, avec une utilisation classique de **`/var`**,**`/usr`** devrait pouvoir être utilisé en lecture seule ! Ce qui est un gage de sécurité très important.
 Quelques sous-répertoires de `/var` :
--   **`/var/log`**: répertoire contenant l'arborescence de toutes les traces systèmes et applicatives. C'est dans ce répertoire qu'il est possible de consulter les traces des historiques de démarrage du système, de connexion des comptes utilisateurs, d'activité des services réseaux (SSH, HTTPD, SMTP, etc.) ainsi que les traces du noyau. Généralement les applications installées sur le système disposent de leur propre sous-répertoire (**`/var/log/apache2`**par exemple).
+-   **`/var/log`**: répertoire contenant l'arborescence de toutes les traces systèmes et applicatives. C'est dans ce répertoire qu'il est possible de consulter les traces des historiques de démarrage du système, de connexion des comptes utilisateurs, d'activité des services réseaux ([[SSH]], HTTPD, SMTP, etc.) ainsi que les traces du noyau. Généralement les applications installées sur le système disposent de leur propre sous-répertoire (**`/var/log/apache2`**par exemple).
 -   **`/var/run`**: répertoire contenant toutes les données relatives aux processus en cours d'exécution, les sémaphores, les données applicatives, les fichiers numéro de processus, etc.
 -   **`/var/spool`**: répertoire contenant des données stockées de manière temporaire entre processus. Souvent, ce répertoire est utilisé pour stocker des données relatives à des actions ou tâches à effectuer dans un futur proche par les processus en cours d'exécution.
 -   **`/var/mail`**: c'est le répertoire de stockage des messageries électroniques locales des comptes utilisateurs du système.
@@ -153,7 +153,7 @@ Pour manipuler ces canaux, il est nécessaire d'utiliser les caractères représ
 [GNU Emacs Reference Card](https://studylib.net/doc/8133095/gnu-emacs-reference-card)
 
 ## Nano
-Idéal lorsqu’on vient du monde de Windows :
+Idéal lorsqu’on vient du monde de [[Windows]] :
 -   les fonctionnalités d'édition sont classiques,
 -   pas de distinction entre mode commande et mode saisie,
 -   à l'ouverture de nano, vous êtes prêt à saisir,
@@ -177,7 +177,7 @@ Un fichier est une structure de langage C définie directement au niveau du code
 Structure de l’inode (= fichier) :
 
 ### Blocs directs
-Composé de 12 champs, ils contiennent les adresses directes des données du fichier sur le périphérique de type blocs les contenant (disque dur, clé USB ...)
+Composé de 12 champs, ils contiennent les adresses directes des données du fichier sur le périphérique de type blocs les contenant ([[disque dur]], clé USB ...)
 
 ### Blocs indirects
 Ces champs contiennent les pointeurs vers d’autres inodes dont la totalité des champs est adressée pour des blocs de données.

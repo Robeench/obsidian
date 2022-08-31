@@ -10,5 +10,5 @@ Couper la sécurité renforcée d'internet explorer :
 Mettre l'ordinateur dans un réseau privé (pas public, ni domaine) :
 [How to Change a Wi-Fi Network From Public to Private in](https://www.alphr.com/how-to-change-a-wi-fi-network-from-public-to-private-in-windows-10/)
 
-Mettre une IP fixe à cet ordinateur, avec un DNS et une passerelle :
+Mettre une [[IP]] fixe à cet ordinateur, avec un [[DNS]] et une passerelle :
 [Windows 10 : configurer une adresse IP fixe](https://www.windows8facile.fr/w10-adresse-ip-fixe/)
