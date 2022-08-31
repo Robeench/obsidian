@@ -77,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "❤ Home/Notes du jour/31.08.2022.md"
+              }
             }
           },
           {
@@ -112,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +144,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d0a73622232b9318",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
+    "Notes du jour/31.08.2022 1.md",
     "❤ Home/Notes du jour/31.08.2022.md",
     "Day Planners/Day Planner-20220831.md",
     "❤ Home/Notes du jour/30.08.2022.md",
@@ -150,7 +155,6 @@
     "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
     "❤ Home/Voir/Films en automne.md",
     "Telechargements/Pasted image 20220513112542.png",
-    "Telechargements/Pasted image 20220519145118.png",
-    "Telechargements/schema-xforwarding-01-730x319.jpg"
+    "Telechargements/Pasted image 20220519145118.png"
   ]
 }
