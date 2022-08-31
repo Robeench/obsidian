@@ -15,7 +15,7 @@ L'algorithme de chiffrement est une méthode de chiffrement.
 Pour échanger des données, Alice et Bob ont une même clé secrète. Pour envoyer un message qui sera uniquement lu par Bob, Alice le chiffre avec sa clé secrète, l'envoie à Bob et Bob le déchiffre avec la clé secrète. Pour répondre de manière sécurisée, Bob peut le faire de la même manière. 
 Il y a une seule clé pour chiffrer et déchiffrer un message.
 **Inconvénients** : l'échange des clés doit se faire sur un canal sécurisé.
-**Avantages** : peu gourmand en ressource [[Processeur - CPU]]
+**Avantages** : peu gourmand en ressource [[CPU]]
 
 
 ## Cryptographie asymétrique
@@ -24,7 +24,7 @@ Quand l'utilisateur chiffre avec la première clé, il peut déchiffrer avec la 
 La clé privée n'est JAMAIS transmise à personne. 
 On diffuse la clé publique. 
 Le chiffrement se fait avec la clé publique, et seule la personne avec la clé privée liée peut déchiffrer le message.
-**Inconvénients** : demande de grosses ressources [[Processeur - CPU]]
+**Inconvénients** : demande de grosses ressources [[CPU]]
 
 
 On passe ensuite de la cryptographie asymétrique à la cryptographie symétrique car l'asymétrique est trop gourmand en ressources. La cryptographie asymétrique permet d'échanger la clé privée puis, utilisation de la cryptographie symétrique pour la rapidité du chiffrement.

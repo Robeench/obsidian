@@ -18,4 +18,4 @@ Lorsqu'on choisit un processeur, le but est d'équilibrer les coûts et performa
 - coût / performance
 - hyperthreading : CPU qui charge un coeur avec deux tâches en simultané. Un CPU à 2 coeurs passe donc pour un CPU à 4 coeurs. Ils sont souvent moins chers, mais la performance n'est pas la même.
 - fonctionnalités du processeur : par exemple l'édition d'image, l'IA, la cryptographie, la [[virtualisation]].
-- GPU intégrés à la [[carte mère]] : si un GPU intégré suffit, il faut vérifier que la [[carte mère]] le propose. 
+- [[GPU]] intégrés à la [[carte mère]] : si un [[GPU]] intégré suffit, il faut vérifier que la [[carte mère]] le propose. 
