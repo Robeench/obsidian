@@ -261,7 +261,7 @@ On peut ajouter des attributs à **textearea** :
 **cols** = nombre de colonnes affichées simultanément
 On peut préremplir **textarea** avec une valeur par défaut, au lieu d'utiliser l'attribut **value**.
 
-### Elements d'options
+### Éléments d'options
 #### **Cases à cocher**
 
 ```html
@@ -283,7 +283,7 @@ Pour qu'une case soit cachée par défaut, l'attribut **checked** :
 <input type="checkbox" name="choix" checked />
 ```
 
-### Regrouper les champs
+#### Regrouper les champs
 
 ```html
 <form method="post" action="traitement.php">
@@ -303,10 +303,10 @@ Pour qu'une case soit cachée par défaut, l'attribut **checked** :
    </fieldset>
 ```
 
-### Attributs divers
+#### Attributs divers
 On peut placer automatiquement le curseur dans un champ du formulaire avec l'attribut autofocus.
 Champ obligatoire = required
-### Bouton d'envoi
+#### Bouton d'envoi
 
 ```html
 <input type="submit" value="Envoyer" action="#"/>
@@ -317,14 +317,14 @@ Champ obligatoire = required
 
 ```
 
-# Audio et vidéo
-## Formats audio
+## Audio et vidéo
+### Formats audio
 MP3 : le plus vieux, et le plus compatible
 AAC : utilisé majoritairement par Apple sur Itunes
 Ogg : format libre
 WAV : format non compressé
 
-## Formats vidéo
+### Formats vidéo
 Format conteneur : boite qui permet de contenir les éléments ci-dessus
 codec audio : format du son de la vidéo
 codec vidéo : format qui compresse les images
@@ -334,7 +334,7 @@ WebM : codec gratuit et libre de droits proposé par Google, concurrent le plus 
 Pour convertir une vidéo dans ses différents formats :
 [Miro Video Converter](http://www.mirovideoconverter.com/)
 
-## Insertion d'un élément audio
+### Insertion d'un élément audio
 -   `controls` : pour ajouter les boutons « Lecture », « Pause » et la barre de défilement.
 -   `width` : pour modifier la largeur de l'outil de lecture audio ;
 -   `loop` : la musique sera jouée en boucle ;
@@ -352,8 +352,8 @@ Pour convertir une vidéo dans ses différents formats :
     </audio>
     ```
     
-    ## Insertion d'un vidéo
-    -   `poster` : image à afficher à la place de la vidéo tant que celle-ci n'est pas lancée. Par défaut, le navigateur prend la première image de la vidéo, il est mieux d'en créer une via une capture d'écran.
+### Insertion d'un vidéo
+ -   `poster` : image à afficher à la place de la vidéo tant que celle-ci n'est pas lancée. Par défaut, le navigateur prend la première image de la vidéo, il est mieux d'en créer une via une capture d'écran.
     -   `controls` : pour ajouter les boutons « Lecture », « Pause » et la barre de défilement.    
     -   `width` : pour modifier la largeur de la vidéo.    
     -   `height` : pour modifier la hauteur de la vidéo.

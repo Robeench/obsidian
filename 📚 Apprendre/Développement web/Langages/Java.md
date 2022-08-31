@@ -1,15 +1,11 @@
-[[Langage]]
 # Java
 ## Déclaration de variable
-Pour créer une variable, il faut la déclarer. Il existe plusieurs types de variables en Java.
 Les variables contenant des nombres entiers sont déclarées en utilisant `int`, par exemple :
 
 ```java
 int ongoingAllowance = 500;
 int savings = 1000;
 ```
-
-Ici on a déclaré deux variables, et assignée une valeur initiale à celles-ci.
 
 Pour déclarer des nombres décimaux (avec virgule), on utilise le type `double`
 
