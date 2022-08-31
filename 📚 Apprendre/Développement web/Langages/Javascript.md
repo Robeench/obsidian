@@ -75,8 +75,8 @@ const nombrePostParPage = 20;
 nombrePostParPage = 30; // Retournera une erreur dans la console car on ne peut plus changer sa valeur
 ```
 
-# Enregistrez vos données avec des types de données
-## Qu'est ce qu'un type ?
+## Enregistrez vos données avec des types de données
+### Qu'est ce qu'un type ?
 Le type d'une variable ou d'une constante est le genre de données qu'elle enregistre. Il y a 3 types primitifs (= briques de base de chaque structure de données) principaux :
 -   number (nombre)
 -   string (chaine de caractères)
@@ -92,10 +92,10 @@ Il y a 3 autres types de données primitives :
 -   symbol
 Pour plus d'infos : [Structures de données - JavaScript | MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Data_structures)
 
-## Le type number
+### Le type number
 Les variables de type number peuvent être positives ou négatives. Elles peuvent aussi être des nombres entiers (= outier ou integers) ou décimaux (= virgule flottante ou floating-point).
 
-### Attention à l'arithmétique en virgule flottante
+#### Attention à l'arithmétique en virgule flottante
 Elle peut déclencher des erreurs très gênantes :
 
 ```jsx
@@ -105,7 +105,7 @@ let weirdCalculation = 0.1 + 0.2;  // on attend 0.3, réponse réelle 0.30000000
 
 Utilisez au maximum des calculs entiers (pour des prix, plutôt en centimes qu'en euros)
 
-## Le type boolean
+### Le type boolean
 Elles ne peuvent avoir que deux valeurs, true ou false.
 
 ```jsx
@@ -113,7 +113,7 @@ let userIsSignedIn = true;
 let userIsAdmin = false;
 ```
 
-## Le type string
+### Le type string
 Elles permettent d'enregistrer du texte dans des variables javascript.
 
 ```jsx
@@ -135,11 +135,11 @@ const salutation = "Bienvenue sur mon site ${myName}!";
 console.log(salutation);   //retournera “Bienvenue sur mon site Alexander!”
 ```
 
-# Définissez des objets et leurs attributs avec des classes
+## Définissez des objets et leurs attributs avec des classes
 Dans la vie réelle, on remarque des points communs entre différents objets qui crée une représentation mentale d'une catégorie d'objets. Par exemple les livres ont tous une couvertue, un certain nombre de pages, un titre, un ou plusieurs auteurs... L'objet est un type javascript complexe.
 En programmation, la liste mentale est une classe.
 
-## Découvrez les objets
+### Découvrez les objets
 Les objets javascript sont écrits en JSON (Javascript Object Notation). Ce sont des séries de paires clés-valeurs. Les objets peuvent être enregistrés dans une variable :
 
 ```jsx
@@ -154,7 +154,7 @@ isAvailable: true
 Chaque clé est une chaine et les valeurs associées peuvent avoir tout type de données.
 Les objets permettent de regrouper une chose unique à un même emplacement.
 
-### Accédez aux données d'un objet
+#### Accédez aux données d'un objet
 Une fois qu'un objet est enregistré dans une variable, on peut accéder à ses données :
 
 ```jsx
@@ -168,7 +168,7 @@ let bookTitle = myBook.title;  // "L'Histoire de Tao"
 let bookPages = myBook.numberOfPages  // 250
 ```
 
-### Bracket notation
+#### Bracket notation
 Pour accéder à un sous-élément, on peut utiliser les brackets avec la valeur du sous-élément
 
 ```jsx
@@ -195,7 +195,7 @@ let propertyToAccess = "title"
 let bookTitle = myBook[propertyToAccess];  // "L'Histoire de Tao"
 ```
 
-## Manipulez des classes
+### Manipulez des classes
 La bracket notation convient pour des objets simples et uniques. Pour bcp d'objets du même type, j'utilise les classes.
 Une classe est un modèle pour un objet dans le code.
 
@@ -220,8 +220,8 @@ pages: 250
 }
 ```
 
-# Regroupez ses données avec les tableaux et objets
-## Utiliser un array pour enregistrer une liste ordonnée d'éléments
+## Regroupez ses données avec les tableaux et objets
+### Utiliser un array pour enregistrer une liste ordonnée d'éléments
 Pour créer un array (=tableau) vide :
 
 ```jsx
@@ -242,7 +242,7 @@ let thirdGuest = guests[2]; // "Will Alexander"
 let undefinedGuest = guests[12] // undefined
 ```
 
-## Utilisez des valeurs plutôt que des références
+### Utilisez des valeurs plutôt que des références
 Les types primitifs sont passés par valeur, cela signifie que c'est toujours une valeur qui est prise en compte et qu'aucun lien n'est maintenu entre les deux variables, par exemple :
 
 ```jsx
@@ -265,8 +265,8 @@ console.log(allProfiles) // affiche { nom: "Tao Perkington", âge: 27, disponibl
 
 [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
-## Travaillez sur les tableaux
-### Le comptage d'éléments
+### Travaillez sur les tableaux
+#### Le comptage d'éléments
 length indique le nombre d'éléments contenus dans un tableau.
 
 ```jsx
@@ -274,7 +274,7 @@ let guests = ["Will Alexander", "Sarah Kate", "Audrey Simon"];
 let howManyGuests = guests.length; // 3
 ```
 
-### L'ajout et la suppression d'éléments
+#### L'ajout et la suppression d'éléments
 push pour ajouter un élément à fin d'un tableau :
 
 ```jsx
@@ -293,15 +293,15 @@ pop pour supprimer le dernier élément d'un tableau :
 guests.pop(); // supprimer le dernier élément du tableau
 ```
 
-# Choisir la condition appropriée pour contrôler le déroulement de mon programme
+## Choisir la condition appropriée pour contrôler le déroulement de mon programme
 Lorsque le programme est de plus en plus évolué, la création de lignes de code qui s'exécutent l'un après l'autre dans un ordre défini ne sera plus possible. Il est alors nécessaire de mettre en place un déroulement de programme. Il va décrire l'ordre dans lequel s'exécutent mes lignes de code. Certaines lignes seront lues une seule fois, certaines plusieurs fois et d'autres complètement ignorées, selon la situation.
 
-## Les instructions if/else
+### Les instructions if/else
 C'est une instruction conditionnelle car elle vérifie que certaines conditions sont réunies et réagit en conséquence
 IF (SI) l'utilisateur est connecté, ouvrir sa page d'accueil
 ELSE (SINON) revenir à la page de connexion
 
-### Utiliser des valeurs boolean
+#### Utiliser des valeurs boolean
 Si on utilise une valeur boolean simple :
 
 ```jsx
@@ -323,7 +323,7 @@ if (UserLoggedIn) {
 }
 ```
 
-### Utilisez des expressions
+#### Utilisez des expressions
 On peut aussi utiliser des expressions de comparaison qui comparent des valeurs entre elles.
 -   < : inférieur à
 -   <= : inférieur ou égal à
@@ -358,12 +358,12 @@ if (numberOfGuests == numberOfSeats) {
 
 Ce chainage va permettre de prévoir différents résultats en fonction de différentes situations
 
-## L'égalité == ou ====
+### L'égalité == ou ====
 == : égalité simple qui vérifie la valeur mais pas le type donc 5 == "5" renvoie true
 === : égalité stricte qui vérifie à la fois la valeur et le type donc 5 === "5" renvoie false
 De même, il y a deux opérateurs d'inégalité != et !== avec la même distinction.
 
-### Les conditions multiples
+#### Les conditions multiples
 Parfois on veut vérifier plusieurs conditions pour un même résultat, par exemple dans la même instruction if. Pour cela il existe des opérateurs logiques.
 -   && : ET logique pour vérifier si deux conditions sont toutes les deux vraies
 -   || : OU logique pour vérifier si au moins une condition est vraie
@@ -384,7 +384,7 @@ userLoggedIn || userHasMegaPremiumAccount; // true
 !userHasMegaPremiumAccount; // true
 ```
 
-## Le scope des variables
+### Le scope des variables
 Les variables créées par let ou const ne peuvent être lues ou utilisées qu'à l'intérieur du bloc de code (soit entre {}) dans lequel elles sont déclarées.
 
 Vous rencontrerez certainement le mot clé var pour la création de variables au cours de votre carrière de développeur. Les variables déclarées ainsi n'ont pas un scope de bloc mais un scope de fonction ; donc elles n'ont pas tout à fait le même comportement que celles que je décris dans ce cours. Pour plus d'informations, je vous conseille cet article (en anglais) : [https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/](https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/)
@@ -419,7 +419,7 @@ welcomeMessage = 'Welcome new user!'; // modifier la variable extérieure
 console.log(welcomeMessage); // imprime 'Welcome back!'
 ```
 
-## Les instructions switch
+### Les instructions switch
 Pour vérifier la valeur d'une variable par rapport à une liste de valeurs attendues et réagir en conséquence.
 Supposons que l'on ait plusieurs objets utilisateurs, et que je souhaite vérifier le type de compte de chacun pour envoyer un message personnalisé :
 
@@ -468,10 +468,10 @@ default:
 -   break : permet de stopper l'exécution des cas suivants (en cascade)
 -   default : ne sera exécuté que si la variable que l'on vérifie ne correspond à aucune des valeurs répertoriées
 
-# Utilisez la bonne boucle pour répéter les tâches
+## Utilisez la bonne boucle pour répéter les tâches
 Certaines instructions doivent être répétées plusieurs fois, pour ces cas nous utilisons les boucles.
 
-## La boucle for
+### La boucle for
 Elle permet de savoir "combien de fois"
 
 Si je veux faire embarquer 10 passagers, sans accorder d'importance à l'ordre d'embarquement, j'utilise une boucle for pour les embarquer un par un jusqu'à atteindre 10. La variable d'indice i sert de compteur pour le nombre d'execution de la boucle. La deuxième condition est la condition de poursuite de la boucle : dès qu'elle s'évalue comme false on quitte la boucle. Enfin la troisième commande permet d'incrémenter i (ajouter 1) à chaque exécution. C'est ce qui permet de suivre le nombre d'exécution de la boucle.
@@ -485,9 +485,9 @@ for (let i = 0; i < numberOfPassengers; i++) {
 }
 ```
 
-## Travaillez sur des tableaux : for ... of et for ... in
+### Travaillez sur des tableaux : for ... of et for ... in
 Lorsque j'ai un tableau et que je dois le parcourir
-### La boucle for ... in
+#### La boucle for ... in
 Très comparable à for mais plus facile à lire et effectue le travail d'itération pour moi.
 
 ```jsx
