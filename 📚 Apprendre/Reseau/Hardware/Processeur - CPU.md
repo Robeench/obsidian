@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Processeur / CPU
 CPU = Central Processing Unit
 Equivalent du cerveau. Il récupère les différentes instructions d'un programme et va traiter et calculer les résultats pour les donner en sortie. Il prend chaque instruction dans son ordre d'arrivée.

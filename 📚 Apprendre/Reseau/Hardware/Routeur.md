@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Routeur
 C’est un matériel de couche 3 qui relie plusieurs réseaux. Il doit donc avoir une interface pour chacun des réseaux auquel il est connecté. C’est donc une machine avec plusieurs cartes réseaux, chacune reliée à un réseau. Elle a pour rôle d’aiguiller les paquets reçus entre les différents réseaux.
 Un ordinateur avec deux cartes réseaux pourra être un routeur. Toute machine peut jouer le rôle d’un routeur, il suffit d’activer le routage dessus (une simple machine supprimera les paquets qui ne lui sont pas destinés).

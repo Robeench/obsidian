@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Switch
 Boitier sur lequel sont présentes plusieurs prises RJ45 femelles permettant de brancher dessus des machines à l'aide de câbles à paires torsadées. 
 
@@ -10,7 +10,7 @@ Pour envoyer la trame [[Ethernet]] vers la bonne machine, le switch se sert de l
 Par exemple, pour cette image : 
 ![Exemple switch](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/004351ff-8fed-4249-aa97-d4a59e3183d7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220224%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220224T165903Z&X-Amz-Expires=86400&X-Amz-Signature=1aec08761e216f2e87475a5f467d24cf3bd447c9821567922d66fe396e9c0c3f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 La table CAM sera : 
-Port | @MAC
+[[Port]] | @MAC
  --- | ---
 1 | @MAC 23
 2 | @MAC 24

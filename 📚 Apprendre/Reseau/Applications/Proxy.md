@@ -1,4 +1,4 @@
-[[Applications]]
+
 # Proxy
 Serveur intermédiaire qui permet à une application ou un internaute d'accéder à internet. 
 

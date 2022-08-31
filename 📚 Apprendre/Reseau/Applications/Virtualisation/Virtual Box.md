@@ -1,4 +1,4 @@
-[[Virtualisation]], [[Applications]]
+
 # VirtualBox
 VM [[Windows]] 10 directement sur le site de Microsoft : 
 [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)

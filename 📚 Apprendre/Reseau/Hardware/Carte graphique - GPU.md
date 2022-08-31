@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Carte graphique - GPU
 GPU = Graphics Processing Unit
 A pour but d'alléger le processeur pour les calculs liées aux choses graphiques : 3D, imagerie, vidéo ... Une carte graphique n'est pas obligatoire. Sans elle, on aura un GPU sous la forme d'une petite puce sur la [[carte mère]], qui permet de pouvoir regarder des vidéos ou jouer à des petits jeux. 

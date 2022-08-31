@@ -1,4 +1,4 @@
-[[Applications]]
+
 # Firewall
 Element du réseau informatique étant logiciel et/ou matériel. 
 Il définit les connexions autorisées ou interdites. 

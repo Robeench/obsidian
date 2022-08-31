@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Carte mère
 Permet d'interconnecter tous les composants. Il y a un ou deux chipsets par carte mère qui définissent ces paramètres : 
 - CPU compatibles

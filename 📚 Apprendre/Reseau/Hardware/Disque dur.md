@@ -1,4 +1,4 @@
-[[Hardware]]
+
 # Disque dur
 ## HDD
 HDD = Hard Disk Drive

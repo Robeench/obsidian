@@ -1,4 +1,4 @@
-[[Hardware]]
+
 ## Mémoire vive - RAM
 RAM = Random Access Memory
 A pour objectif de stocker les données sous forme binaire : différentes instructions du programme + résultats du CPU. Mémoire très rapide et puissante, utilisée pour l'exécution des programmes. 

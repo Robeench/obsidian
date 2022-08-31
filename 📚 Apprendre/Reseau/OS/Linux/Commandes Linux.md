@@ -1,6 +1,6 @@
-[[Linux]], [[OS]]
-# Commandes Linux
-`apt` pour advanced package tool, utilitaire présent sur les distributions debian. Permet d'installer, supprimer un logiciel ou encore mettre à jour ce dernier ou mettre à jour ma distribution Linux.
+
+# Commandes [[Linux]]
+`apt` pour advanced package tool, utilitaire présent sur les distributions debian. Permet d'installer, supprimer un logiciel ou encore mettre à jour ce dernier ou mettre à jour ma distribution [[Linux]].
 	`apt update` pour trouver la dernière version d’un logiciel
 	`apt upgrade` pour mettre à jour un logiciel
 	`apt search [nom du logiciel]` pour trouver le nom d’un logiciel dans la bibliothèque des logiciels disponibles
@@ -23,7 +23,7 @@
 `[nom de commande externe] --help` permet d’avoir plus d’informations sur ces options et caractères disponibles
 `history` affiche l’historique des commandes passées sur mon terminal
 	`![numéro de la commande dans l'history]` pour l’appeler
-`ip a` permet de configurer de manière dynamique mes cartes réseaux
+`[[ip]] a` permet de configurer de manière dynamique mes cartes réseaux
 `id` permet de relever les informations concernant le compte utilisateur connecté
 `less` affiche les données passées en paramètre, paginées directement sur le terminal.
 	`ESPACE` pour passer à la page suivante

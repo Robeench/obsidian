@@ -1,4 +1,4 @@
-[[OS]], 
+
 # Neofetch
 Outil d'information système écrit en [[Bash]]. Il affiche les infos de l'OS à côté du logo de l'OS ou d'un fichier ASCII de mon choix. 
 

@@ -1,4 +1,4 @@
-[[Applications]], [[IP]], [[Protocole]]
+
 # Port
 Lors de l'envoi de paquets, l'adresse [[IP]] permet de retrouver uniquement le serveur hébergeant mais pas l'application concernée. 
 Chaque application a un numéro de ports attribuée. 
