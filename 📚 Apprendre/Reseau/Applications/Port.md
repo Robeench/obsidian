@@ -21,4 +21,4 @@ Ports attribués pour un service spécifique, sur demande, par une organisation.
 Ports 49 152 à 65 535.
 Utilisés pour l'allocation dynamique de ports éphèmères valables pour la durée d'une connexion. Ou pour des services privés ou personnalisés.
 
-![common ports](obsidian://open?vault=obsidian&file=Telechargements%2Fcommon_ports.jpg)
+![common ports](https://i.pinimg.com/564x/87/28/0d/87280dc410faef7f7b78b06d323fa964.jpg)
