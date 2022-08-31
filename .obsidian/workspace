@@ -77,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "❤ Home/Notes du jour/31.08.2022.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/Notes du jour/31.08.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,10 +140,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18227a99e47d9824",
+  "active": "d0a73622232b9318",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20220831.md",
     "❤ Home/Notes du jour/31.08.2022.md",
+    "Day Planners/Day Planner-20220831.md",
     "❤ Home/Notes du jour/30.08.2022.md",
     "❤ Home/Cadeaux.md",
     "❤ Home/Voir/Films d'automne.jpg",
