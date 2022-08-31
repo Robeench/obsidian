@@ -1,9 +1,9 @@
 [[Linux]]
-# Configuration adresse IP - Linux
-Un serveur doit garder la même adresse IP (pas via un serveur DHCP)
+# Configuration adresse [[IP]] - Linux
+Un serveur doit garder la même adresse [[IP]] (pas via un serveur [[DHCP]])
 
 ## Scan du réseau
-Connaitre les adresses IP du réseau déjà utilisées : 
+Connaitre les adresses [[IP]] du réseau déjà utilisées : 
 [Dipisoft - scan du réseau](https://www.dipisoft.com/articles.php?lng=fr&pg=2116)
 
 ## Ajout carte réseau sous VirtualBox

@@ -1,5 +1,5 @@
 [[Linux]]
-# Utilisateurs - Linux
+# Utilisateurs - [[Linux]]
 ## Création et suppression compte utilisateur
 Uniquement utilisable par l'utilisateur root
 useradd crée un nouveau compte utilisateur en fonction des options spécifiés dans la ligne de commande et des valeurs par défaut définies dans /etc/default/useradd

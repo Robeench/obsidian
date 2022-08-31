@@ -6,19 +6,19 @@ Changer le nom de la machine :
 Changer le workgroup et installer SAMBA :
 [How to Change a Workgroup in Linux](https://www.brighthub.com/computing/linux/articles/77964/)
 
-Comment changer IP, gateway, DNS :
+Comment changer [[IP]], gateway, [[DNS]] :
 [How to configure Static IP on Debian](https://www.snel.com/support/how-to-configure-static-ip-on-debian-10/)
 
 Bureau à distance :
 [How To Install XRDP (Remote Desktop) on Debian 10](https://tecadmin.net/how-to-install-xrdp-on-debian-10/)
 
-Se connecter en SSH à un serveur distant depuis Windows :
+Se connecter en [[SSH]] à un serveur distant depuis [[Windows]] :
 [Se connecter en SSH en serveur distant](https://www.malekal.com/comment-se-connecter-en-ssh-a-un-serveur-distant-windows/)
 
 Partage de fichiers Linux :
-[Comment partager des fichiers entre Windows et Linux - phhsnews.com](https://www.phhsnews.com/how-to-share-files-between-windows-and-linux4290)
+[Comment partager des fichiers entre [[Windows]] et Linux - phhsnews.com](https://www.phhsnews.com/how-to-share-files-between-windows-and-linux4290)
 
-Protocole SMB
+Protocole [[SMB]]
 [Le protocole SMB pour les débutants | IT-Connect](https://www.it-connect.fr/le-protocole-smb-pour-les-debutants/)
 [Consultation de fichiers sur un serveur ou un réseau partagé](https://help.gnome.org/users/gnome-help/stable/nautilus-connect.html.fr#urls)
 
@@ -35,21 +35,21 @@ Pour interagir avec le système et le matériel, l’administrateur utilise un *
 
 Autrefois c’était des terminaux physiques, désormais ce sont des terminaux virtuels ou des émulateurs de terminaux.
 
-## Virtualisation du terminal de commande
+## [[Virtualisation]] du terminal de commande
 Le logiciel simule l'équipement terminal physique et toutes ses fonctionnalités. Il est donc possible de lancer plusieurs terminaux en même temps.
 
-Le protocole VNC ([Virtual Network Computing](https://openclassrooms.com/fr/courses/1733046-prenez-le-controle-a-distance-dun-poste-linux-windows-avec-vnc)) permet notamment de prendre la main à distance sur un ordinateur. C’est un protocole de terminal virtuel graphique.
+Le protocole VNC ([Virtual Network Computing](https://openclassrooms.com/fr/courses/1733046-prenez-le-controle-a-distance-dun-poste-linux-windows-avec-vnc)) permet notamment de prendre la main à distance sur un ordinateur. C’est un [[protocole]] de terminal virtuel graphique.
 
-Le protocole RDP ([Remote Desktop Protocol](https://fr.wikipedia.org/wiki/Remote_Desktop_Protocol)) qui permet de se connecter sur des serveurs Windows Terminal Serveur en est un également.
+Le [[protocole]] RDP ([Remote Desktop Protocol](https://fr.wikipedia.org/wiki/Remote_Desktop_Protocol)) qui permet de se connecter sur des serveurs [[Windows]] Terminal Serveur en est un également.
 
 L’écran noir après le démarrage du système est aussi un terminal. On l’a nommé historiquement une **console**. La console de Linux propose 7 terminaux en mode texte, appelés aussi les terminaux physiques. Ils sont directement sur le clavier branché à l'ordinateur et disponibles à partir des combinaisons de touches : `CTRL+ALT+F1` ; `CTRL+ALT+F2` ; … jusqu’à `CTRL+ALT+F7`. Chacune de ces combinaisons de touches propose l'émulation d'un terminal (en mode console) différent sur lequel il est possible de se connecter de manière indépendante avec un compte utilisateur différent.
 
 ## Les principaux émulateurs de terminal
 Un émulateur de terminal permet de se connecter avec un protocole réseau sur le serveur distant autant de fois que souhaité, y compris sur le même serveur avec des utilisateurs différents.
 
-### Windows
+### [[Windows]]
 [[Windows]]
--   **PuTTY** est à la fois un émulateur de terminal et un client pour différents protocoles réseau tels que telnet, SFTP, SSH, rlogin, et TCP.
+-   **PuTTY** est à la fois un émulateur de terminal et un client pour différents protocoles réseau tels que telnet, SFTP, [[SSH]], rlogin, et TCP.
 -   **Windows Terminal**
 
 ### MacOS
