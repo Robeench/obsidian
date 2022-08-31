@@ -1,4 +1,4 @@
-[[Langage]]
+[[Développement web]], [[Langage]], [[HTML 5]]
 # CSS 3
 Pour vérifier si mon navigateur peut lire une instruction : [https://www.caniuse.com/](https://www.caniuse.com/)
 
@@ -331,8 +331,8 @@ caption-side: top; /* titre placé au dessus du tableau*/
 caption-side: bottom; /*titre placé en dessous du tableau*/
 ```
 
-# Responsive design
-## Media queries
+## Responsive design
+### Media queries
 Règles applicables dans certaines conditions : résolutions d'écrans, type d'écran, nombre de couleurs, orientation de l'écran...
 Utilisable de deux manières :
 -   charger une feuille de style .css différente selon la règle
@@ -356,7 +356,7 @@ Utilisable de deux manières :
 }
 ```
 
-## Règles
+### Règles
 -   `color` : gestion de la couleur (en bits/pixel) ;
 -   `height` : hauteur de la zone d'affichage (fenêtre) ;
 -   `width` : largeur de la zone d'affichage (fenêtre) ;
@@ -387,7 +387,7 @@ On peut rajouter devant chaque règle min- ou max- et elles peuvent être combin
 @media all and (orientation: portrait)
 ```
 
-## Navigateurs mobiles
+### Navigateurs mobiles
 
 ```css
 @media all and (max-device-width: 480px)
@@ -406,7 +406,7 @@ Les navigateurs mobiles simulent une largeur d'écran (différentes à chaque fo
 <!--viewport de la même largeur que l'écran-->
 ```
 
-# Grid
+## Grid
 ```css
 .container {
 	display: grid;

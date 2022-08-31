@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Développement web/Langages/CSS 3.md",
+            "file": "📚 Apprendre/Développement web/Langages/Langage.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/CSS 3.md",
+                "file": "📚 Apprendre/Développement web/Langages/Langage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/CSS 3.md"
+                "file": "📚 Apprendre/Développement web/Langages/Langage.md"
               }
             }
           },
@@ -115,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Développement web/Langages/CSS 3.md",
+                "file": "📚 Apprendre/Développement web/Langages/Langage.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,24 +138,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "18227a99e47d9824",
   "lastOpenFiles": [
+    "📚 Apprendre/Développement web/Langages/CSS 3.md",
+    "Développement web.md",
+    "📚 Apprendre/Développement web/Langages/Langage.md",
     "❤ Home/Notes du jour/31.08.2022.md",
     "❤ Home/Cadeaux.md",
     "Notes du jour/31.08.2022 1.md",
     "Day Planners/Day Planner-20220831.md",
     "❤ Home/Notes du jour/30.08.2022.md",
     "❤ Home/Voir/Films d'automne.jpg",
-    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
-    "❤ Home/Voir/Films en automne.md",
-    "Telechargements/Pasted image 20220513112542.png",
-    "Telechargements/Pasted image 20220519145118.png"
+    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png"
   ]
 }
