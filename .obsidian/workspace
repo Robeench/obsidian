@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "d26893a4826537d5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "d0a73622232b9318",
             "type": "leaf",
             "state": {
@@ -137,17 +129,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "18227a99e47d9824",
+  "active": "8446cd1e8bb451e6",
   "lastOpenFiles": [
-    "❤ Home/Notes du jour/31.08.2022.md",
     "❤ Home/Notes du jour/01.09.2022.md",
+    "❤ Home/Notes du jour/31.08.2022.md",
     "❤ Home/Notes du jour/02.09.2022.md",
     "❤ Home/Notes du jour/03.09.2022.md",
     "❤ Home/Notes du jour/05.09.2022.md",
