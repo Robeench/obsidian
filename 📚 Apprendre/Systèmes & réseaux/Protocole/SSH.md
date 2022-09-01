@@ -105,7 +105,7 @@ Utiliser le logiciel WinSCP : [Download WinSCP](https://winscp.net/eng/download.
 S'utilise exactement comme scp, le nom de commande devient sftp. 
 
 ### SSHFS - SSH File System
-Permet de monter un répertoire d'une machine [[linux]] sur une autre. Le client le verra instantanément et pourra agir dessus comme s'il s'agissait d'un répertoire local. 
+Permet de monter un répertoire d'une machine [[Linux]] sur une autre. Le client le verra instantanément et pourra agir dessus comme s'il s'agissait d'un répertoire local. 
 
 ```bash
 apt-get install sshfs #installer sshfs
@@ -147,7 +147,7 @@ ssh-copy-id root@192.168.240.132
 ```
 
 ## Tunneling et encapsulation de protocole
-Un protocole non chiffré comme l'[[HTTP]] peut être encapsulé dans le protocole SSH pour passer un pare feu ou un [[proxy]] par exemple. Il sera ensuite désencapsulé à la destination. 
+Un protocole non chiffré comme l'[[HTTP]] peut être encapsulé dans le protocole SSH pour passer un pare feu ou un [[Proxy]] par exemple. Il sera ensuite désencapsulé à la destination. 
 
 
 ## Commandes

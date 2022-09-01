@@ -38,9 +38,9 @@ Autrefois c’était des terminaux physiques, désormais ce sont des terminaux v
 ## [[Virtualisation]] du terminal de commande
 Le logiciel simule l'équipement terminal physique et toutes ses fonctionnalités. Il est donc possible de lancer plusieurs terminaux en même temps.
 
-Le protocole VNC ([Virtual Network Computing](https://openclassrooms.com/fr/courses/1733046-prenez-le-controle-a-distance-dun-poste-linux-windows-avec-vnc)) permet notamment de prendre la main à distance sur un ordinateur. C’est un [[protocole]] de terminal virtuel graphique.
+Le protocole VNC ([Virtual Network Computing](https://openclassrooms.com/fr/courses/1733046-prenez-le-controle-a-distance-dun-poste-linux-windows-avec-vnc)) permet notamment de prendre la main à distance sur un ordinateur. C’est un [[Protocole]] de terminal virtuel graphique.
 
-Le [[protocole]] RDP ([Remote Desktop Protocol](https://fr.wikipedia.org/wiki/Remote_Desktop_Protocol)) qui permet de se connecter sur des serveurs [[Windows]] Terminal Serveur en est un également.
+Le [[Protocole]] RDP ([Remote Desktop Protocol](https://fr.wikipedia.org/wiki/Remote_Desktop_Protocol)) qui permet de se connecter sur des serveurs [[Windows]] Terminal Serveur en est un également.
 
 L’écran noir après le démarrage du système est aussi un terminal. On l’a nommé historiquement une **console**. La console de Linux propose 7 terminaux en mode texte, appelés aussi les terminaux physiques. Ils sont directement sur le clavier branché à l'ordinateur et disponibles à partir des combinaisons de touches : `CTRL+ALT+F1` ; `CTRL+ALT+F2` ; … jusqu’à `CTRL+ALT+F7`. Chacune de ces combinaisons de touches propose l'émulation d'un terminal (en mode console) différent sur lequel il est possible de se connecter de manière indépendante avec un compte utilisateur différent.
 
@@ -75,7 +75,7 @@ Le rôle principal du shell est d'exécuter les commandes saisies par l'administ
 
 Bash est un programme écrit en C, visant à respecter au maximum [les standards POSIX](https://standards.ieee.org/standard/1003_1-2017.html) concernant les interpréteurs de commandes. Il est livré en standard sur la plupart des distributions Linux SystemV/d (Les distributions BSD implémentent plutôt C Shell par défaut), il est compatible avec “presque toutes les versions de Unix” et est disponible également pour [[Windows]] !
 
-# Comprendre l’[[arborescence Linux]]
+# Comprendre l’[[Arborescence Linux]]
 La [fondation Linux](https://www.linuxfoundation.org/) est responsable du maintien de la norme définissant l’arborescence des systèmes Unix/Linux. Cette norme est appelée **[FHS** pour **Filesystem Hierarchy Standard** et est disponible sous plusieurs formats](http://refspecs.linuxfoundation.org/fhs.shtml).
 
 Ce document recense
@@ -177,7 +177,7 @@ Un fichier est une structure de langage C définie directement au niveau du code
 Structure de l’inode (= fichier) :
 
 ### Blocs directs
-Composé de 12 champs, ils contiennent les adresses directes des données du fichier sur le périphérique de type blocs les contenant ([[disque dur]], clé USB ...)
+Composé de 12 champs, ils contiennent les adresses directes des données du fichier sur le périphérique de type blocs les contenant ([[Disque dur]], clé USB ...)
 
 ### Blocs indirects
 Ces champs contiennent les pointeurs vers d’autres inodes dont la totalité des champs est adressée pour des blocs de données.

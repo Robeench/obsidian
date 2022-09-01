@@ -56,8 +56,8 @@ N’existe plus.
 Un « jeton » tourne en permanence sur l’anneau et les machines peuvent le prendre pour envoyer un message. Pas de possibilités d’une infinité de machine car un seul jeton pour tous. La taille du réseau doit aussi être limitée.
 
 ##### En étoile
-Toutes les machines sont branchées à une machine centrale (comme un [[switch]]) qui sait envoyer les informations à une machine en particulier.
-Toutes les communications passent par le point central. On envoie l’information et le point central aiguille vers la bonne machine. Plus le [[switch]] peut traiter un grand nombre de machines, plus on peut brancher de machines. Aujourd’hui, les switches peuvent traiter plusieurs milliers de machines. On peut faire un réseau de taille illimitée en reliant plusieurs switches entre eux, ainsi ils peuvent transmettre l’information jusqu’au destinataire.
+Toutes les machines sont branchées à une machine centrale (comme un [[Switch]]) qui sait envoyer les informations à une machine en particulier.
+Toutes les communications passent par le point central. On envoie l’information et le point central aiguille vers la bonne machine. Plus le [[Switch]] peut traiter un grand nombre de machines, plus on peut brancher de machines. Aujourd’hui, les switches peuvent traiter plusieurs milliers de machines. On peut faire un réseau de taille illimitée en reliant plusieurs switches entre eux, ainsi ils peuvent transmettre l’information jusqu’au destinataire.
 
 ### CSMA / CD
 Carrier Sense Multiple Access / Collision Detection
@@ -118,5 +118,5 @@ Elle encode, compresse, convertit et reformate les données.
 Non utilisé
 ## Couche 7 - Application
 Point d'accès pour l'utilisateur aux services applicatifs
-Matériel : [[proxy]]
+Matériel : [[Proxy]]
 Protocole : SMTP, [[HTTP]], FTP ...

@@ -1,6 +1,6 @@
 
 # Ethernet
-L'objectif des réseaux est de pouvoir s'échanger des informations. L'échange se fait entre des machines différentes, avec des OS différents ([[MacOS]], [[Linux]], [[Windows]] ...) et il existe donc un langage commun de communication pour se comprendre : le [[protocole]] Ethernet. 
+L'objectif des réseaux est de pouvoir s'échanger des informations. L'échange se fait entre des machines différentes, avec des OS différents ([[MacOS]], [[Linux]], [[Windows]] ...) et il existe donc un langage commun de communication pour se comprendre : le [[Protocole]] Ethernet. 
 
 Chaque message est envoyé sous la trame : 
 - Adresse MAC destinataire - 6 octets

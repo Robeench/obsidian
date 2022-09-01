@@ -31,7 +31,7 @@ Il maintient un tableau des états (= connexions ouvertes) avec les connexions a
 
 ### Firewall Applicatif
 Filtrage applicatif, c'est à dire en fonction de chaque application.
-Les requêtes sont traités par des procédures dédiées. Il vérifie que le paquet correspond au [[protocole]] attendu. Il rejette donc toutes les requêtes n'y correspondant pas.
+Les requêtes sont traités par des procédures dédiées. Il vérifie que le paquet correspond au [[Protocole]] attendu. Il rejette donc toutes les requêtes n'y correspondant pas.
 
 Il joue aussi le rôle de [[Proxy applicatif]].
 

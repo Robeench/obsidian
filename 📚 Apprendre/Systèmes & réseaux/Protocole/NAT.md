@@ -9,4 +9,4 @@ On utilise des adresses [[IP]] privées pour les communications en interne et de
 
 ![[Capture d’écran 2022-05-05 115156.png]]
 
-La passerelle alloue dynamiquement un [[port]] à chaque communication pour qu'au retour, les réponses sur chaque [[port]] dédié sera renvoyé à la bonne machine. 
+La passerelle alloue dynamiquement un [[Port]] à chaque communication pour qu'au retour, les réponses sur chaque [[Port]] dédié sera renvoyé à la bonne machine. 

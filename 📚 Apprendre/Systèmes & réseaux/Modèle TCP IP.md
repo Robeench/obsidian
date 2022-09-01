@@ -3,7 +3,7 @@
 ## Couche 1 - Accès au réseau
 Correspond aux couches Liaison et Physique du [[Modèle OSI]].
 Protocole : Adresses MAC
-Matériels : Câbles [[ethernet]], fibres, wifi, bluetooth
+Matériels : Câbles [[Ethernet]], fibres, wifi, bluetooth
 
 ## Couche 2 - Internet
 Correspond à la couche Réseau du [[Modèle OSI]].

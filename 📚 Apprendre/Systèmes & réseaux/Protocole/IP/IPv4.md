@@ -26,7 +26,7 @@ Classe C = tout sauf de 192.168.1.0 à 192.168.255.255
 
 ### Exceptions
 Le réseau 127.0.0.0 est réservé pour la boucle locale, défini par défaut sur chaque machine.
-Le réseau 0.0.0.0 est réservé pour définir une route par défaut sur un [[routeur]].
+Le réseau 0.0.0.0 est réservé pour définir une route par défaut sur un [[Routeur]].
 
 ## Masque de sous-réseaux
 [IP Calculator](http://jodies.de/ipcalc)
