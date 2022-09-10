@@ -1,6 +1,6 @@
 {
-  "commitMessage": "manual backup : {{date}}",
-  "autoCommitMessage": "auto backup : {{date}}",
+  "commitMessage": "manual backup - PC portable : {{date}}",
+  "autoCommitMessage": "auto backup - PC portable : {{date}}",
   "commitDateFormat": "DD.MM.YYYY HH:mm:ss",
   "autoSaveInterval": 2,
   "autoPushInterval": 0,
@@ -18,7 +18,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "username": ""
 }
