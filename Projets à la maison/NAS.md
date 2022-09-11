@@ -1,6 +1,11 @@
 [Install OpenMediaVault to a Raspberry Pi](https://pimylifeup.com/raspberry-pi-openmediavault/)
 
-[Download Raspbian](https://pimylifeup.com/download-raspbian/)
+[Raspberry Pi - Guide complet pour débuter](https://www.raspberrypi-france.fr/guide/)
+
+---
+- [ ] Installation de raspbian sur une carte SD
+- [ ] 
+---
 
 - [ ] installation d'une ISO rasbian sur raspberry
 - [ ] installation open media vault
