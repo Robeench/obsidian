@@ -4,7 +4,7 @@
 
 [Raspberry Pi documentation](https://www.raspberrypi.com/documentation/computers/configuration.html)
 
-
+[How to enable SSH directly when you flash the SD card](https://roboticsbackend.com/enable-ssh-on-raspberry-pi-raspbian/#New_feature_Enable_SSH_directly_when_you_flash_the_SD_card)
 
 ---
 - [ ] Installation de raspbian sur une carte SD
