@@ -2,6 +2,10 @@
 
 [Raspberry Pi - Guide complet pour débuter](https://www.raspberrypi-france.fr/guide/)
 
+[Raspberry Pi documentation](https://www.raspberrypi.com/documentation/computers/configuration.html)
+
+
+
 ---
 - [ ] Installation de raspbian sur une carte SD
 - [ ] 
