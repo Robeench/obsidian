@@ -23,7 +23,7 @@ Dernière adresse disponible = 172.16.0.126
 ![[Capture 1.png]]
 
 ## VM1_WSRV2022
-Installation [[Windows]] Server 2022
+### Installation [[Windows]] Server 2022
 - 2Go [[RAM]]
 - 20Go de disque
 ![[Capture d’écran 2022-09-14 120801.png]]
@@ -51,7 +51,7 @@ choco install firefox -y
 ```
 
 ### Configuration des rôles
-Je passe ma machine en mode HostOnly
+Je passe ma machine en mode Host Only
 - définition adresse IP fixe
 	ncpa.cpl
 - changer le nom du poste
