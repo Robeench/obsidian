@@ -69,6 +69,9 @@ Je passe ma machine en mode HostOnly
 
 - ajouter "new scope" qui permet de définir une plage d'adresses IP pour mon DHCP
 	- activer le scope
+
+![[Pasted image 20220917202552.png]]
+
 - gestion via la console
 	mmc.exe
 
