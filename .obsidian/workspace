@@ -7,8 +7,12 @@
         "id": "e23883e540fb88be",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md"
+              }
             }
           },
           {
@@ -108,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -129,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d85cf4ebcdb3fcb",
+  "active": "e23883e540fb88be",
   "lastOpenFiles": [
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
+    "Capture.png",
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure CEFIM.pdf",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TSSR AT1C1 - consignes TP.md",
     "🖖 TSSR/Administratif/Administratif.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md"
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md"
   ]
 }

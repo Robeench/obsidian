@@ -22,8 +22,8 @@ Dernière adresse disponible = 172.16.0.127
 ## Schéma de réseau
 ![[Capture 1.png]]
 
-## VM1_WSRV2019
-Installation [[Windows]] Server 2019
+## VM1_WSRV2022
+Installation [[Windows]] Server 2022
 - 2Go [[RAM]]
 - 20Go de disque
 ![[Capture d’écran 2022-09-14 120801.png]]
