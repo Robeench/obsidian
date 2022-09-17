@@ -3,7 +3,7 @@
 # TP - Création d'une petite infrastructure host only
 
 ## Calcul des adresses [[IP]]
-
+[Calcul des adresses IP](https://cric.grenoble.cnrs.fr/)
 Adresse Réseau           = 172.16.0.0
 Adresse Broadcast        = 172.16.0.127
 Masque de Sous-Réseau    = 255.255.255.128
