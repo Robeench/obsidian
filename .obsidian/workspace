@@ -7,9 +7,11 @@
         "id": "e23883e540fb88be",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf"
+            "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf"
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md"
               }
             }
           },
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +139,15 @@
   },
   "active": "e23883e540fb88be",
   "lastOpenFiles": [
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure CEFIM.pdf",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf",
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TSSR AT1C1 - consignes TP.md",
     "🖖 TSSR/Administratif/Administratif.md",
     "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md"
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md"
   ]
 }
