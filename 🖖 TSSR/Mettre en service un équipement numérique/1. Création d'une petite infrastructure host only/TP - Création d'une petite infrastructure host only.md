@@ -143,6 +143,11 @@ su -
 nano /etc/network/interfaces
 ```
 
-![[Capture d’écran 2022-09-14 134433.png]]
+```
+allow-hotplug enp0s3
+iface enp0s3 inet static
+	address 172.16.0.125
+	netmask 255.255.255.128
+	gateway 172.16.0.1
 
-Ajouter au domaine
+```
