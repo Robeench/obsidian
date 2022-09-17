@@ -53,6 +53,8 @@ choco install firefox -y
 ### Configuration des rôles
 Je passe ma machine en mode HostOnly
 - définition adresse IP fixe
+	ncpa.cpl
+	
 - intégration au domaine
 
 ![[Capture d’écran 2022-09-14 123152.png]]
