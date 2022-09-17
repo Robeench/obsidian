@@ -35,14 +35,15 @@ Avec une connexion en bridge qui me permet d'avoir un accès à internet :
 - SumatraPDF
 - Notepad++
 - Firefox
-- Guest additions
+- Guest additions : [Installer les guest additions sur windows](https://lecrabeinfo.net/virtualbox-installer-les-additions-invite-guest-additions.html#sur-une-machine-virtuelle-windows)
 
 ![[Capture d’écran 2022-09-14 122608.png]]
 
 J'installe chocolatey qui me permet d'installer les paquets directement via PowerShell
 
 ```PowerShell
-https://lecrabeinfo.net/virtualbox-installer-les-additions-invite-guest-additions.html#sur-une-machine-virtuelle-windows
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
 ```
 
 
