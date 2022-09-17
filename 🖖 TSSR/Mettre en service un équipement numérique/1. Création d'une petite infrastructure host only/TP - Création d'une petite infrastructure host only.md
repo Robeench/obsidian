@@ -125,6 +125,8 @@ Ne pas oublier d'enlever le serveur DHCP automatique de VirtualBox
 		- host network manager
 Intégration au domaine dynamitejet.kid
 
+Lorsque je me connecte, mes identifiants admin du serveur AD me sont demandés.
+
 ## VM3_DEBIAN
 Installation debian
 - 1Go [[RAM]]
@@ -149,3 +151,4 @@ nano /etc/network/interfaces
 
 ![[Capture d’écran 2022-09-14 134433.png]]
 
+Ajouter au domaine
