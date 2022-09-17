@@ -50,11 +50,19 @@ choco install notepadplusplus -y
 choco install firefox -y
 ```
 
+### Définir le réseau host only pour mes machines
+- Host Network Manager
+	- modifier l'adresse IP de ma carte réseau pour qu'elle corresponde à ma gateway
+
 ### Configuration des rôles
 Je passe ma machine en mode Host Only
 - définition adresse IP fixe
 	ncpa.cpl
 - changer le nom du poste
+- gestion via la console
+	mmc.exe
+
+![[Capture d’écran 2022-09-14 135114.png]]
 
 ![[Capture d’écran 2022-09-14 123152.png]]
 
@@ -64,22 +72,21 @@ Je passe ma machine en mode Host Only
 2. Installation et configuration [[DNS]]
 [Installez un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#r-5950770)
 
+Configurer serveur [[DNS]] avec un alias Apache
+[Configurer un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#/id/r-5950770)
+
+#### Création d'un zone directe
+Permet d'associer un nom à une adresse [[IP]], soit :
+dynamitejet.kid -> 172.16.0.125
+
+![[Capture d’écran 2022-09-14 134806.png]]
+
 3. Installation et configuration [[DHCP]]
 [Install un serveur DHCP](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/networking/install-configure-dhcp-server-workgroup)
-
 - ajouter "new scope" qui permet de définir une plage d'adresses IP pour mon DHCP
 	- activer le scope
 
 ![[Pasted image 20220917202552.png]]
-
-- gestion via la console
-	mmc.exe
-
-![[Capture d’écran 2022-09-14 135114.png]]
-
-### Définir le réseau host only pour mes machines
-- Host Network Manager
-	- modifier l'adresse IP de ma carte réseau pour qu'elle corresponde à ma gateway
 
 ### Partition de [[disque dur]]
 Création d'un [[disque dur]] partitionné et nommé DATA
@@ -93,15 +100,6 @@ Création d'un [[disque dur]] partitionné et nommé DATA
 [Partager un dossier sur Windows Server](https://rdr-it.com/partager-dossier-windows-serveur/)
 
 ![[Capture d’écran 2022-09-13 212643.png]]
-
-### Configurer serveur [[DNS]] avec un alias Apache
-[Configurer un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#/id/r-5950770)
-
-#### Création d'un zone directe
-Permet d'associer un nom à une adresse [[IP]], soit :
-dynamitejet.kid -> 172.16.0.125
-
-![[Capture d’écran 2022-09-14 134806.png]]
 
 ## VM2_W7PRO
 - 32bits
