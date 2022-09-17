@@ -1,6 +1,6 @@
 13.09.2022 - cours par Vincent Boudias
 
-# TSSR AT1C1 - TP - Création d'une petite infrastructure host only
+# TP - Création d'une petite infrastructure host only
 
 ## Calcul des adresses [[IP]]
 Je crée un réseau en classe B privée, en /25, dans la plage de 172.16.0.0 à 172.16.31.255
