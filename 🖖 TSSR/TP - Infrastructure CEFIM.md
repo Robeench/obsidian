@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 @@ -0,0 +1,7 @@
+=======
+>>>>>>> Stashed changes
 # TP - Infrastructure CEFIM
 
 ![[Capture d’écran 2022-09-14 143107.png]]

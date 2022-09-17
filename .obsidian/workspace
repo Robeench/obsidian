@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "4a60460547fb7402",
+=======
+        "id": "0718b82370119d0a",
+>>>>>>> Stashed changes
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "🖖 TSSR/Administratif.md",
+=======
+            "file": "❤ Home/Notes du jour/17.09.2022.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -77,7 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/Administratif.md",
+=======
+                "file": "❤ Home/Notes du jour/17.09.2022.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/Administratif.md"
+=======
+                "file": "❤ Home/Notes du jour/17.09.2022.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -115,7 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/Administratif.md",
+=======
+                "file": "❤ Home/Notes du jour/17.09.2022.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -137,6 +157,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "active": "4a60460547fb7402",
   "lastOpenFiles": [
     "🖖 TSSR/Automatiser l'installation de logiciels.md",
@@ -149,5 +170,19 @@
     "Capture d’écran 2022-09-14 143107.png.md",
     "❤ Home/Notes du jour/17.09.2022.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Windows/Windows.md"
+=======
+  "active": "0718b82370119d0a",
+  "lastOpenFiles": [
+    "🖖 TSSR/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Configuration carte réseau VmWare.pdf",
+    "🖖 TSSR/Administratif/Administratif.md",
+    "🖖 TSSR/Administratif/attestation_assiduite_benedicte_leroux-1.pdf",
+    "❤ Home/Notes du jour/16.09.2022.md",
+    "❤ Home/Notes du jour/15.09.2022.md",
+    "🖖 TSSR/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
+    "🖖 TSSR/TSSR AT1C1 - consignes TP.md"
+>>>>>>> Stashed changes
   ]
 }
