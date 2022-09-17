@@ -126,6 +126,12 @@ Installation debian
 ### Installation Apache2
 `apt install apache2` 
 
+#### Modification page type Apache
+`nano /var/index/www/html/index.html`
+
+
+![[Capture d’écran 2022-09-14 133622.png]]
+
 ### Configuration [[IP]] static
 ``` bash
 su -
@@ -134,8 +140,3 @@ nano /etc/network/interfaces
 
 ![[Capture d’écran 2022-09-14 134433.png]]
 
-#### Modification page type Apache
-`nano /var/index/www/html/index.html`
-
-
-![[Capture d’écran 2022-09-14 133622.png]]
