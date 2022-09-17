@@ -54,8 +54,7 @@ choco install firefox -y
 Je passe ma machine en mode HostOnly
 - définition adresse IP fixe
 	ncpa.cpl
-	
-- intégration au domaine
+- changer le nom du poste
 
 ![[Capture d’écran 2022-09-14 123152.png]]
 
