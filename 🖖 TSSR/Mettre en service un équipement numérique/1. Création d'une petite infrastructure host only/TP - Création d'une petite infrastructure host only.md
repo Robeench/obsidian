@@ -90,7 +90,7 @@ Création d'un [[disque dur]] partitionné et nommé DATA
 
 #### Création d'un zone directe
 Permet d'associer un nom à une adresse [[IP]], soit :
-ratanp.lan -> 172.16.0.124
+dynamitejet.kid -> 172.16.0.125
 
 ![[Capture d’écran 2022-09-14 134806.png]]
 
