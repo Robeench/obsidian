@@ -3,6 +3,18 @@
 # TP - Création d'une petite infrastructure host only
 
 ## Calcul des adresses [[IP]]
+
+Adresse Réseau           = 172.16.0.0
+Adresse Broadcast        = 172.16.0.127
+Masque de Sous-Réseau    = 255.255.255.128
+Masque Inverse (Wildcard)= 0.0.0.127
+Nombre de Machines       = 126
+Première machine         = 172.16.0.1
+Dernière machine         = 172.16.0.126
+--------------------- OU -----------------
+Première machine         = 172.16.0.0
+Dernière machine         = 172.16.0.127
+
 Je crée un réseau en classe B privée, en /25, dans la plage de 172.16.0.0 à 172.16.31.255
 
 Masque de sous réseau = 255.255.255.128   /25
