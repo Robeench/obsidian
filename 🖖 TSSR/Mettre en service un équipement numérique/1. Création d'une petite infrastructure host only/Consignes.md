@@ -1,14 +1,12 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D0BAQEJIrLeIu3hgg/company-logo_200_200/0/1568885231849?e=2159024400&v=beta&t=VmG6ouGc0bZv7vXQLokouf_RUEIRI32PnPfz92LVwa4)
 
-# TSSR AT1C1 - TP : Création d'une petite infra host only
-
+# TP : Création d'une petite infra host only
 
 *MAJ le 22/06/2022 par T.CHERRIER*
 
-
 ## CONTEXTE RESEAU
 
-le réseau host only est en **classe B privé /25** dans la plage 
+Le réseau host only est en **classe B privé /25** dans la plage 
 *172.16.0.0 à 172.16.31.255*
 
 - [ ] Contruire un réseau host-only dans VirtualBox en n'assignant **pas de serveur DHCP** à VirtualBox
