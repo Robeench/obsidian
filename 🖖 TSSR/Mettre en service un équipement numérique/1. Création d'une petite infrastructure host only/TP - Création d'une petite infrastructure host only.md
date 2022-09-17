@@ -60,6 +60,7 @@ Je passe ma machine en mode HostOnly
 
 1. Installation et configuration AD
 [Installation et configuration AD](https://vadmintic.wordpress.com/systemes-windows/installation-et-configuration/installation-et-configuration-du-role-ad-ds/)
+- ajout au domaine
 
 2. Installation et configuration [[DNS]]
 [Installez un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#r-5950770)
