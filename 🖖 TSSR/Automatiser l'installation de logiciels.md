@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-@@ -0,0 +1,10 @@
-=======
->>>>>>> Stashed changes
 # Automatiser l'installation de logiciels
 
 ## Script PowerShell
@@ -11,7 +7,3 @@
 https://www.it-connect.fr/comment-deployer-un-logiciel-avec-chocolatey/
 
 https://www.numetopia.fr/mettre-a-jour-automatiquement-ses-logiciels-avec-chocolatey/
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes

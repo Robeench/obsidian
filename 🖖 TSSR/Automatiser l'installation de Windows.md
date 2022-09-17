@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-@@ -0,0 +1,49 @@
-=======
->>>>>>> Stashed changes
 # Automatiser l'installation de Windows
 
 XML = fichier de réponse généré
