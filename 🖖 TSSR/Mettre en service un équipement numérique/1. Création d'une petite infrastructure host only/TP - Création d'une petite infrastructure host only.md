@@ -72,7 +72,7 @@ Je passe ma machine en mode HostOnly
 
 ![[Capture d’écran 2022-09-14 135114.png]]
 
-### 
+### Définir le réseau host only pour mes machines
 - Host Network Manager
 	- modifier l'adresse IP de ma carte réseau pour qu'elle corresponde à ma gateway
 
