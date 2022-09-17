@@ -111,7 +111,10 @@ ratanp.lan -> 172.16.0.124
 ![[Capture d’écran 2022-09-14 133012.png]]
 
 ### Intégration au domaine
-Intégration au domaine rantanp.lan
+Ne pas oublier d'enlever le serveur DHCP automatique de VirtualBox
+	- file
+		- host network manager
+Intégration au domaine dynamitejet.kid
 
 ## VM3_DEBIAN
 Installation debian
