@@ -67,7 +67,8 @@ Je passe ma machine en mode HostOnly
 3. Installation et configuration [[DHCP]]
 [Install un serveur DHCP](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/networking/install-configure-dhcp-server-workgroup)
 
-- ajouter "new scope"
+- ajouter "new scope" qui permet de définir une plage d'adresses IP pour mon DHCP
+
 - gestion via la console
 	mmc.exe
 
