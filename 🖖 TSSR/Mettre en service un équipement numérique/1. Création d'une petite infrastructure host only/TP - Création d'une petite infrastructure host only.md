@@ -72,6 +72,10 @@ Je passe ma machine en mode HostOnly
 
 ![[Capture d’écran 2022-09-14 135114.png]]
 
+### 
+- Host Network Manager
+	- modifier l'adresse IP de ma carte réseau pour qu'elle corresponde à ma gateway
+
 ### Partition de [[disque dur]]
 Création d'un [[disque dur]] partitionné et nommé DATA
 [Créer et formater une partition de disque dur](https://support.microsoft.com/fr-fr/windows/cr%C3%A9er-et-formater-une-partition-de-disque-dur-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e)
