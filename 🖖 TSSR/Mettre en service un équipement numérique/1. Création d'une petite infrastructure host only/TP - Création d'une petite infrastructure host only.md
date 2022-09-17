@@ -19,21 +19,6 @@ Nom de domaine = dynamitejet.kid
 Première adresse disponible = 172.16.0.0
 Dernière adresse disponible = 172.16.0.127
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Schéma de réseau
 ![[Diagramme sans nom(1).jpg]]
 
