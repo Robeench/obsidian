@@ -20,7 +20,7 @@ Première adresse disponible = 172.16.0.0
 Dernière adresse disponible = 172.16.0.127
 
 ## Schéma de réseau
-![[Diagramme sans nom(1).jpg]]
+![[Capture 1.png]]
 
 ## VM1_WSRV2019
 Installation [[Windows]] Server 2019
