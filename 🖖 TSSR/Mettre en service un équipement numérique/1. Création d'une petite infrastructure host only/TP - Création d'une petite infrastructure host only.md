@@ -4,15 +4,6 @@
 
 ## Calcul des adresses [[IP]]
 [Calcul des adresses IP](https://cric.grenoble.cnrs.fr/)
-Adresse Réseau = 172.16.0.0
-Adresse Broadcast        = 172.16.0.127
-Masque Inverse (Wildcard)= 0.0.0.127
-Nombre de Machines       = 126
-Première machine         = 172.16.0.1
-Dernière machine         = 172.16.0.126
---------------------- OU -----------------
-Première machine         = 172.16.0.0
-Dernière machine         = 172.16.0.127
 
 Je crée un réseau en classe B privée, en /25, dans la plage de 172.16.0.0 à 172.16.31.255
 
@@ -22,11 +13,11 @@ Gateway = 172.16.0.1
 Serveur Apache (VM3) = 172.16.0.125
 via [[DHCP]] (VM2), doit correspondre à = 172.16.0.2
 Broadcast = 172.16.0.127
-Carte réseau = 172.16.0.1
-Nom de domaine = rantanp.lan
+Adresse réseau = 172.16.0.0
+Nom de domaine = dynamitejet.kid
 
-Première adresse disponible = 172.16.0.1
-Dernière adresse disponible = 172.16.0.126
+Première adresse disponible = 172.16.0.0
+Dernière adresse disponible = 172.16.0.127
 
 ## Schéma de réseau
 ![[Diagramme sans nom(1).jpg]]
