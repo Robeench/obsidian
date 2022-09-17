@@ -50,9 +50,6 @@ choco install notepadplusplus -y
 choco install firefox -y
 ```
 
-
-
-
 ### Configuration des rôles
 ![[Capture d’écran 2022-09-14 123152.png]]
 
