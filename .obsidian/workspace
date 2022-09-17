@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+            "file": "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md"
+                "file": "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,15 +139,15 @@
   },
   "active": "e23883e540fb88be",
   "lastOpenFiles": [
+    "📚 Apprendre/Systèmes & réseaux/OS/Windows/Commandes Windows.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Windows/Windows.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Arborescence Linux.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Configuration adresse IP - Linux.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
     "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
-    "Capture.png",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure CEFIM.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure_CEFIM.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TSSR AT1C1 - consignes TP.md",
-    "🖖 TSSR/Administratif/Administratif.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md"
+    "Capture.png"
   ]
 }
