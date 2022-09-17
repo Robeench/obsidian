@@ -16,8 +16,8 @@ Broadcast = 172.16.0.127
 Adresse réseau = 172.16.0.0
 Nom de domaine = dynamitejet.kid
 
-Première adresse disponible = 172.16.0.0
-Dernière adresse disponible = 172.16.0.127
+Première adresse disponible = 172.16.0.2
+Dernière adresse disponible = 172.16.0.126
 
 ## Schéma de réseau
 ![[Capture 1.png]]
