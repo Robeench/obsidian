@@ -113,8 +113,5 @@ nano /etc/network/interfaces
 #### Modification page type Apache
 `nano /var/index/www/html/index.html`
 
-<<<<<<< Updated upstream
+
 ![[Capture d’écran 2022-09-14 133622.png]]
-=======
-![[Capture d’écran 2022-09-14 133622.png]]
->>>>>>> Stashed changes

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels.md",
+            "file": "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 408.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels.md",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels.md"
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels.md",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e23883e540fb88be",
   "lastOpenFiles": [
-    "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - consignes TP.md",
     "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TP - Infrastructure CEFIM.md",
     "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/infra_cefim.drawio.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/Configuration carte réseau VmWare.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
     "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/Consignes.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/Configuration carte réseau VmWare.pdf",
+    "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/Création d'une petite infrastructure host only/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/Administratif/Présentation personnelle.pdf"
   ]
 }
