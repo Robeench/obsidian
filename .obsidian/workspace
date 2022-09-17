@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e23883e540fb88be",
+        "id": "4a60460547fb7402",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "❤ Home/Notes du jour/11.09.2022.md",
+            "file": "🖖 TSSR/Administratif.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 329.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/Notes du jour/11.09.2022.md",
+                "file": "🖖 TSSR/Administratif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "❤ Home/Notes du jour/11.09.2022.md"
+                "file": "🖖 TSSR/Administratif.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/Notes du jour/11.09.2022.md",
+                "file": "🖖 TSSR/Administratif.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,23 +130,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e23883e540fb88be",
+  "active": "4a60460547fb7402",
   "lastOpenFiles": [
-    "❤ Home/Notes du jour/10.09.2022.md",
-    "❤ Home/Notes du jour/05.09.2022.md",
-    "Projets à la maison/NAS.md",
-    "📚 Apprendre/Développement web/Langages/Markdown.md",
-    "📚 Apprendre/Systèmes & réseaux/Applications/Open Media Vault.md",
-    "Installing.md",
-    "🖖 TSSR/Administratif/Fiche mission TSSR.pdf",
-    "🖖 TSSR/Administratif/Planning TSSR.pdf",
-    "🖖 TSSR/Administratif/Plan de formation TSSR.pdf",
-    "❤ Home/Notes du jour/11.09.2022.md"
+    "🖖 TSSR/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/TP - Infrastructure CEFIM.md",
+    "🖖 TSSR/TSSR AT1C1 - TP - Création d'une petite infrastructure host only.md",
+    "🖖 TSSR/TSSR AT1C1 - TP - Création d'une petite infra host only.md",
+    "🖖 TSSR/Administratif.md",
+    "Capture d’écran 2022-09-14 143107.png.md",
+    "❤ Home/Notes du jour/17.09.2022.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Windows/Windows.md"
   ]
 }

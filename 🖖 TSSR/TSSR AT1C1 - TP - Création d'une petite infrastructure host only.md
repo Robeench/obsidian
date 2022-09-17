@@ -1,0 +1,116 @@
+13.09.2022 - cours par Vincent Boudias
+
+# TSSR AT1C1 - TP - Création d'une petite infrastructure host only
+
+## Calcul des adresses [[IP]]
+Je crée un réseau en classe B privée, en /25, dans la plage de 172.16.0.0 à 172.16.31.255
+
+Masque de sous réseau = 255.255.255.128   /25
+Gateway = 172.16.0.126
+[[Windows]] Server (VM1) = 172.16.0.125
+Serveur Apache (VM3) = 172.16.0.124
+via [[DHCP]] (VM2), doit correspondre à = 172.16.0.2
+Broadcast = 172.16.0.127
+Carte réseau = 172.16.0.1
+Nom de domaine = rantanp.lan
+
+Première adresse disponible = 172.16.0.1
+Dernière adresse disponible = 172.16.0.126
+
+## Schéma de réseau
+![[Diagramme sans nom(1).jpg]]
+
+## VM1_WSRV2019
+Installation [[Windows]] Server 2019
+- 2Go [[RAM]]
+- 20Go de disque
+![[Capture d’écran 2022-09-14 120801.png]]
+
+
+### Installation logiciels
+Avec une connexion en bridge qui me permet d'avoir un accès à internet : 
+- 7zip
+- SumatraPDF
+- Notepad++
+- Firefox
+- Guest additions
+
+![[Capture d’écran 2022-09-14 122608.png]]
+
+### Configuration des rôles
+![[Capture d’écran 2022-09-14 123152.png]]
+
+1. Installation et configuration AD
+[Installation et configuration AD](https://vadmintic.wordpress.com/systemes-windows/installation-et-configuration/installation-et-configuration-du-role-ad-ds/)
+
+2. Installation et configuration [[DNS]]
+[Installez un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#r-5950770)
+
+3. Installation et configuration [[DHCP]]
+[Install un serveur DHCP](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/networking/install-configure-dhcp-server-workgroup)
+
+![[Capture d’écran 2022-09-14 135114.png]]
+
+### Partition de [[disque dur]]
+Création d'un [[disque dur]] partitionné et nommé DATA
+[Créer et formater une partition de disque dur](https://support.microsoft.com/fr-fr/windows/cr%C3%A9er-et-formater-une-partition-de-disque-dur-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e)
+
+![[Capture d’écran 2022-09-14 132031.png]]
+
+### Partage de fichiers
+[Partage de fichiers sur un réseau dans Windows](https://support.microsoft.com/fr-fr/windows/partage-de-fichiers-sur-un-r%C3%A9seau-dans-windows-b58704b2-f53a-4b82-7bc1-80f9994725bf)
+[Protocole SMB pour les débutants](https://www.it-connect.fr/le-protocole-smb-pour-les-debutants/)
+[Partager un dossier sur Windows Server](https://rdr-it.com/partager-dossier-windows-serveur/)
+
+![[Capture d’écran 2022-09-13 212643.png]]
+
+### Configurer serveur [[DNS]] avec un alias Apache
+[Configurer un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#/id/r-5950770)
+
+#### Création d'un zone directe
+Permet d'associer un nom à une adresse [[IP]], soit :
+ratanp.lan -> 172.16.0.124
+
+![[Capture d’écran 2022-09-14 134806.png]]
+
+## VM2_W7PRO
+- 32bits
+- 1Go [[RAM]]
+- 12Go disque
+
+![[Capture d’écran 2022-09-14 132732.png]]
+
+### Installation de logiciels
+- 7zip
+- SumatraPDF
+- Notepad++
+- Firefox
+- GuestAdditions
+
+![[Capture d’écran 2022-09-14 133012.png]]
+
+### Intégration au domaine
+Intégration au domaine rantanp.lan
+
+## VM3_DEBIAN
+Installation debian
+- 1Go [[RAM]]
+- 8GO disque
+
+![[Capture d’écran 2022-09-14 133708.png]]
+
+### Installation Apache2
+`apt install apache2` 
+
+### Configuration [[IP]] static
+``` bash
+su -
+nano /etc/network/interfaces
+```
+
+![[Capture d’écran 2022-09-14 134433.png]]
+
+#### Modification page type Apache
+`nano /var/index/www/html/index.html`
+
+![[Capture d’écran 2022-09-14 133622.png]]
