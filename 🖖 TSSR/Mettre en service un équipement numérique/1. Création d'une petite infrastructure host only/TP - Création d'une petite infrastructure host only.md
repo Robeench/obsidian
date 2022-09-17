@@ -52,6 +52,7 @@ choco install firefox -y
 
 ### Définir le réseau host only pour mes machines
 - Host Network Manager
+	- supprimer le DHCP automatique de virtualbox
 	- modifier l'adresse IP de ma carte réseau pour qu'elle corresponde à ma gateway
 
 ### Configuration des rôles
@@ -74,8 +75,7 @@ Je passe ma machine en mode Host Only
 
 Configurer serveur [[DNS]] avec un alias Apache
 [Configurer un serveur DNS](https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server/5835581-installez-un-serveur-dns#/id/r-5950770)
-
-#### Création d'un zone directe
+   - Création d'un zone directe
 Permet d'associer un nom à une adresse [[IP]], soit :
 dynamitejet.kid -> 172.16.0.125
 
@@ -118,11 +118,7 @@ Création d'un [[disque dur]] partitionné et nommé DATA
 ![[Capture d’écran 2022-09-14 133012.png]]
 
 ### Intégration au domaine
-Ne pas oublier d'enlever le serveur DHCP automatique de VirtualBox
-	- file
-		- host network manager
 Intégration au domaine dynamitejet.kid
-
 Lorsque je me connecte, mes identifiants admin du serveur AD me sont demandés.
 
 ## VM3_DEBIAN
