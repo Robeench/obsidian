@@ -67,6 +67,9 @@ Je passe ma machine en mode HostOnly
 3. Installation et configuration [[DHCP]]
 [Install un serveur DHCP](https://docs.microsoft.com/fr-fr/troubleshoot/windows-server/networking/install-configure-dhcp-server-workgroup)
 
+- gestion via la console
+	mmc.exe
+
 ![[Capture d’écran 2022-09-14 135114.png]]
 
 ### Partition de [[disque dur]]
