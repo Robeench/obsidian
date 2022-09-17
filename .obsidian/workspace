@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Systèmes & réseaux/Applications/Virtualisation/Virtual Box.md",
+            "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Systèmes & réseaux/Applications/Virtualisation/Virtual Box.md",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Systèmes & réseaux/Applications/Virtualisation/Virtual Box.md"
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Systèmes & réseaux/Applications/Virtualisation/Virtual Box.md",
+                "file": "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,8 @@
   },
   "active": "e23883e540fb88be",
   "lastOpenFiles": [
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
+    "📚 Apprendre/Systèmes & réseaux/Applications/Virtualisation/Virtual Box.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Linux/Créer des utilisateurs - Linux.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Linux/Configuration adresse IP - Linux.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
@@ -146,8 +148,6 @@
     "📚 Apprendre/Systèmes & réseaux/OS/Linux/Linux.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Windows/Commandes Windows.md",
     "📚 Apprendre/Systèmes & réseaux/OS/Windows/Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf"
+    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md"
   ]
 }

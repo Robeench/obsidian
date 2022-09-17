@@ -39,6 +39,15 @@ Avec une connexion en bridge qui me permet d'avoir un accès à internet :
 
 ![[Capture d’écran 2022-09-14 122608.png]]
 
+J'installe chocolatey qui me permet d'installer les paquets directement via PowerShell
+
+```PowerShell
+https://lecrabeinfo.net/virtualbox-installer-les-additions-invite-guest-additions.html#sur-une-machine-virtuelle-windows
+```
+
+
+
+
 ### Configuration des rôles
 ![[Capture d’écran 2022-09-14 123152.png]]
 
