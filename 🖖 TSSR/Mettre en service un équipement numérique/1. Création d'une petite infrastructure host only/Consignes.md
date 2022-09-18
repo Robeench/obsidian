@@ -9,7 +9,7 @@
 Le réseau host only est en **classe B privé /25** dans la plage 
 *172.16.0.0 à 172.16.31.255*
 
-- [ ] Contruire un réseau host-only dans VirtualBox en n'assignant **pas de serveur DHCP** à VirtualBox
+- [ ] Construire un réseau host-only dans VirtualBox en n'assignant **pas de serveur DHCP** à VirtualBox
 - [ ] La dernière adresse possible est celle de la gateway sur l'Host
 - [ ] L'avant dernière est celle sur windows serveur 2019
 - [ ] Celle juste avant est celle du serveur apache
