@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D0BAQEJIrLeIu3hgg/company-logo_200_200/0/1568885231849?e=2159024400&v=beta&t=VmG6ouGc0bZv7vXQLokouf_RUEIRI32PnPfz92LVwa4)
 
-# TP : Création d'une petite infra host only
+# TP - Création d'une petite infra host only
 
 *MAJ le 22/06/2022 par T.CHERRIER*
 
@@ -40,8 +40,6 @@ Le réseau host only est en **classe B privé /25** dans la plage
 - [ ] une autre navigateur que IE/Edge
 - [ ] poste sera intégré au domaine mondomaine.lan
 - [ ] installer les GuestAdditions
-
-
 
 **VM3 : Debian11 64bits** (1go de ram et 8go de disque) avec un serveur apache minimal
 
