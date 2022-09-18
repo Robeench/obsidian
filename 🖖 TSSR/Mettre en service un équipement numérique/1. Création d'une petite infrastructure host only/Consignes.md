@@ -20,8 +20,6 @@ Le réseau host only est en **classe B privé /25** dans la plage
 3 VMS décrites ci-dessous
 
 ## VMs
-
-
 **VM1 : windows serveur 2019/2022** (2go de ram 20go de disque) avec les logiciels suivants:
 
 - [ ] 7zip
