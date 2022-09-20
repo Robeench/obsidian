@@ -6,4 +6,6 @@ Démarche d'amélioration en cours
 Artefact pour la CNIL = désignation du DPO, référent chez nous de ce travail là. La trame doit être effectué par nous. La cagette l'a fait, les contacter pour récupérer un dossier type.
 
 
-## 
+## SSO
+A faire après une installation secure. Et pas pour le moment.
+
