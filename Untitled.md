@@ -8,6 +8,7 @@ Artefact pour la CNIL = désignation du DPO, référent chez nous de ce travail 
 
 ## SSO
 A faire après une installation secure. Et pas pour le moment.
+doit m'envoyer une idée globale du montant pour la SSO (jours de taff ...)
 
 ## Installation
-Installation propre = 
+Installation propre
