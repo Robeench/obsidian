@@ -29,4 +29,6 @@ possibilité les week-ends
 ## Raid mine
 outil de ticketing
 
+## Contact
 04.34.00.07.01 (commercial) / 04.34.00.07.02 (technique)
+Contacter en priorité Jérémy qui relance ensuite les autres. 
