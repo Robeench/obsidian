@@ -5,7 +5,6 @@ via ce fichier, on décide ce qui doit être sécurisé
 Démarche d'amélioration en cours
 Artefact pour la CNIL = désignation du DPO, référent chez nous de ce travail là. La trame doit être effectué par nous. La cagette l'a fait, les contacter pour récupérer un dossier type.
 
-
 ## SSO
 A faire après une installation secure. Et pas pour le moment.
 doit m'envoyer une idée globale du montant pour la SSO (jours de taff ...)
@@ -26,5 +25,8 @@ hors de ces horaires + week-end = majorés de 100%
 
 ## Formation
 possibilité les week-ends
+
+## Raid mine
+outil de ticketing
 
 04.34.00.07.01 (commercial) / 04.34.00.07.02 (technique)
