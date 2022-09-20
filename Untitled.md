@@ -12,6 +12,7 @@ doit m'envoyer une idée globale du montant pour la SSO (jours de taff ...)
 ## Installation
 Installation propre
 Pas de documentation pour Odoo
+Documentation faite par des coop, dispo sur l'interfoocoop.
 
 ## Sécurité
 Backup ok
