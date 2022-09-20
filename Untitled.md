@@ -1,1 +1,2 @@
-RGPD = la cagette demande un fichier excel avec la liste des endroits où on détient des informat
+RGPD = la cagette demande un fichier excel avec la liste des endroits où on détient des informations, le type et qui a accès, le temps de conservation. 
+via ce fichier, on décide ce qui doit être sécurisé
