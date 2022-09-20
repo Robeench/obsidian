@@ -24,3 +24,5 @@ astreinte 9h-18h
 hors de ces horaires = taux à 30% supplémentaire (6h à 22h)
 hors de ces horaires + week-end = majorés de 100%
 
+## Formation
+possibilité les week-ends
