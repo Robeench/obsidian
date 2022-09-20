@@ -13,3 +13,10 @@ doit m'envoyer une idée globale du montant pour la SSO (jours de taff ...)
 ## Installation
 Installation propre
 Pas de documentation pour Odoo
+
+## Sécurité
+Backup ok
+15 jours
+Mise à jour sur les serveurs = notifs manuelles, le mercredi
+
+## Heures
