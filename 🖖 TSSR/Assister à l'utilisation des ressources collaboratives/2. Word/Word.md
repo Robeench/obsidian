@@ -11,3 +11,7 @@ https://openclassrooms.com/fr/courses/5870066-initiez-vous-au-traitement-de-text
 ## Créer une bordure
 [Couleur et bordure de page](https://www.youtube.com/watch?v=KwWVVdoHl6Q)
 
+[Ajouter un filigrane brouillon][https://support.microsoft.com/fr-fr/office/ajouter-un-filigrane-brouillon-e7258ae7-575d-4b58-92d3-9a98c1f067e4)]
+
+[Insérer la date du jour](https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-la-date-du-jour-dans-un-document-word-fe7c08fe-7192-44a5-ac0a-88ccd51532ab)
+
