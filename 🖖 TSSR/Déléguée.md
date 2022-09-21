@@ -1,1 +1,2 @@
-- semaine bureautique : le fichier 
+- semaine bureautique : le fichier word est à modifier, il est incompréhensible
+- 
