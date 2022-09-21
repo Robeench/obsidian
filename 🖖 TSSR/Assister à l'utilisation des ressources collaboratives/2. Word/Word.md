@@ -8,3 +8,6 @@ https://support.microsoft.com/fr-fr/office/formation-word-pour-windows-7bcd85e6-
 
 https://openclassrooms.com/fr/courses/5870066-initiez-vous-au-traitement-de-texte/6097586-decouvrez-le-perimetre-dusage-du-traitement-de-texte
 
+## Créer une bordure
+[Couleur et bordure de page](https://www.youtube.com/watch?v=KwWVVdoHl6Q)
+
