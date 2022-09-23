@@ -17,8 +17,9 @@ https://openclassrooms.com/fr/courses/5870066-initiez-vous-au-traitement-de-text
 
 
 ### Basculer les codes de champs
+
+Juste avant l'accolade. Valider avec F9
 ```
 \@"dddd dd MMMM yyyy" (pour la date)
 \@"HH:mm" (pour l'horaire)
-valider avec F9
 ```
