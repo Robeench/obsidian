@@ -15,3 +15,8 @@ https://openclassrooms.com/fr/courses/5870066-initiez-vous-au-traitement-de-text
 
 [Insérer la date du jour](https://support.microsoft.com/fr-fr/office/ins%C3%A9rer-la-date-du-jour-dans-un-document-word-fe7c08fe-7192-44a5-ac0a-88ccd51532ab)
 
+
+### Basculer les codes de champs
+```
+\@"dddd dd MMMM yyyy"
+```
