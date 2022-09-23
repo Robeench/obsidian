@@ -18,5 +18,7 @@ https://openclassrooms.com/fr/courses/5870066-initiez-vous-au-traitement-de-text
 
 ### Basculer les codes de champs
 ```
-\@"dddd dd MMMM yyyy"
+\@"dddd dd MMMM yyyy" (pour la date)
+\@"HH:mm" (pour l'horaire)
+valider avec F9
 ```
