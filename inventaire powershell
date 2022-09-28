@@ -1,1 +1,33 @@
 # Inventaire et PowerShell
+
+- SNMP
+- agent
+
+
+## DHCP ou IP
+
+> affiche l'IP
+  (Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).IPAddress 
+
+> affiche DHCP ou Manual
+  (Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).PrefixOrigin
+  
+## Nom, modèle, domaine
+
+> affiche le nom
+(Get-CimInstance -ClassName Win32_ComputerSystem).Name
+
+> affiche le modèle
+(Get-CimInstance -ClassName Win32_ComputerSystem).Model
+
+> affiche le domaine
+(Get-CimInstance -ClassName Win32_ComputerSystem).Domain
+
+## Admin
+
+> affiche le nom des membres du groupe Administrateurs
+(Get-LocalGroupMember Administrateurs).Name
+
+## Virtualisation
+> Afficher les VM d'HyperV
+Get-VM
