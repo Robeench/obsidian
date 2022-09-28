@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "❤ Home/Cadeaux.md",
-=======
-            "file": "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
->>>>>>> Stashed changes
+            "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
             "mode": "source",
             "source": false
           }
@@ -81,11 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "❤ Home/Cadeaux.md",
-=======
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
->>>>>>> Stashed changes
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "❤ Home/Cadeaux.md"
-=======
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md"
->>>>>>> Stashed changes
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md"
               }
             }
           },
@@ -127,11 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "❤ Home/Cadeaux.md",
-=======
-                "file": "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
->>>>>>> Stashed changes
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -155,28 +139,15 @@
   },
   "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "❤ Home/Notes du jour/31.08.2022.md",
-    "❤ Home/Notes du jour/28.09.2022.md",
-    "❤ Home/Notes du jour/21.09.2022.md",
-    "❤ Home/Notes du jour/22.09.2022.md",
-    "❤ Home/Notes du jour/23.09.2022.md",
-    "❤ Home/Notes du jour/02.09.2022.md",
-    "❤ Home/Notes du jour/01.09.2022.md",
-    "❤ Home/Notes du jour/04.09.2022.md",
-    "❤ Home/Notes du jour/03.09.2022.md",
-    "🌿 Le Troglo/Untitled.md"
-=======
-    "❤ Home/Notes du jour/28.09.2022.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
-    "🖖 TSSR/Mettre en service un équipement numérique/2. Connaissance du câblage réseau et des équipements actifs/Glossaire câblage et équipement.md",
-    "Telechargements/Pasted image 20220917202552.png",
-    "❤ Home/Lire/Vaisseau d'arcane - Adrien TOMAS.md",
-    "📚 Apprendre/Lire/Bibliographie & webographie.md",
-    "❤ Home/Notes du jour/18.09.2022.md",
-    "❤ Home/Notes du jour/17.09.2022.md"
->>>>>>> Stashed changes
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/3. PowerPoint/PowerPoint.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Word.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md",
+    "❤ Home/Cadeaux.md",
+    "❤ Home/Notes du jour/31.08.2022.md"
   ]
 }
