@@ -21,9 +21,25 @@
 `[DateTime]` : date et heure
 `[array]` : tableau de valeur
 
+## Pipeline
+`|` : la sortie d'une commande devient l'entrée de la suivante
 
+## Fonctions
+``` Powershell
+PS C:\Users\benedicte.leroux> function add
+>> {
+>> $add =[int](2+2)
+>> write-output "$add"
+>> }
+PS C:\Users\benedicte.leroux> add
+4
+```
 
+## Commandes
 
 `Get-Location` : savoir où je suis
 `Get-ChildItem` : afficher le contenu d'un dossier
+`Get-Help NomCommande -online` : m'ouvre la page complète d'aide
 ``Get-DnsServerCache`` : permet d'affiche le cache DNS
+`-WhatIf` : m'indique ce qui se passera si j'exécute cette commande
+`-confirm` : me demande la confirmation pour chaque élément
