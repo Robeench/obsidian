@@ -1,5 +1,11 @@
 # PowerShell
 
+## Ecrire
+``` PowerShell
+write-host "Hello World !"
+```
+
+
 ## Verbe
  `Add`  permet d’**ajouter** des données ou informations 
  `Get`  permet d’**obtenir** des données ou informations
