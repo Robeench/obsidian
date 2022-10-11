@@ -28,5 +28,39 @@ wget https://download.nextcloud.com/server/releases/latest-24.tar.bz2
 #Extraction dans le répertoire /var/www/
 tar -xvf latest-24.tar.bz2 -C /var/www/
 
-#Editer le fichier de con
+#Editer le fichier de configuration
+nano /etc/apache2/sites-available/nextcloud.conf
+
+#Contenu : 
+Alias / "/var/www/nextcloud/"
+<Directory /var/www/nextcloud/>
+        Require all granted
+        AllowOverride All
+        Options FollowSymLinks MultiViews
+        <IfModule mod_dav.c>
+                Dav off
+        </IfModule>
+        <IfModule mod_headers.c>
+                Header always set Strict-Transport-Security "max-age=15552000; includeSubDomains"
+        </IfModule>
+</Directory>
+```
+
+``` Shell
+#Activation du site
+a2ensite nextcloud.conf
+
+#Activation des modules
+a2enmod rewrite
+a2enmod headers
+a2enmod env
+a2enmod dir
+a2enmod mime
+
+#SSL
+a2enmod ssl
+a2ensite default-ssl
+
+#Redémarrage service apache
+systemctl restart apache2
 ```
