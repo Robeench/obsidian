@@ -9,7 +9,21 @@
         "state": {
           "type": "image",
           "state": {
+<<<<<<< HEAD
             "file": "❤ Home/Voir/Films d'automne.jpg"
+=======
+<<<<<<< HEAD
+            "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Microsoft 365.md",
+=======
+<<<<<<< HEAD
+            "file": "❤ Home/Notes du jour/11.10.2022.md",
+=======
+            "file": "Projets à la maison/Nextcloud.md",
+>>>>>>> 6a5d52aee3ed8fccbfe7a4b0e32f16be458ad765
+>>>>>>> b57dc513d184b4865dd2f21d0dbf4ab95176d0d6
+            "mode": "source",
+            "source": false
+>>>>>>> ed102b9ada83f024ad78d4c3b69bbeb466b39dad
           }
         }
       }
@@ -83,7 +97,19 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "❤ Home/Voir/Films d'automne.jpg",
+=======
+<<<<<<< HEAD
+                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Microsoft 365.md",
+=======
+<<<<<<< HEAD
+                "file": "❤ Home/Notes du jour/11.10.2022.md",
+=======
+                "file": "Projets à la maison/Nextcloud.md",
+>>>>>>> 6a5d52aee3ed8fccbfe7a4b0e32f16be458ad765
+>>>>>>> b57dc513d184b4865dd2f21d0dbf4ab95176d0d6
+>>>>>>> ed102b9ada83f024ad78d4c3b69bbeb466b39dad
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +149,51 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "❤ Home/Voir/Films d'automne.jpg"
               }
             }
+=======
+<<<<<<< HEAD
+                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Microsoft 365.md"
+=======
+<<<<<<< HEAD
+                "file": "❤ Home/Notes du jour/11.10.2022.md"
+=======
+                "file": "Projets à la maison/Nextcloud.md"
+>>>>>>> 6a5d52aee3ed8fccbfe7a4b0e32f16be458ad765
+>>>>>>> b57dc513d184b4865dd2f21d0dbf4ab95176d0d6
+              }
+            }
+          },
+          {
+            "id": "eb953ec157d92447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< HEAD
+                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Microsoft 365.md",
+=======
+<<<<<<< HEAD
+                "file": "❤ Home/Notes du jour/11.10.2022.md",
+=======
+                "file": "Projets à la maison/Nextcloud.md",
+>>>>>>> 6a5d52aee3ed8fccbfe7a4b0e32f16be458ad765
+>>>>>>> b57dc513d184b4865dd2f21d0dbf4ab95176d0d6
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d0a73622232b9318",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+>>>>>>> ed102b9ada83f024ad78d4c3b69bbeb466b39dad
           }
         ]
       }
@@ -136,6 +204,45 @@
   },
   "active": "c08e7ba36ab6bb02",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "❤ Home/Notes du jour/13.10.2022.md"
+=======
+<<<<<<< HEAD
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/SharePoint.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Tenant.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/TP.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/MS 365/Microsoft 365.md",
+    "❤ Home/Notes du jour/13.10.2022.md",
+    "🖖 TSSR/Untitled.md",
+    "❤ Home/Notes du jour/12.10.2022.md",
+    "Projets à la maison/Nextcloud.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
+    "📚 Apprendre/Systèmes & réseaux/Modèle OSI.md"
+=======
+<<<<<<< HEAD
+    "❤ Home/Cadeaux.md",
+    "❤ Home/Notes du jour/08.10.2022.md",
+    "❤ Home/Notes du jour/09.10.2022.md",
+    "❤ Home/Notes du jour/03.10.2022.md",
+    "❤ Home/Notes du jour/02.10.2022.md",
+    "📚 Apprendre/Langages/Vim.md",
+    "Devoirs.md",
+    "❤ Home/Lire/A lire.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "Telechargements/Pasted image 20220930211153.png"
+=======
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
+    "Projets à la maison/Nextcloud.md",
+    "📚 Apprendre/Systèmes & réseaux/Modèle OSI.md",
+    "📚 Apprendre/Systèmes & réseaux/Modèle TCP IP.md",
+    "conflict-files-obsidian-git.md",
+    "Projets à la maison/NAS.md",
+    "📚 Apprendre/Systèmes & réseaux/Applications/OVH/Lier un domaine à un hébergement.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/NAT.md",
+    "Devoirs.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/SSH.md"
+>>>>>>> 6a5d52aee3ed8fccbfe7a4b0e32f16be458ad765
+>>>>>>> b57dc513d184b4865dd2f21d0dbf4ab95176d0d6
+>>>>>>> ed102b9ada83f024ad78d4c3b69bbeb466b39dad
   ]
 }
