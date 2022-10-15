@@ -32,9 +32,9 @@ Besoins : 
     
 ## Création d’un [[SharePoint]] Equipe, nommé TEST_TP_1
 
-- [x] Les [[Sharepoint]] devront être privés ; ✅ 2022-10-13
+- [x] Les [[SharePoint]] devront être privés ; ✅ 2022-10-13
 - [x] La page d’accueil doit contenir un message de bienvenue ainsi qu’un lien vers une page Contact de l’entreprise (utilisez [www.google.fr](http://www.google.fr)) ; ✅ 2022-10-13
-- [x] Teams devra être activé pour chaque [[Sharepoint]] ; ✅ 2022-10-13
+- [x] Teams devra être activé pour chaque [[SharePoint]] ; ✅ 2022-10-13
 - [x] Chaque membre de l’équipe sera propriétaire, les autres seront membres ; ✅ 2022-10-13
 - [x] Créer un dossier partagé nommé ETUDE COMPARATIVE et intégrez un tableau comparatif avec les résultats de vos chiffrage. ✅ 2022-10-13
 
