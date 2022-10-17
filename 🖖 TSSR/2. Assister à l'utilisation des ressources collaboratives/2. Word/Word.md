@@ -1,5 +1,3 @@
-# Word
-
 https://campus.cefim.eu/pluginfile.php/73840/mod_page/content/4/417000-redigez-facilement-des-documents-avec-word.pdf
 
 https://support.microsoft.com/fr-fr/office/utiliser-le-publipostage-pour-personnaliser-des-lettres-d7686bb1-3077-4af3-926b-8c825e9505a3?ui=fr-fr&rs=fr-fr&ad=fr
