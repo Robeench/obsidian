@@ -1,6 +1,5 @@
 {
   "main": {
-<<<<<<< HEAD
     "id": "6dd24eaeee48dfb6",
     "type": "split",
     "children": [
@@ -10,46 +9,23 @@
         "children": [
           {
             "id": "92282bdc8f537c3e",
-=======
-    "id": "d5b8f015fdc101d8",
-    "type": "split",
-    "children": [
-      {
-        "id": "7d453a676e7442f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d558acae2cad140",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
-=======
-                "file": "❤ Home/Notes du jour/16.10.2022.md",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "e1a39d984b9356be",
-=======
-            "id": "16bdeb198a6ff263",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/Untitled.md",
-=======
-                "file": "❤ Home/Notes du jour/17.10.2022.md",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +38,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
     "id": "4452a2090cfe1bd0",
     "type": "split",
     "children": [
@@ -72,17 +47,6 @@
         "children": [
           {
             "id": "377fc6cf0f299bc0",
-=======
-    "id": "7abf217cefe5afaf",
-    "type": "split",
-    "children": [
-      {
-        "id": "5fbe7d25fcefc27f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cdccfce9e22dc3a2",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,22 +56,13 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "02d467d6b84eaf9e",
-=======
-            "id": "4e962124beab9e89",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
                 "matchingCase": false,
-=======
-                "query": "ssh",
-                "matchingCase": true,
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -116,11 +71,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "d26010e6ae466cc7",
-=======
-            "id": "89d9fcc4ba968f3e",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -134,7 +85,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
     "id": "ba641da13afd60f6",
     "type": "split",
     "children": [
@@ -144,17 +94,6 @@
         "children": [
           {
             "id": "4f0fe43a33ff09e6",
-=======
-    "id": "75ae00157087bdef",
-    "type": "split",
-    "children": [
-      {
-        "id": "1825952417d86e74",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ee56e4fe97ae1da",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -162,60 +101,36 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "4cd5468f3964a9c0",
-=======
-            "id": "afdf50fc83afbacf",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/Untitled.md",
-=======
-                "file": "❤ Home/Notes du jour/17.10.2022.md",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-<<<<<<< HEAD
                 "unlinkedCollapsed": true
-=======
-                "unlinkedCollapsed": false
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "b66518d01e55511a",
-=======
-            "id": "5b029795c9d17a3a",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/Untitled.md",
-=======
-                "file": "❤ Home/Notes du jour/17.10.2022.md",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
             "id": "3506c9eb4b011c7b",
-=======
-            "id": "a87db8253515a150",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -226,17 +141,12 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "d34bffc60d8d1e85",
-=======
-            "id": "16dc0184acf551b0",
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/Untitled.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md"
               }
             }
           }
@@ -245,26 +155,14 @@
     ],
     "direction": "horizontal",
     "width": 300,
-=======
-                "file": "❤ Home/Notes du jour/17.10.2022.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200,
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
     "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-<<<<<<< HEAD
   "active": "e1a39d984b9356be",
   "lastOpenFiles": [
+    "🖖 TSSR/Untitled.md",
     "Telechargements/Configuration-Management-Database-CMDB.png",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
@@ -272,19 +170,5 @@
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
     "❤ Home/Notes du jour/17.10.2022.md"
-=======
-  "active": "16bdeb198a6ff263",
-  "lastOpenFiles": [
-    "🖖 TSSR/TP - Installation d'un serveur web LAMP.md",
-    "🖖 TSSR/Untitled.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/SSH.md",
-    "📚 Apprendre/Langages/Git.md",
-    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
-    "❤ Home/Notes du jour/16.10.2022.md",
-    "Devoirs.md",
-    "❤ Home/Notes du jour/15.10.2022.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md"
->>>>>>> be6e419feca250752951a04f5c0559e28f166948
   ]
 }

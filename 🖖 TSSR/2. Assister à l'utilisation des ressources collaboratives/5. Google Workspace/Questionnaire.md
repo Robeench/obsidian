@@ -5,7 +5,7 @@ La suite bureautique reste au cœur de l’abonnement, mais Microsoft vise plus 
 - Quels sont les principaux outils de MS365
 Teams, [[Word]], [[Excel]], [[PowerPoint]], Outlook, OneNote, OneDrive
 
-- Définissez [[Sharepoint]] dans le cadre de MS365
+- Définissez [[🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/MS 365/SharePoint]] dans le cadre de MS365
 Intranet mobile et intelligent. 
 Partagez et gérez du contenu, des connaissances et des applications pour dynamiser le travail d’équipe, trouver rapidement des informations et collaborer efficacement au sein d'une organisation.
 

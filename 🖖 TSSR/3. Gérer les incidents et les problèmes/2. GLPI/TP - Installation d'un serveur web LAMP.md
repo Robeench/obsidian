@@ -24,7 +24,7 @@ iface enp0s3 inet static
 
 Me connecter en SSH à mon serveur debian
 ```shell
-ssh ben@10.0.2.16
+ssh ben@192.168.1.114
 ```
 
 Mettre à jour mon système :
@@ -87,3 +87,7 @@ Sur mon navigateur, me connecter à http://IpServeur/glpi
 
 ![[Pasted image 20221016153939.png]]
 
+``` shell
+#Dézipper le fichier .tar.bz2
+tar -xvjf glpi-mydashboard-2.0.7.tar.bz2
+```
