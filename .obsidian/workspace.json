@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "6dd24eaeee48dfb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c75202799757112d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92282bdc8f537c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a39d984b9356be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4452a2090cfe1bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f344ef3c67b13378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377fc6cf0f299bc0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02d467d6b84eaf9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d26010e6ae466cc7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba641da13afd60f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "419c665f3f00adec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f0fe43a33ff09e6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cd5468f3964a9c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🖖 TSSR/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b66518d01e55511a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🖖 TSSR/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3506c9eb4b011c7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d34bffc60d8d1e85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🖖 TSSR/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e1a39d984b9356be",
+  "lastOpenFiles": [
+    "Telechargements/Configuration-Management-Database-CMDB.png",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de reprise d'activité.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
+    "❤ Home/Notes du jour/17.10.2022.md"
+  ]
+}
