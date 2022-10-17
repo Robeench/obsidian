@@ -1,5 +1,3 @@
-
-# SSH
 [[Port]] par défaut : 22, une bonne pratique consiste à le changer
 
 [[Linux]] : serveur SSH

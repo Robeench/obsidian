@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
+                "file": "❤ Home/Notes du jour/16.10.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16bdeb198a6ff263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "❤ Home/Notes du jour/17.10.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "ssh",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
+                "file": "❤ Home/Notes du jour/17.10.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
+                "file": "❤ Home/Notes du jour/17.10.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,31 +146,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md"
+                "file": "❤ Home/Notes du jour/17.10.2022.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d558acae2cad140",
+  "active": "16bdeb198a6ff263",
   "lastOpenFiles": [
+    "🖖 TSSR/TP - Installation d'un serveur web LAMP.md",
+    "🖖 TSSR/Untitled.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/SSH.md",
+    "📚 Apprendre/Langages/Git.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
+    "❤ Home/Notes du jour/16.10.2022.md",
+    "Devoirs.md",
     "❤ Home/Notes du jour/15.10.2022.md",
     "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Word.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/3. PowerPoint/PowerPoint.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/4. MS 365/TP.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/4. MS 365/Tenant.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/4. MS 365/SharePoint.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/4. MS 365/Microsoft 365.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/5. Google Workspace/Questionnaire.md"
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md"
   ]
 }
