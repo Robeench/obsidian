@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92282bdc8f537c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1a39d984b9356be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68168e066853fae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md"
               }
             }
           }
@@ -160,15 +160,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e1a39d984b9356be",
+  "active": "68168e066853fae0",
   "lastOpenFiles": [
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
+    "🖖 TSSR/Déléguée.md",
+    "❤ Home/Notes du jour/18.10.2022.md",
     "🖖 TSSR/Untitled.md",
     "Telechargements/Configuration-Management-Database-CMDB.png",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de reprise d'activité.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
-    "❤ Home/Notes du jour/17.10.2022.md"
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md"
   ]
 }

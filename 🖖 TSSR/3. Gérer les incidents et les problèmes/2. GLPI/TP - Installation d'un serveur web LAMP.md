@@ -91,3 +91,12 @@ Sur mon navigateur, me connecter à http://IpServeur/glpi
 #Dézipper le fichier .tar.bz2
 tar -xvjf glpi-mydashboard-2.0.7.tar.bz2
 ```
+
+[Profils et créations d"utilisateurs sous GLPI](https://www.youtube.com/watch?v=eHxPKm0u04g)
+[Création d'intitulés et de profils sous GLPI](https://www.youtube.com/watch?v=zsgo-Yg8gYo)
+[Création de tickets sous GLPI](https://www.youtube.com/watch?v=y7hCPVjKVDI)
+[Gestion des cartouches d'impression sous GLPI](https://www.youtube.com/watch?v=hZdtdX91Ovg)
+[Base de connaissances GLPI](https://www.youtube.com/watch?v=88mOKwYL8PE&feature=youtu.be)
+[Configurer les SLAs](https://www.youtube.com/watch?v=e8ANiaLQd2c)
+[Intégration des utilisateurs AD à GLPI](https://www.youtube.com/watch?v=VLuY_tCsoyc)
+
