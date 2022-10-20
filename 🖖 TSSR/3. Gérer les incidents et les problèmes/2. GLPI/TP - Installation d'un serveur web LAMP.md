@@ -87,10 +87,29 @@ Sur mon navigateur, me connecter à http://IpServeur/glpi
 
 ![[Pasted image 20221016153939.png]]
 
+
+
+``` shell
+# Supprimer le fichier install/install.php
+rm -f /var/www/html/glpi/install/install.php
+
+# Activer les fuseaux horaires
+mysql -u root  
+	#dans MariaDB 
+	GRANT SELECT ON `mysql`.`time_zone_name` TO 'ben'@'localhost';  
+	FLUSH PRIVILEGES;  
+	exit;
+
+```
+
+## En +
 ``` shell
 #Dézipper le fichier .tar.bz2
 tar -xvjf glpi-mydashboard-2.0.7.tar.bz2
 ```
+
+
+
 
 [Profils et créations d"utilisateurs sous GLPI](https://www.youtube.com/watch?v=eHxPKm0u04g)
 [Création d'intitulés et de profils sous GLPI](https://www.youtube.com/watch?v=zsgo-Yg8gYo)

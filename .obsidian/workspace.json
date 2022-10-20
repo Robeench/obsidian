@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1a39d984b9356be",
+            "id": "a5b675d3ef261b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68168e066853fae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md"
               }
             }
           }
@@ -160,17 +147,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68168e066853fae0",
+  "active": "a5b675d3ef261b0e",
   "lastOpenFiles": [
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🖖 TSSR/Déléguée.md",
-    "❤ Home/Notes du jour/18.10.2022.md",
-    "🖖 TSSR/Untitled.md",
-    "Telechargements/Configuration-Management-Database-CMDB.png",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de reprise d'activité.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md"
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/DNS.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation base serveur - Debian 11.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md"
   ]
 }
