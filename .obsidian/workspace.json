@@ -25,6 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
                 "mode": "source",
                 "source": false
@@ -38,6 +39,9 @@
               "type": "markdown",
               "state": {
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+=======
+                "file": "❤ Home/Notes du jour/22.10.2022.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +122,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+=======
+                "file": "❤ Home/Notes du jour/22.10.2022.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+=======
+                "file": "❤ Home/Notes du jour/22.10.2022.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md"
+=======
+                "file": "❤ Home/Notes du jour/22.10.2022.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -174,6 +190,7 @@
   },
   "active": "ddbf3376f1e13856",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
@@ -184,5 +201,17 @@
     "Pasted image 20221021151738.png",
     "Telechargements/Pasted image 20221021145402.png",
     "❤ Home/Notes du jour/21.10.2022.md"
+=======
+    "❤ Home/Notes du jour/17.10.2022.md",
+    "🖖 TSSR/TP - Installation d'un serveur web LAMP.md",
+    "🖖 TSSR/Untitled.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/SSH.md",
+    "📚 Apprendre/Langages/Git.md",
+    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
+    "❤ Home/Notes du jour/16.10.2022.md",
+    "Devoirs.md",
+    "❤ Home/Notes du jour/15.10.2022.md",
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md"
+>>>>>>> Stashed changes
   ]
 }
