@@ -1,47 +1,43 @@
 {
   "main": {
-    "id": "6dd24eaeee48dfb6",
+    "id": "962b99529c4d24d9",
     "type": "split",
     "children": [
       {
-        "id": "c75202799757112d",
+        "id": "a18d56a91b16f8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "cacb7994354c6e15",
+            "id": "30e4399c332ec25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8224f4b3b6e7ac8",
+            "id": "bb0a088eb8246f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+                "file": "🌿 Le Troglo/Réunion 19.10.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ddbf3376f1e13856",
+            "id": "8fb129f84e57b567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-=======
-                "file": "❤ Home/Notes du jour/22.10.2022.md",
->>>>>>> Stashed changes
+                "file": "🌿 Le Troglo/Questions contrat.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4452a2090cfe1bd0",
+    "id": "2bfb89458a6f36ac",
     "type": "split",
     "children": [
       {
-        "id": "f344ef3c67b13378",
+        "id": "0659cc50cf930136",
         "type": "tabs",
         "children": [
           {
-            "id": "377fc6cf0f299bc0",
+            "id": "97f55c846b3470da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,13 +68,13 @@
             }
           },
           {
-            "id": "02d467d6b84eaf9e",
+            "id": "8f7c8cba4d3609f9",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Changer",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +83,7 @@
             }
           },
           {
-            "id": "d26010e6ae466cc7",
+            "id": "9ba07bf10b07a020",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,18 +94,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 300
   },
   "right": {
-    "id": "ba641da13afd60f6",
+    "id": "8ba38c8980ae7a2d",
     "type": "split",
     "children": [
       {
-        "id": "419c665f3f00adec",
+        "id": "c21a11d87f64b8d1",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0fe43a33ff09e6",
+            "id": "bb39663d2ffe24fb",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -117,16 +113,12 @@
             }
           },
           {
-            "id": "4cd5468f3964a9c0",
+            "id": "66acd41bf9067559",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-=======
-                "file": "❤ Home/Notes du jour/22.10.2022.md",
->>>>>>> Stashed changes
+                "file": "🌿 Le Troglo/Questions contrat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,23 +130,19 @@
             }
           },
           {
-            "id": "b66518d01e55511a",
+            "id": "fdfd111d85b03d4c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-=======
-                "file": "❤ Home/Notes du jour/22.10.2022.md",
->>>>>>> Stashed changes
+                "file": "🌿 Le Troglo/Questions contrat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3506c9eb4b011c7b",
+            "id": "749b1b0cabb2b421",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,16 +153,12 @@
             }
           },
           {
-            "id": "d34bffc60d8d1e85",
+            "id": "8969491233074a74",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md"
-=======
-                "file": "❤ Home/Notes du jour/22.10.2022.md"
->>>>>>> Stashed changes
+                "file": "🌿 Le Troglo/Questions contrat.md"
               }
             }
           }
@@ -188,30 +172,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ddbf3376f1e13856",
+  "active": "8fb129f84e57b567",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
+    "🌿 Le Troglo/Réunion 19.10.2022.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
-    "Pasted image 20221021151738.png",
-    "Telechargements/Pasted image 20221021145402.png",
-    "❤ Home/Notes du jour/21.10.2022.md"
-=======
-    "❤ Home/Notes du jour/17.10.2022.md",
-    "🖖 TSSR/TP - Installation d'un serveur web LAMP.md",
-    "🖖 TSSR/Untitled.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/SSH.md",
-    "📚 Apprendre/Langages/Git.md",
-    "📚 Apprendre/Systèmes & réseaux/OS/Linux/Commandes Linux.md",
-    "❤ Home/Notes du jour/16.10.2022.md",
-    "Devoirs.md",
-    "❤ Home/Notes du jour/15.10.2022.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md"
->>>>>>> Stashed changes
+    "❤ Home/Notes du jour/22.10.2022.md"
   ]
 }
