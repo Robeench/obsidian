@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5b675d3ef261b0e",
+            "id": "cacb7994354c6e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8224f4b3b6e7ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddbf3376f1e13856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#Changer",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339.5
   },
   "right": {
     "id": "ba641da13afd60f6",
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md"
               }
             }
           }
@@ -147,17 +172,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a5b675d3ef261b0e",
+  "active": "ddbf3376f1e13856",
   "lastOpenFiles": [
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Configurations réseaux de VMWare.pdf",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/DNS.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation base serveur - Debian 11.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/TP - Installation d'un serveur web LAMP.md"
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/3. ITIL/ITIL.md",
+    "Pasted image 20221021151738.png",
+    "Telechargements/Pasted image 20221021145402.png",
+    "❤ Home/Notes du jour/21.10.2022.md"
   ]
 }

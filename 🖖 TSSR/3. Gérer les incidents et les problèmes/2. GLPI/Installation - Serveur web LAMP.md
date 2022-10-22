@@ -60,6 +60,15 @@ wget https://github.com/glpi-project/glpi/releases/download/10.0.3/glpi-10.0.3.t
 #Décompresser le fichier et le mettre dans /var/www/html/glpi
 tar xzf glpi-10.0.3.tgz -C /var/www/html
 
+	#Dézipper le fichier .tar.bz2
+	tar -xvjf glpi-mydashboard-2.0.7.tar.bz2
+
+	#Dézipper le fichier en .tar.gz
+	tar -xzvf glpi-fusioninventory.tar.gz
+
+	#Dézipper le fichier en .tar.xz
+	tar -xJvf glpi-dashboard.tar.xz
+
 #Changer les permissions sur le dossier GLPI pour que le serveur Apache puisse y accéder
 chown -R www-data:www-data /var/www/html/glpi
 chmod -R 775 /var/www/html/glpi
@@ -103,14 +112,6 @@ mysql -u root
 ```
 
 ## En +
-``` shell
-#Dézipper le fichier .tar.bz2
-tar -xvjf glpi-mydashboard-2.0.7.tar.bz2
-```
-
-
-
-
 [Profils et créations d"utilisateurs sous GLPI](https://www.youtube.com/watch?v=eHxPKm0u04g)
 [Création d'intitulés et de profils sous GLPI](https://www.youtube.com/watch?v=zsgo-Yg8gYo)
 [Création de tickets sous GLPI](https://www.youtube.com/watch?v=y7hCPVjKVDI)
