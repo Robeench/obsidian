@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "📚 Apprendre/Langages/PowerShell.md",
+            "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Langages/PowerShell.md",
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Langages/PowerShell.md"
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Langages/PowerShell.md",
+                "file": "🚄 Wabtec/Script PowerShell - Inventaire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +139,7 @@
   },
   "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
+    "📚 Apprendre/Langages/PowerShell.md",
     "🚄 Wabtec/Script PowerShell - Inventaire.md",
     "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
     "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
@@ -147,7 +148,6 @@
     "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/3. PowerPoint/PowerPoint.md",
     "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Word.md",
     "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md",
-    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md",
-    "❤ Home/Cadeaux.md"
+    "🖖 TSSR/Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md"
   ]
 }
