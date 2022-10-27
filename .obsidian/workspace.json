@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "962b99529c4d24d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a18d56a91b16f8dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e4399c332ec25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb0a088eb8246f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌿 Le Troglo/Réunion 19.10.2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb129f84e57b567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bfb89458a6f36ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0659cc50cf930136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97f55c846b3470da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f7c8cba4d3609f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba07bf10b07a020",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ba38c8980ae7a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c21a11d87f64b8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb39663d2ffe24fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "66acd41bf9067559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdfd111d85b03d4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "749b1b0cabb2b421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8969491233074a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "8fb129f84e57b567",
+  "lastOpenFiles": [
+    "❤ Home/Notes du jour/23.10.2022.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
+    "🌿 Le Troglo/Questions contrat.md",
+    "🌿 Le Troglo/Réunion 19.10.2022.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+    "❤ Home/Notes du jour/22.10.2022.md"
+  ]
+}
