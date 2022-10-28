@@ -25,54 +25,49 @@
 Afficher les VM d'HyperV
 `Get-VM`
 
-``` PowerShell
-$ListPc = get-adcomputer -Filter * -SearchBase "OU=SPC-Tours-France,OU=Workstations,OU=_WABTEC-SITES,DC=ad,DC=wabtec,DC=com" -Properties name,OperatingSystem,OperatingSystemVersion,Enabled | Select-Object  name,OperatingSystem,OperatingSystemVersion,enabled  
-$ListPc | Export-Csv c:\test\listPc4Bene.csv -NoTypeInformation -Encoding UTF8 -Delimiter ";"
+
+# Script liste des postes
+``` powershell
+#Récupérer liste PC via l'AD, avec hostname + statut enable
+$ListPc = get-adcomputer -Filter * -SearchBase "OU=SPC-Tours-France,OU=Workstations,OU=_WABTEC-SITES,DC=ad,DC=wabtec,DC=com" -Properties hostname |Select-object hostname
+
+#Exporter vers le csv $listPC
+$ListPc | Export-Csv c:\test\listPC_spc.csv -NoTypeInformation -Encoding UTF8 -Delimiter ";" -Append
 ```
 
-``` PowerShell
+# Script d'inventaire
+``` powershell
+#Variable reprenant mon fichier avec les PC de SPC
+$listPC = "C:\test\listPC_spc.csv"
+$output = ($listPC).Substring(0,$listPC.Length-4) + "_result.csv"
 
-#définir où je récupère l'information dans l'AD
-$Where = "OU=SPC-Tours-France,OU=Workstations,OU=_WABTEC-SITES,DC=ad,DC=wabtec,DC=com" 
+New-Item -Path $output -Value "Hostname;Model;OS;Domain;DHCP;IP;Admin;Virtualisation`n" | out-null
 
-#Paramètres de ma recherche
-$Params = @
-	"SearchBase" = $Where
-	"Filter" = name,enabled
+#Importer mon fichier
+$inventory_spc = Import-Csv $listPC -Delimiter ";" | Select-Object -First 15
 
-#Définit la liste
-$List = Get-ADcomputer @Params
+#Pour chaque hostname, faire : 
+foreach($PC in $inventory_spc.name){
 
-$List | Foreach-Object
-	[PSCustomObject]@
-		"Hostname" = $_.Name
-		"Statut" = $_.Enabled
-
-#il manque un truc qui lui dit de chercher dans chaque PC en boucle
-$Hostname = hostname
-$OS = (Get-WmiObject Win32_operatingsystem).Version
-$Model = (Get-CimInstance -ClassName Win32_ComputerSystem).Model
-$Area = (Get-CimInstance -ClassName Win32_ComputerSystem).Domain
-$DHCP = (Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).PrefixOrigin
-	if ($DHCP = "Manual")
-	{
-	$IP = (Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).IPAddress
-	}
-$Admin = (Get-LocalGroupMember Administrateurs).Name
-$Virtu = (get-service windowsxpmode,vmware | Where-Object {$_.Status -eq "Running"}).DisplayName
-
-#export csv
-$Inventory | Export-Csv c:\test\inventaire.csv -NoTypeInformation -Encoding UTF8 -Delimiter ";"
-
-```
-
-```PowerShell
-#Création fichier vierge CSV
-New-Item -ItemType File -Path "C:\Test\inventory.csv"
-
-#Ajout en-tête au fichier .csv
-Add-Content -Path "C:\Test\inventory.csv" -Value "Hostname;Model;OS;Domain;DHCP;IP;Admin;Virtualisation"
-
-#Ajout information
-Add-Content -Path "C:\Test\inventory.csv" -Value "$(hostname);$((Get-CimInstance -ClassName Win32_ComputerSystem).Model);$((Get-WmiObject Win32_operatingsystem).Version);$((Get-CimInstance -ClassName Win32_ComputerSystem).Domain);$((Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).PrefixOrigin);$((Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).IPAddress);$((Get-LocalGroupMember Administrateurs).Name);$((get-service windowsxpmode,vmware | Where-Object {$_.Status -eq "Running"}).DisplayName)"
+    #Vérification PC allumé avec ping x1
+    if (Test-Connection $PC -Count 1 -Quiet) {       
+        [array]$CollectInfo = Invoke-Command -ComputerName $PC -ScriptBlock {
+            $(hostname)+";"+
+            $((Get-CimInstance -ClassName Win32_ComputerSystem).Model)+";"+
+            $((Get-WmiObject Win32_operatingsystem).Version)+";"+
+            $((Get-CimInstance -ClassName Win32_ComputerSystem).Domain)+";"+ 
+            $((Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).PrefixOrigin)+";"+
+            $((Get-NetIPAddress -AddressFamily IPV4 -InterfaceAlias Wi-Fi).IPAddress)+";"+ 
+            $((Get-LocalGroupMember Administrateurs).Name)+";"+ 
+            $((get-service vmware | Where-Object {$_.Status -eq "Running"}).DisplayName)
+         }
+         Add-Content -Path $output -Value $CollectInfo
+      } else {
+         Add-Content -Path $output -Value "$PC;NA;NA;NA;NA;NA;NA;NA"
+      
+      }
+        #Ajout de $CollectInfo à mon doc $listPC
+        #Add-Content -Path $listPC -Value $CollectInfo
+        $CollectInfo | export-csv $output -append -Delimiter ";" -NoTypeInformation
+}
 ```
