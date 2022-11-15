@@ -3,3 +3,5 @@
 - suivre cours GLPI : [ici](https://openclassrooms.com/fr/courses/1730516-gerez-votre-parc-informatique-avec-glpi/1730527-decouvrez-votre-nouveau-role-de-gestionnaire-de-parc)
 - GPO
 - TP - MS365
+- mettre une box en point d'accès ?
+- 

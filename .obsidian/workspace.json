@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84993b59a4d1f8c1",
+            "id": "d9954c5cc210fb46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation d'un serveur XIVO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation d'un serveur XIVO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation d'un serveur XIVO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation d'un serveur XIVO.md"
+              }
             }
           }
         ],
@@ -137,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84993b59a4d1f8c1",
+  "active": "d9954c5cc210fb46",
   "lastOpenFiles": [
     "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation et configuration de 3CX.md",
-    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/VOIP.md",
-    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TOIP.md",
-    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/RTC.md",
-    "Projets à la maison/Téléphonie.md",
-    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/Questionnaire VOIP.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
     "❤ Home/Notes du jour/15.11.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/SIP.md",
-    "❤ Home/Notes du jour/14.11.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/RTP.md"
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation d'un serveur XIVO.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/Questionnaire VOIP.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/Cisco.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/Questionnaire VOIP - Corrigé.md",
+    "Devoirs.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/VOIP.md"
   ]
 }
