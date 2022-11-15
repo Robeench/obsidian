@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a18d56a91b16f8dd",
+        "id": "c396935b5ac66fda",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb129f84e57b567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "❤ Home/Notes du jour/06.11.2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3567abae3dd656ad",
+            "id": "84993b59a4d1f8c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -101,14 +89,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "❤ Home/Notes du jour/06.11.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,9 +105,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "❤ Home/Notes du jour/06.11.2022.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -140,29 +126,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "❤ Home/Notes du jour/06.11.2022.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "8fb129f84e57b567",
+  "active": "84993b59a4d1f8c1",
   "lastOpenFiles": [
-    "❤ Home/Notes du jour/10.10.2022.md",
-    "❤ Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
-    "❤ Home/Voir/Films d'automne.jpg",
-    "❤ Home/Voir/A voir.md",
-    "❤ Home/Notes du jour/01.11.2022.md",
-    "❤ Home/Notes du jour/11.10.2022.md",
-    "❤ Home/Notes du jour/08.10.2022.md",
-    "❤ Home/Notes du jour/22.10.2022.md",
-    "❤ Home/Notes du jour/19.10.2022.md",
-    "❤ Home/Notes du jour/28.10.2022.md"
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TP - Installation et configuration de 3CX.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/VOIP.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/TOIP.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/RTC.md",
+    "Projets à la maison/Téléphonie.md",
+    "🖖 TSSR/4. Maintenir et exploiter le réseau local et la téléphonie/Questionnaire VOIP.md",
+    "❤ Home/Notes du jour/15.11.2022.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/SIP.md",
+    "❤ Home/Notes du jour/14.11.2022.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/RTP.md"
   ]
 }

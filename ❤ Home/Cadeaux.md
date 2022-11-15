@@ -1,12 +1,21 @@
-# Cadeaux
 **Joséphine**
 BD "nos mutineries"
 BD "Resisters"
+Joli bijoux
+Broderie
 
 **Pauline**
 BD "nos mutineries"
 BD "Resisters"
 magazine "Les Others"
+Jeu de société Kluster
+Parfum qui sent la fraise des bois
+
+**Annabelle**
+
+**Diane**
+chemise ou pantalon en velours
+saladier dans la boutique Péninsule
 
 **Pauline F.**
 Carnet du voyageur : Paris de Zoé de Las Cases
@@ -28,5 +37,6 @@ Bouquin sur Edward Hopper
 "Un espace à soi" de Virginia Woolf
 doc marten's
 
-
+**Divers**
+Atelier VAM
 atelier de création de parfum
