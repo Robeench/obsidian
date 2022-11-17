@@ -1,8 +1,9 @@
 
 # IPv4
-La version 4 reste la plus utilisée, la version 6 devrait la remplacer.
+La version 4 reste la plus utilisée malgré la pénurie d'adresses. 
+IPv6 doit la remplacer.
+
 Notation décimale avec 4 valeurs comprises entre 0 et 255, séparées par des points. Sa longueur est de 32 bits soit 4 octets.
-Exemple : 192.168.1.10
 
 ## Les classes
 La notion de classe d'adresse [[IP]] a été utilisé pour distribuer des plages d'adresses à des utilisateurs finaux. Elle est désormais obsolète, on utilise les masques de sous réseaux.

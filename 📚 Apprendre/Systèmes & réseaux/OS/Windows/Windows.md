@@ -1,5 +1,4 @@
 
-# Windows
 ## Configuration Windows
 Couper les MAJ de windows update :
 [Désactiver les MAJ automatique](https://rdr-it.com/howto/windows-serveur-2016-2019-desactiver-les-mises-a-jour-automatiques/)

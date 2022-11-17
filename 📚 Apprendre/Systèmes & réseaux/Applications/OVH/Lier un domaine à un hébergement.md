@@ -1,6 +1,3 @@
-
-# Lier un domaine à un hébergement
-
 Aller dans web cloud
 cliquer sur le nom de domaine concerné
 cliquer sur zone [[DNS]] (qui concerne les rattachements de mon nom de domaine à des éléments spécifiques)
