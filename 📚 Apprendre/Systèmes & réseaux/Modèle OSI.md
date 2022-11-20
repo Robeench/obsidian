@@ -110,12 +110,15 @@ Le schéma physique permet de déployer le réseau, installer et cabler le maté
 ## Couche 4 - Transport
 Gère les connexions applicatives et fragmente les paquets. Elle choisit la meilleure façon d'envoyer une information. 
 Protocole : UDP, TCP
+
 ## Couche 5 - Session
-Gèrel'organisation des échanges en établissant, maintenant et terminant les sessions d'échange. 
+Gère l'organisation des échanges en établissant, maintenant et terminant les sessions d'échange. 
 Non utilisé
+
 ## Couche 6 - Présentation
 Elle encode, compresse, convertit et reformate les données.
 Non utilisé
+
 ## Couche 7 - Application
 Point d'accès pour l'utilisateur aux services applicatifs
 Matériel : [[Proxy]]

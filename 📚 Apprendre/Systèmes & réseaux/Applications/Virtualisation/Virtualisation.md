@@ -1,5 +1,4 @@
 
-# Virtualisation
 ## Hyperviseur de type 2
 Hyperviseur de type 2 = hosted hypervisor (hyperviseur hébergé)
 
