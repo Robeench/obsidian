@@ -27,6 +27,10 @@ Bouquin sur Edward Hopper
 "Cent ans de solitude" de Gabriel Garcia Marquez
 "Un espace à soi" de Virginia Woolf
 doc marten's
+machine à coudre de qualité
+canapé Togo
+teinture de cheveux rose
+
 
 
 atelier de création de parfum
