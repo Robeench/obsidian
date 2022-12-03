@@ -25,7 +25,6 @@ places pour une course de moto (type Grand Prix / 24H)
 
 **Maxime**
 logiciel d'enregistrement : risen studio
-nouvelle basse (la même que violette)
 kayak
 visiter Giverny
 Salopette en velours côtelé
@@ -38,8 +37,7 @@ Bouquin sur Edward Hopper
 doc marten's
 machine à coudre de qualité
 canapé Togo
-teinture de cheveux rose
-
+teinture de cheveux rose 
 
 **Divers**
 Atelier VAM
