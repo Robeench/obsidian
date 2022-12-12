@@ -4,32 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ae9f7e397a87b5",
+        "id": "c396935b5ac66fda",
         "type": "tabs",
         "children": [
           {
-            "id": "dc415a2df35246b4",
+            "id": "4311c42e048bdbfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/Distance administrative.md",
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad29ac66eeb5de4a",
+            "id": "08cab3c6621cffae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
-=======
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
->>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
+                "file": "🌈 Home/Cadeaux.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,18 +105,14 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
-=======
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
->>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -130,13 +122,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
-=======
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
->>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -157,45 +145,29 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md"
-=======
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md"
->>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "dc415a2df35246b4",
+  "active": "4311c42e048bdbfc",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/Distance administrative.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
+    "🌈 Home/Cadeaux.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
     "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Cours VLSM.pdf",
-    "❤ Home/Notes du jour/12.12.2022.md",
+    "🌈 Home/Notes du jour/12.12.2022.md",
     "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
     "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/RIP.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/Distance administrative.md",
     "❤ Home/Notes du jour/18.11.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/Protocole.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/masque de sous réseaux.png",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
-    "❤ Home/Notes du jour/15.11.2022.md"
-=======
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
-    "❤ Home/Notes du jour/11.12.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/TP - Installation et configuration de TightVNC.md",
-    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/VNC.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/RFB.md",
-    "🖖 TSSR/Déléguée.md",
-    "🖖 TSSR/Devoirs.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md"
->>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
+    "📚 Apprendre/Systèmes & réseaux/Protocole/Protocole.md"
   ]
 }

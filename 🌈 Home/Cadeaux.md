@@ -38,6 +38,7 @@ kayak
 visiter Giverny
 Salopette en velours côtelé
 tatouage
+chaussure insecta
 
 **Pour moi**
 Kit de feutres pour dessiner
