@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c396935b5ac66fda",
+        "id": "e5ae9f7e397a87b5",
         "type": "tabs",
         "children": [
           {
-            "id": "4311c42e048bdbfc",
+            "id": "dc415a2df35246b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/Distance administrative.md",
                 "mode": "source",
                 "source": false
@@ -26,13 +27,15 @@
               "type": "markdown",
               "state": {
                 "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
+=======
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
+>>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,14 +109,18 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
+=======
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
+>>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -123,9 +130,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
+=======
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
+>>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -146,20 +157,24 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md"
+=======
+                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md"
+>>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ad29ac66eeb5de4a",
+  "active": "dc415a2df35246b4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Cours VLSM.pdf",
     "❤ Home/Notes du jour/12.12.2022.md",
     "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
@@ -170,5 +185,17 @@
     "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/masque de sous réseaux.png",
     "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
     "❤ Home/Notes du jour/15.11.2022.md"
+=======
+    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
+    "❤ Home/Notes du jour/11.12.2022.md",
+    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/TP - Installation et configuration de TightVNC.md",
+    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/VNC.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/RFB.md",
+    "🖖 TSSR/Déléguée.md",
+    "🖖 TSSR/Devoirs.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md"
+>>>>>>> 36c06d853fa72169959a4bd00883a09db9656ef6
   ]
 }
