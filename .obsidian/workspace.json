@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48ba2a1cbb4c1993",
+        "id": "e5ae9f7e397a87b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5542369903070439",
+            "id": "dc415a2df35246b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,14 +89,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -110,9 +105,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -132,30 +126,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5542369903070439",
+  "active": "dc415a2df35246b4",
   "lastOpenFiles": [
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-    "Pasted image 20221215153354.png",
-    "Pasted image 20221215160048.png",
-    "Pasted image 20221215160035.png",
-    "Pasted image 20221215155311.png",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
-    "Pasted image 20221215145351.png",
-    "Pasted image 20221215145533.png",
-    "Pasted image 20221215151137.png",
-    "Pasted image 20221215151201.png.md"
+    "❤ Home/Notes du jour/15.12.2022.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
+    "❤ Home/Notes du jour/11.12.2022.md",
+    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/TP - Installation et configuration de TightVNC.md",
+    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/VNC.md",
+    "📚 Apprendre/Systèmes & réseaux/Protocole/RFB.md",
+    "🖖 TSSR/Déléguée.md",
+    "🖖 TSSR/Devoirs.md"
   ]
 }
