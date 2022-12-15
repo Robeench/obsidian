@@ -49,12 +49,13 @@ doc marten's
 machine à coudre de qualité
 canapé Togo
 teinture de cheveux rose 
+grosses baguouzes
 
 Maman
 
 Papa
 
-Christophe
+**Christophe**
 
 **Anna**
 tiny bouquet crochet pattern : https://www.ollieholly.com/blog/2019/08/05/free-crochet-flower-bouquet-pattern
@@ -64,7 +65,9 @@ Yves
 
 Séverine
 
-Erine
+**Erine**
+trottinette
+feutres fluo
 
 Audrick
 

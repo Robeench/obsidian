@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c396935b5ac66fda",
+        "id": "48ba2a1cbb4c1993",
         "type": "tabs",
         "children": [
           {
-            "id": "4311c42e048bdbfc",
+            "id": "5542369903070439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08cab3c6621cffae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌈 Home/Cadeaux.md",
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md"
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
               }
             }
           }
@@ -157,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4311c42e048bdbfc",
+  "active": "5542369903070439",
   "lastOpenFiles": [
-    "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/Distance administrative.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
-    "🌈 Home/Cadeaux.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Cours VLSM.pdf",
-    "🌈 Home/Notes du jour/12.12.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/Routage/RIP.md",
-    "❤ Home/Notes du jour/18.11.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/Protocole.md"
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+    "Pasted image 20221215153354.png",
+    "Pasted image 20221215160048.png",
+    "Pasted image 20221215160035.png",
+    "Pasted image 20221215155311.png",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
+    "Pasted image 20221215145351.png",
+    "Pasted image 20221215145533.png",
+    "Pasted image 20221215151137.png",
+    "Pasted image 20221215151201.png.md"
   ]
 }
