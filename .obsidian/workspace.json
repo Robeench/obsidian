@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ae9f7e397a87b5",
+        "id": "48ba2a1cbb4c1993",
         "type": "tabs",
         "children": [
           {
-            "id": "dc415a2df35246b4",
+            "id": "5542369903070439",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -112,7 +112,7 @@
               "state": {
                 "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,15 +137,17 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "dc415a2df35246b4",
+  "active": "5542369903070439",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Cours - DNS.md",
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
@@ -156,5 +158,17 @@
     "❤ Home/Notes du jour/15.12.2022.md",
     "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
     "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md"
+=======
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Routage/Untitled.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Modèle OSI/Administration des réseaux.pdf",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Routage/Cours VLSM.pdf",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Routage/Exercices adressage et routage.md",
+    "🖖 TSSR/4. VOIP/Questionnaire préalable à la VOIP.pdf",
+    "🖖 TSSR/4. VOIP/TP - Installation et configuration de 3CX.md",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+    "Pasted image 20221215153354.png"
+>>>>>>> Stashed changes
   ]
 }
