@@ -11,8 +11,12 @@
             "id": "dc415a2df35246b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
+              }
             }
           }
         ]
@@ -138,15 +146,15 @@
   },
   "active": "dc415a2df35246b4",
   "lastOpenFiles": [
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Cours - DNS.md",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+    "Telechargements/Pasted image 20221215215314.png",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
+    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
+    "Telechargements/Pasted image 20221215145351.png",
     "❤ Home/Notes du jour/15.12.2022.md",
     "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Exercices adressage et routage.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
-    "❤ Home/Notes du jour/11.12.2022.md",
-    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/TP - Installation et configuration de TightVNC.md",
-    "📚 Apprendre/Systèmes & réseaux/Prendre le contrôle à distance d'un poste/VNC.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/RFB.md",
-    "🖖 TSSR/Déléguée.md",
-    "🖖 TSSR/Devoirs.md"
+    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md"
   ]
 }
