@@ -1,12 +1,10 @@
 **Joséphine**
 BD "nos mutineries"
-BD "Resisters"
 Joli bijoux
 Broderie
 
 **Camille**
 Voyage à Londres
-Place pour Sylvan Esso
 https://www.pinterest.fr/pin/556053885250111319/
 cube en carreau : https://www.pinterest.fr/pin/556053885248479042/
 
@@ -56,6 +54,7 @@ Maman
 Papa
 
 **Christophe**
+petite tasse à café de Thomas
 
 **Anna**
 tiny bouquet crochet pattern : https://www.ollieholly.com/blog/2019/08/05/free-crochet-flower-bouquet-pattern
