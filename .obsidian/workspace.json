@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5542369903070439",
+            "id": "6d84dd1259a01310",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3235e807c3627c4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "windows server",
+                "query": "rgpd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8ba38c8980ae7a2d",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md"
               }
             }
           }
@@ -157,17 +146,30 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5542369903070439",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "6d84dd1259a01310",
   "lastOpenFiles": [
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/Google Workspace.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
     "Telechargements/Pasted image 20221216094619.png",
     "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "📚 Apprendre/Systèmes & réseaux/Protocole/SMB.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Cours - DNS.md",
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-    "Telechargements/Pasted image 20221216094619 1.png",
-    "Telechargements/Pasted image 20221216091623.png",
-    "Telechargements/Capture d’écran 2022-05-05 121803.png"
+    "Telechargements/Pasted image 20221216094619 1.png"
   ]
 }
