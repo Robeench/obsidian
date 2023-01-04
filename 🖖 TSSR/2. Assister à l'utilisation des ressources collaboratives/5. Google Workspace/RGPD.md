@@ -1,5 +1,7 @@
 = Règlement Général sur la Protection des Données
 
+# Le RGPD et ses notions clés
+
 ## Historique
 1970 - Arrivée de l'informatique 
 1973 - Projet SAFARI lancé par le gouvernement ayant pour but de recenser et recouper dans une base centralisée l'ensemble des informations détenus sur chaque citoyen
@@ -50,3 +52,76 @@ Un traitement de données personnelles concerne :
 ## A qui s'applique le RGPD ? 
 Tous les organismes publics et privés.
 Les organismes établi sur le territoire de l'UE, que le traitement ait lieu ou non dans l'UE et les organismes dont l'activité cible des personnes qui se trouvent sur le territoire de l'UE. 
+
+Un traitement de données peut être mis en œuvre par un organisme soit pour son propre compte, soit pour le compte d'un autre organisme :
+- Responsable de traitement
+- Sous traitant
+
+### Responsable de traitement
+organisme par lequel le traitement est mis en œuvre. 
+Secteur privé = dirigeant (président, directeur général, PDG, gérant)
+Secteur public = organisme du ministre, du maire, du conseil départemental ...
+
+### Sous traitant
+La sous-traitance peut concerner une tâche bien précise ou plus étendues :
+- prestataires de services informatiques, intégrateurs de logiciels, ESN, sécurité informatique
+- agence de marketing ou de communication
+- ...
+Le contrat de sous-traitance précise les obligations et doit être conclu avec le responsable de traitement.
+
+# Les principes de la protection des données
+
+## Les 8 règles d'or
+Elles constituent un gage de sécurité juridique pour les RT.
+
+### Finalité du traitement
+Les données collectées ne peuvent être traitées que pour une finalité définie précisément et légitime.
+- raison d'être du traitement : objectif en vue duquel les données sont collectées, enregistrées, exploitées, transmises, conservées par l'organisme.
+- finalité : tout traitement doit venir satisfaire un objectif précis, déterminé et légitime.
+- finalité compatible : évolution possible de la finalité, traitement à des fins archivistiques / à des fins de recherche scientifique ou historique / à des fins statistiques
+
+### Licéité du traitement
+Lorsqu'un organisme collecte des données, il doit vérifier la licéité ( = la base légale) de cette démarche.
+Le traitement doit être autorisé expressément ou ne pas être interdit.
+- la personne a consenti au traitement (manifestation libre, spécifique, éclairée et univoque)
+- le traitement est nécessaire à l'exécution d'un contrat
+- le traitement est nécessaire au respect d'une obligation légale
+- le traitement est nécessaire à la sauvegarde des intérêts vitaux
+- le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique
+- le traitement est nécessaire aux fins des intérêts légitimes
+
+### Minimisation des données
+Seules les données strictement nécessaires pour atteindre la finalité peuvent être collectées et traitées. 
+
+### Protection particulière des données sensibles
+Les données sensibles ne peuvent être collectées et traitées que dans certaines conditions.
+- origines raciales ou ethniques
+- opinions politiques
+- convictions philosophiques ou religieuses
+- appartenance syndicale
+- santé
+- vie sexuelle ou orientation sexuelle
+- données génétiques
+- données biométriques
+- données relatives aux condamnations pénales et aux infractions
+
+### Conservation limitée des données
+Les données doivent être archivées, supprimées ou anonymisées dès que la finalité pour laquelle elles ont été collectées est atteinte.
+
+Cycle de vie des données : 
+- conservation en base active
+- archivage intermédiaire
+- archivage définitif
+
+### Obligation de sécurité
+Au regard des risques, des mesures doivent être mises en œuvre pour s'assurer de la sécurité des données traitées.
+
+### Transparence
+Les personnes doivent être informées de l'utilisation des données les concernant et de la manière d'exercer leurs droits. 
+
+### Droits des personnes
+Les personnes bénéficient de nombreux droits qui leur permettent de garder la maitrise de leurs données. 
+
+# Les responsabilités des acteurs
+# Le DPO et les outils de la conformité
+# Les collectivités territoriales
