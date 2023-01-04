@@ -1,47 +1,48 @@
 {
   "main": {
-    "id": "962b99529c4d24d9",
+    "id": "83cde21d5ba5643e",
     "type": "split",
     "children": [
       {
-        "id": "e5ae9f7e397a87b5",
+        "id": "365b99d155bbc9d7",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "6d84dd1259a01310",
-=======
-            "id": "76cc1272c1289ebf",
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
+            "id": "a34d9b4a4ce6ca3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc8217b28555b407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
-=======
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Mise en oeuvre sous Windows Server.md",
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2bfb89458a6f36ac",
+    "id": "9e86bf6f62850072",
     "type": "split",
     "children": [
       {
-        "id": "0659cc50cf930136",
+        "id": "3e2b2ba90a5ba0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "97f55c846b3470da",
+            "id": "4d85cf4ebcdb3fcb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,16 +52,12 @@
             }
           },
           {
-            "id": "8f7c8cba4d3609f9",
+            "id": "79644ebcb1ca618d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "rgpd",
-=======
                 "query": "",
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +67,7 @@
             }
           },
           {
-            "id": "9ba07bf10b07a020",
+            "id": "d6908d074bdef975",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -81,64 +78,35 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
-    "id": "8ba38c8980ae7a2d",
+    "id": "cde66ea3a2afdda3",
     "type": "split",
     "children": [
       {
-        "id": "c21a11d87f64b8d1",
+        "id": "2860a2703abd198b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb39663d2ffe24fb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "66acd41bf9067559",
+            "id": "8446cd1e8bb451e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
-=======
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Mise en oeuvre sous Windows Server.md",
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "fdfd111d85b03d4c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
-=======
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Mise en oeuvre sous Windows Server.md",
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "749b1b0cabb2b421",
+            "id": "c3f9ef2fa24c9d95",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,27 +117,43 @@
             }
           },
           {
-            "id": "8969491233074a74",
+            "id": "dd3fcadb0ae2bc40",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md"
-=======
-                "file": "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Mise en oeuvre sous Windows Server.md"
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
               }
             }
+          },
+          {
+            "id": "eb953ec157d92447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d0a73622232b9318",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -183,31 +167,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6d84dd1259a01310",
+  "active": "cc8217b28555b407",
   "lastOpenFiles": [
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/Google Workspace.md",
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-    "Telechargements/Pasted image 20221216094619.png",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/SMB.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Cours - DNS.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
-    "Telechargements/Pasted image 20221216094619 1.png"
-=======
-  "active": "76cc1272c1289ebf",
-  "lastOpenFiles": [
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Installation d'un Windows Serveur.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Mise en oeuvre sous Windows Server.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Questionnaire DNS.md",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Cours - DNS.md",
-    "🌈 Home/Cadeaux.md",
-    "Telechargements/Pasted image 20221215215314.png",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Untitled.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/VLAN - Cours Thomas Cherrier.md",
-    "Telechargements/Pasted image 20221215145351.png"
->>>>>>> 3af240c80f81fcd07c7e0ea3ec67ce4b34ee7d8b
+    "🚄 Wabtec/Projet OS Refresh.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "📚 Apprendre/Langages/PowerShell.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
   ]
 }

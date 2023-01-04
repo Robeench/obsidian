@@ -11,10 +11,14 @@
 2018 - nouveau règlement européen RGPD
 
 ## Définition
+Proposer un cadre protecteur pour les données des utilisateurs européens. 
+Renforcement du contrôle des citoyens sur l'utilisation de leurs données. 
+Harmonisation des règles en Europe.
+
 ### Donnée
 Il encadre la mise en œuvre des traitements de données à caractère personnel. Il fixe les conditions dans lesquelles de telles données peuvent être légalement collectés, conservées et exploitées par les organismes.
 
-Différents supports peuvnt contenir des données personnelles : 
+Différents supports peuvent contenir des données personnelles : 
 - note sur un post-it
 - document papier
 - fichier informatique
@@ -43,7 +47,6 @@ Un traitement de données personnelles concerne :
 - ...
 
 
-## Définition
-Proposer un cadre protecteur pour les données des utilisateurs européens. 
-Renforcement du contrôle des citoyens sur l'utilisation de leurs données. 
-Harmonisation des règles en Europe.
+## A qui s'applique le RGPD ? 
+Tous les organismes publics et privés.
+Les organismes établi sur le territoire de l'UE, que le traitement ait lieu ou non dans l'UE et les organismes dont l'activité cible des personnes qui se trouvent sur le territoire de l'UE. 
