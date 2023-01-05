@@ -114,13 +114,48 @@ Cycle de vie des données :
 - archivage définitif
 
 ### Obligation de sécurité
-Au regard des risques, des mesures doivent être mises en œuvre pour s'assurer de la sécurité des données traitées.
+Au regard des risques, des mesures doivent être mises en œuvre pour s'assurer de la sécurité des données traitées en fonction du principe de confidentialité, d'intégrité et de disponibilité. 
+Selon les besoins : 
+- pseudonymisation et chiffrement des données
+- moyens pour garantir la confidentialité, l'intégrité, la disponibilité et la résilience constante
+- rétablir la disponibilité et l'accès aux données en cas d'incident physique ou technique
+- procédure pour tester, analyser, évaluer l'efficacité des mesures techniques et organisationnelles
 
 ### Transparence
 Les personnes doivent être informées de l'utilisation des données les concernant et de la manière d'exercer leurs droits. 
+Cela permet aux personnes : 
+- de connaitre ce qui justifie la collecte
+- de comprendre les conditions du traitement
+- de garder la maitrise de leurs données
+
+Informations obligatoire à communiquer
+- [ ] identité et coordonnées du RT
+- [ ] finalité et base juridique du traitement
+- [ ] caractère obligatoire ou non de la collecte, fondement et conséquence d'une non fourniture
+- [ ] destinataires des données
+- [ ] durée de conservation
+- [ ] droits sur les données
+- [ ] droit à la réclamation
+ET, en cas de collecte directe : 
+- [ ] coordonnées du délégué à la protection des données
+- [ ] intérêts légitimes du RT
+- [ ] droit de retirer son consentement
+- [ ] transfert hors de l'UE et moyen d'accès aux documents l'autorisant
+- [ ] prise de décision automatisée
+- [ ] toute information pertinente
+ET, en cas de collecte indirecte :
+- [ ] catégories de données traitées
+- [ ] source d'où proviennent les données
 
 ### Droits des personnes
 Les personnes bénéficient de nombreux droits qui leur permettent de garder la maitrise de leurs données. 
+- droit d'accès
+- droit de rectification
+- droit d'opposition
+- droit à l'effacement
+- droit à la portabilité
+- droit à la limitation du traitement
+- décision individuelle automatisée
 
 # Les responsabilités des acteurs
 # Le DPO et les outils de la conformité
