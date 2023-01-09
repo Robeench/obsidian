@@ -4,31 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "365b99d155bbc9d7",
+        "id": "b7d02df8c5908877",
         "type": "tabs",
         "children": [
           {
             "id": "a34d9b4a4ce6ca3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "cc8217b28555b407",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+>>>>>>> dbf17244de40511386667a34b41caf4d7145f557
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 408.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -94,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+>>>>>>> dbf17244de40511386667a34b41caf4d7145f557
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md"
+=======
+                "file": "🖖 TSSR/Déléguée.md"
+>>>>>>> dbf17244de40511386667a34b41caf4d7145f557
               }
             }
           },
@@ -132,7 +135,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+>>>>>>> dbf17244de40511386667a34b41caf4d7145f557
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +174,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cc8217b28555b407",
+  "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
     "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
     "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/4. MS 365/TP.md",
