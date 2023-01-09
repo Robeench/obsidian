@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "da6019501cd7196f",
         "type": "tabs",
         "children": [
           {
             "id": "6ddc501f31f3b013",
+=======
+        "id": "365b99d155bbc9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34d9b4a4ce6ca3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc8217b28555b407",
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/Déléguée.md",
+=======
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
+=======
+    "width": 282.5
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -85,7 +110,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/Déléguée.md",
+=======
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +142,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/Déléguée.md"
+=======
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md"
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
               }
             }
           },
@@ -123,7 +156,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "🖖 TSSR/Déléguée.md",
+=======
+                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,6 +195,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+<<<<<<< HEAD
   "active": "6ddc501f31f3b013",
   "lastOpenFiles": [
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
@@ -170,5 +208,19 @@
     "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP.md",
     "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/Installation d'un Windows Serveur.md"
+=======
+  "active": "cc8217b28555b407",
+  "lastOpenFiles": [
+    "🚄 Wabtec/Projet OS Refresh.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "📚 Apprendre/Langages/PowerShell.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
+>>>>>>> 64917685bb4b98a952e5e18bd28ac3dafabe9350
   ]
 }
