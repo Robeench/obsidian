@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,15 +169,15 @@
   },
   "active": "cc8217b28555b407",
   "lastOpenFiles": [
-    "🚄 Wabtec/Projet OS Refresh.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🚄 Wabtec/Script PowerShell - Inventaire.md",
-    "❤ Home/Notes du jour/28.10.2022.md",
-    "📚 Apprendre/Langages/PowerShell.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/4. MS 365/TP.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/2. Word/Word.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/2. Word/Root.me.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/4. MS 365/Tenant.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/4. MS 365/SharePoint.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/4. MS 365/Microsoft 365.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/1. Excel/Excel.md",
+    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/RGPD.md",
+    "🚄 Wabtec/Projet OS Refresh.md"
   ]
 }
