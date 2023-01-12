@@ -30,3 +30,12 @@ Faire un retour à Amanda :
 - Quel est le rôle d'une déléguée ?
 - Imaginer le campus 2025
 - A côté de la formation : remise de diplôme, soirée interfiliaire, repas d'accueil ...
+
+AVEC THOMAS
+Certains TP ne sont plus à jour sur la plateforme : Word, PowerPoint
+Groupe trop important
+Besoin d'un mélange théorie/pratique bien équilibré, surtout en distanciel ou le rythme est difficile à tenir
+Distanciel négatif
+
+
+Refaire le point avec Maxime GROUSSIN

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a34d9b4a4ce6ca3f",
+            "id": "695c01380767a3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,18 @@
             }
           },
           {
-            "id": "24d103da0f54db54",
+            "id": "e1b1d3cf1cf4f7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dae49b5a6eb160a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 265.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
+                "file": "🖖 TSSR/Déléguée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md"
+                "file": "🖖 TSSR/Déléguée.md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
+                "file": "🖖 TSSR/Déléguée.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -183,17 +170,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dae49b5a6eb160a2",
+  "active": "695c01380767a3e1",
   "lastOpenFiles": [
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/Masque de sous réseaux.md",
-    "📚 Apprendre/Systèmes & réseaux/Protocole/IP/IPv4/IPv4.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Windows Server.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Packet Tracer.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/Notes de cours.md",
-    "🖖 TSSR/Déléguée.md",
-    "🚄 Wabtec/Projet OS Refresh.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🚄 Wabtec/Script PowerShell - Inventaire.md"
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Debian.md",
+    "Telechargements/dhcp_new.gif",
+    "Telechargements/DHCPRogue1.png",
+    "🖖 TSSR/Déléguée.md"
   ]
 }
