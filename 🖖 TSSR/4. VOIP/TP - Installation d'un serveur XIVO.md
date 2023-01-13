@@ -8,7 +8,7 @@ Une infrastructures dans laquelle on place de la VOIP doit avoir : QOS + VLAN + 
 
 # Installation
 Création d'une VM avec 2Go de RAM minimal, sur un noyau linux, branche Debian10 x 64bits 
-avec l'[iso XIVO](http://mirror.xivo.solutions/iso/xivo-current/) current la plus récente.
+avec l'[iso XIVO](http://mirror.xivo.solutions/iso/xivo-current/) current la plus récente (❗bien faire attention à être dans le bon dossier current, et pas dans le directory, sinon la version de Xivo ne fonctionne pas)
 
 Nous installerons par la suite deux softphones :
 - un sur le Win10 hôte
@@ -34,6 +34,7 @@ Warning potentiel du navigateur, je force la connexion.
 # Configuration du serveur
 
 Configurer mon serveur : [XIVO - Guide utilisateur](https://assistance.ac-noumea.nc/IMG/pdf/xivo_guide_utilisateur.pdf)
+Menu IPBX
 
 ## Gestion
 Définir un contexte d'entreprise dans entités :

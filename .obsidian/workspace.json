@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "695c01380767a3e1",
+            "id": "256d111caf63c33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/Déléguée.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1b1d3cf1cf4f7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/Déléguée.md",
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/Déléguée.md"
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md"
               }
             }
           },
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/Déléguée.md",
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,17 +158,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "695c01380767a3e1",
+  "active": "256d111caf63c33b",
   "lastOpenFiles": [
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Windows Server.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Packet Tracer.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/Notes de cours.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Debian.md",
-    "Telechargements/dhcp_new.gif",
-    "Telechargements/DHCPRogue1.png",
-    "🖖 TSSR/Déléguée.md"
+    "🖖 TSSR/4. VOIP/TP - Installation d'un serveur XIVO.md",
+    "🖖 TSSR/4. VOIP/Questionnaire VOIP.md",
+    "🖖 TSSR/4. VOIP/Questionnaire préalable à la VOIP.pdf",
+    "🖖 TSSR/4. VOIP/TP - Installation et configuration de 3CX.md",
+    "🖖 TSSR/4. VOIP/VOIP.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
+    "🌿 Le Troglo/12.01.md",
+    "Telechargements/Pasted image 20230112142351.png",
+    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
   ]
 }
