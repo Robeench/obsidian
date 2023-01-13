@@ -90,7 +90,7 @@ Equipe -> Service / Intervenant interne / Intervenant externe
 - 1 to de stockage par équipe
 	Enregistrement automatique
 	Versionning de fichier
-	Pas besoin de [[VPN]]
+	Pas besoin de [[📚 Apprendre/Systèmes & réseaux/Protocole/VPN]]
 	Téléchargement de dossiers (100Go) 
 	Modification en simultané  
 

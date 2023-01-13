@@ -11,11 +11,9 @@
             "id": "256d111caf63c33b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
+                "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md"
+                "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png"
               }
             }
           },
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
+                "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,17 +156,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "256d111caf63c33b",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Windows Server.md",
-    "🖖 TSSR/4. VOIP/TP - Installation d'un serveur XIVO.md",
-    "🖖 TSSR/4. VOIP/Questionnaire VOIP.md",
-    "🖖 TSSR/4. VOIP/Questionnaire préalable à la VOIP.pdf",
-    "🖖 TSSR/4. VOIP/TP - Installation et configuration de 3CX.md",
-    "🖖 TSSR/4. VOIP/VOIP.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
-    "🌿 Le Troglo/12.01.md",
-    "Telechargements/Pasted image 20230112142351.png",
-    "🖖 TSSR/6. Maintenir et exploiter le réseau local et la téléphonie/2. DNS/TP - Windows et DNS client.md"
+    "Telechargements/superlan-logo.png",
+    "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png",
+    "Telechargements/Capture_pf1.png",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - Groupe 3.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Open VPN.md",
+    "Telechargements/capture_pf6.png",
+    "Telechargements/capture_pf3.png",
+    "Telechargements/capture_pf1 1.png",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Debian.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md"
   ]
 }
