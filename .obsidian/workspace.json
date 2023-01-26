@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "b7d02df8c5908877",
         "type": "tabs",
         "children": [
@@ -15,6 +16,17 @@
               "state": {
                 "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png"
               }
+=======
+        "id": "0881f28b5651f71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de7b3238d6891cb9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -83,7 +95,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +115,13 @@
             "state": {
               "type": "tag",
               "state": {
+<<<<<<< Updated upstream
                 "sortOrder": "frequency",
                 "useHierarchy": true
+=======
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+>>>>>>> Stashed changes
               }
             }
           },
@@ -119,12 +139,17 @@
             "id": "eb953ec157d92447",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "outgoing-link",
               "state": {
                 "file": "Telechargements/superlan-low-resolution-logo-color-on-transparent-background.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
+=======
+              "type": "outline",
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -143,6 +168,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< Updated upstream
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -168,5 +194,19 @@
     "Telechargements/capture_pf1 1.png",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Debian.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/Questionnaire - DHCP.md"
+=======
+  "active": "de7b3238d6891cb9",
+  "lastOpenFiles": [
+    "❤ Home/Notes du jour/26.01.2023.md",
+    "🚄 Wabtec/Divers.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "❤ Home/Notes du jour/23.10.2022.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
+    "🌿 Le Troglo/Questions contrat.md",
+    "🌿 Le Troglo/Réunion 19.10.2022.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+    "❤ Home/Notes du jour/22.10.2022.md"
+>>>>>>> Stashed changes
   ]
 }
