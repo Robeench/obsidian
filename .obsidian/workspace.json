@@ -4,7 +4,11 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "0881f28b5651f71c",
+=======
+        "id": "47e984d2c194db09",
+>>>>>>> Stashed changes
         "type": "tabs",
         "children": [
           {
@@ -13,6 +17,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +31,9 @@
               "type": "markdown",
               "state": {
                 "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +90,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< Updated upstream
     "width": 300
+=======
+    "width": 341.5
+>>>>>>> Stashed changes
   },
   "right": {
     "id": "8ba38c8980ae7a2d",
@@ -106,7 +118,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +151,12 @@
             "state": {
               "type": "tag",
               "state": {
+<<<<<<< Updated upstream
                 "sortOrder": "frequency",
                 "useHierarchy": true
+=======
+                "file": "🖖 TSSR/Déléguée.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -146,7 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md"
+=======
+                "file": "🖖 TSSR/Déléguée.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+>>>>>>> Stashed changes
               }
             }
           }
@@ -159,6 +185,7 @@
   },
   "active": "fc0fc31354a7eee8",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "🚄 Wabtec/Untitled.md",
     "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
     "❤ Home/Notes du jour/26.01.2023.md",
@@ -169,5 +196,17 @@
     "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
     "🌿 Le Troglo/Questions contrat.md",
     "🌿 Le Troglo/Réunion 19.10.2022.md"
+=======
+    "🖖 TSSR/Devoirs.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/BIND.md",
+    "🚄 Wabtec/Projet OS Refresh.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "📚 Apprendre/Langages/PowerShell.md"
+>>>>>>> Stashed changes
   ]
 }
