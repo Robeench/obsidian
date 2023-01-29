@@ -1,60 +1,35 @@
 {
   "main": {
-    "id": "962b99529c4d24d9",
+    "id": "83cde21d5ba5643e",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "0881f28b5651f71c",
-=======
-        "id": "47e984d2c194db09",
->>>>>>> Stashed changes
+        "id": "2fa149b409c1feeb",
         "type": "tabs",
         "children": [
           {
-            "id": "de7b3238d6891cb9",
+            "id": "a34d9b4a4ce6ca3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc0fc31354a7eee8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-=======
-                "file": "🖖 TSSR/Déléguée.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2bfb89458a6f36ac",
+    "id": "9e86bf6f62850072",
     "type": "split",
     "children": [
       {
-        "id": "0659cc50cf930136",
+        "id": "3e2b2ba90a5ba0e2",
         "type": "tabs",
         "children": [
           {
-            "id": "97f55c846b3470da",
+            "id": "4d85cf4ebcdb3fcb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +39,7 @@
             }
           },
           {
-            "id": "8f7c8cba4d3609f9",
+            "id": "79644ebcb1ca618d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +54,7 @@
             }
           },
           {
-            "id": "9ba07bf10b07a020",
+            "id": "d6908d074bdef975",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -90,123 +65,102 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 300
-=======
-    "width": 341.5
->>>>>>> Stashed changes
+    "width": 408.5
   },
   "right": {
-    "id": "8ba38c8980ae7a2d",
+    "id": "cde66ea3a2afdda3",
     "type": "split",
     "children": [
       {
-        "id": "c21a11d87f64b8d1",
+        "id": "2860a2703abd198b",
         "type": "tabs",
         "children": [
           {
-            "id": "bb39663d2ffe24fb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "66acd41bf9067559",
+            "id": "8446cd1e8bb451e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-=======
-                "file": "🖖 TSSR/Déléguée.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "fdfd111d85b03d4c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "749b1b0cabb2b421",
+            "id": "c3f9ef2fa24c9d95",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-<<<<<<< Updated upstream
                 "sortOrder": "frequency",
                 "useHierarchy": true
-=======
-                "file": "🖖 TSSR/Déléguée.md"
->>>>>>> Stashed changes
               }
             }
           },
           {
-            "id": "8969491233074a74",
+            "id": "dd3fcadb0ae2bc40",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb953ec157d92447",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md"
-=======
-                "file": "🖖 TSSR/Déléguée.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
->>>>>>> Stashed changes
               }
             }
+          },
+          {
+            "id": "d0a73622232b9318",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "fc0fc31354a7eee8",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "🚄 Wabtec/Untitled.md",
-    "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-    "❤ Home/Notes du jour/26.01.2023.md",
-    "🚄 Wabtec/Divers.md",
-    "❤ Home/Notes du jour/28.10.2022.md",
-    "❤ Home/Notes du jour/23.10.2022.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Windows.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/Installation - Serveur Debian 11.md",
-    "🌿 Le Troglo/Questions contrat.md",
-    "🌿 Le Troglo/Réunion 19.10.2022.md"
-=======
-    "🖖 TSSR/Devoirs.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Windows Server.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/BIND.md",
     "🚄 Wabtec/Projet OS Refresh.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
     "🚄 Wabtec/Script PowerShell - Inventaire.md",
     "❤ Home/Notes du jour/28.10.2022.md",
-    "📚 Apprendre/Langages/PowerShell.md"
->>>>>>> Stashed changes
+    "📚 Apprendre/Langages/PowerShell.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
   ]
 }
