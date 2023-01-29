@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a34d9b4a4ce6ca3f",
+            "id": "3a5e6a1257bb9f6c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🌿 Le Troglo/A FAIRE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3888e8815bcf0562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌈 Home/Voir/A voir.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rgpd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 397.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌈 Home/Voir/A voir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌈 Home/Voir/A voir.md"
+              }
             }
           },
           {
@@ -116,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌈 Home/Voir/A voir.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,17 +171,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a34d9b4a4ce6ca3f",
+  "active": "3888e8815bcf0562",
   "lastOpenFiles": [
-    "🚄 Wabtec/Projet OS Refresh.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🚄 Wabtec/Script PowerShell - Inventaire.md",
-    "❤ Home/Notes du jour/28.10.2022.md",
-    "📚 Apprendre/Langages/PowerShell.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
+    "FAIRE.md",
+    "🌈 Home/Cadeaux.md",
+    "🌈 Home/Voir/A voir.md",
+    "🌿 Le Troglo/A FAIRE.md",
+    "🌿 Le Troglo/Coordonnées.md",
+    "🌿 Le Troglo/Cooperatic - 20.09.2022.md",
+    "🌿 Le Troglo/Réunion coopératic - 24.10.2022.md",
+    "🌿 Le Troglo/Réunion 19.10.2022.md",
+    "🌿 Le Troglo/Retour formation - 29.01.md",
+    "🖖 TSSR/Déléguée.md"
   ]
 }

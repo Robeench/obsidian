@@ -1,7 +1,7 @@
 **Joséphine**
 BD "nos mutineries"
-Joli bijoux
 Broderie
+[En Bocal! pour de belles et bonnes conserves au fil de l'année](https://www.placedeslibraires.fr/livre/9782383380795-en-bocal-pour-de-belles-et-bonnes-conserves-au-fil-de-l-annee-linda-louis/)
 
 **Camille**
 Voyage à Londres
