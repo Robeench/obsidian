@@ -15,7 +15,7 @@ Détection automatique des erreurs.
 Il doit être inférieur à 1.
 
 ## La bande passante
-Le calcul de la bande passante dépend du codec (la façon ou format dont la voix sera codée avant d’être transmise) utilisé, du nombre de communications maximum et le débit de communication du [[protocole]] de VOIP utilisé. 
+Le calcul de la bande passante dépend du codec (la façon ou format dont la voix sera codée avant d’être transmise) utilisé, du nombre de communications maximum et le débit de communication du [[Protocole]] de VOIP utilisé. 
 Plus la bande passante sera élevée, plus la communication sera claire.
 
 # Les facteurs du délai
@@ -63,7 +63,7 @@ Ces protocoles permettent de faciliter l’accès et l’administration du serve
 ## Fonctionnement et structure des protocoles
 
 ### H323
-Etablissement des connexions VOIP en point to point, entre 2 terminaux, avec l’envoi de son et de vidéo en temps réel et effectue de la vidéo-conférence, en s’appuyant essentiellement sur une connexion TCP via le [[port]] 1720.
+Etablissement des connexions VOIP en point to point, entre 2 terminaux, avec l’envoi de son et de vidéo en temps réel et effectue de la vidéo-conférence, en s’appuyant essentiellement sur une connexion TCP via le [[Port]] 1720.
 
 #### Schéma d'initialisation - Appel H323
 1ère connexion : établissement de l’appel

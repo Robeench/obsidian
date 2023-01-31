@@ -1,5 +1,3 @@
-# Automatiser l'installation de Windows
-
 XML = fichier de réponse généré
 ADK = logiciel qui sert à déployer les installations silencieuses
 
@@ -10,17 +8,17 @@ partition du disque et format, c'est différent.
  
 Utilisation de Ventoy
 
-## Installation ADK
+# Installation ADK
 [Installation ADK sur mon poste](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install)
 
-## Compression ISO
+# Compression ISO
 Compresser mon ISO avec 7zip
 Si le fichier install est en .esd, besoin de le convertir en .wim
 [Convertir un fichier ESD en WIM](https://rdr-it.com/convertir-un-fichier-esd-en-wim/)
 
-## Installation Windows 10
+# Installation Windows 10
 
-## Création du fichier .xml
+# Création du fichier .xml
 Assistant gestion d'installation
 	- joindre fichier install.wim de l'iso concerné
 

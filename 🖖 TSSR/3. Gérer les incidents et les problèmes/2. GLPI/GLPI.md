@@ -1,4 +1,3 @@
-
 [Démo GLPI](https://www.youtube.com/watch?v=GCw1zF17ZPc)
 
 ## Fonctions

@@ -88,8 +88,8 @@ dynamitejet.kid -> 172.16.0.125
 
 ![[Pasted image 20220917202552.png]]
 
-### Partition de [[disque dur]]
-Création d'un [[disque dur]] partitionné et nommé DATA
+### Partition de [[Disque dur]]
+Création d'un [[Disque dur]] partitionné et nommé DATA
 [Créer et formater une partition de disque dur](https://support.microsoft.com/fr-fr/windows/cr%C3%A9er-et-formater-une-partition-de-disque-dur-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e)
 
 ![[Capture d’écran 2022-09-14 132031.png]]

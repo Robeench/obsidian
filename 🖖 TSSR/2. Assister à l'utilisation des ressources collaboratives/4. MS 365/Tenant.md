@@ -1,6 +1,3 @@
-# Tenant 
-
-
 bulle  dans laquelle vos données vont être stockées
 
 ## Liens 

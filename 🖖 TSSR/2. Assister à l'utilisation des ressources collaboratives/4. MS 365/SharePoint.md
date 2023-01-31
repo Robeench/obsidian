@@ -1,4 +1,3 @@
-# SharePoint
 plateforme de gestion de documents, axée sur le collaboratif.
 
 ## Permet quoi ?

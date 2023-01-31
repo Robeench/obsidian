@@ -1,5 +1,3 @@
-# Créer une clé d'installation de Windows totalement automatisée - Ventoy
-
 https://www.ventoy.net/en/index.html
 https://www.ventoy.net/en/isolist.html
 
