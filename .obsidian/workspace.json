@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌿 Le Troglo/Coordonnées.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌿 Le Troglo/Coordonnées.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌿 Le Troglo/Coordonnées.md"
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌿 Le Troglo/Coordonnées.md",
+                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
+    "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
+    "🌿 Le Troglo/Coordonnées.md",
     "🚄 Wabtec/Projet OS Refresh.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
     "🚄 Wabtec/Script PowerShell - Inventaire.md",
     "❤ Home/Notes du jour/28.10.2022.md",
     "📚 Apprendre/Langages/PowerShell.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md"
   ]
 }
