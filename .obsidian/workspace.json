@@ -11,8 +11,12 @@
             "id": "a34d9b4a4ce6ca3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🌿 Le Troglo/Coordonnées.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌿 Le Troglo/Coordonnées.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌿 Le Troglo/Coordonnées.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌿 Le Troglo/Coordonnées.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
