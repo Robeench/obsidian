@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24fbcb21f2b55c19",
+        "id": "83fc2767881dd793",
         "type": "tabs",
         "children": [
           {
-            "id": "fb06419b6e4f4769",
+            "id": "a34d9b4a4ce6ca3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "🌿 Le Troglo/A FAIRE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3888e8815bcf0562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/Déléguée/Divers notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2be27e9f05b2dd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md",
-=======
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-<<<<<<< Updated upstream
-        ],
-        "currentTab": 2
-=======
         ]
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -81,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rgpd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 408.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -118,11 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md",
-=======
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,13 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md"
-=======
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md"
->>>>>>> Stashed changes
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md",
-=======
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
->>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,32 +150,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "2be27e9f05b2dd33",
+  "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
-    "🖖 TSSR/Déléguée/Divers notes.md",
-    "🌈 Home/Voir/A voir.md",
-    "FAIRE.md",
-    "🌈 Home/Cadeaux.md",
-    "🌿 Le Troglo/A FAIRE.md",
-    "🌿 Le Troglo/Coordonnées.md",
-    "🌿 Le Troglo/Cooperatic - 20.09.2022.md",
-    "🌿 Le Troglo/Réunion coopératic - 24.10.2022.md",
-    "🌿 Le Troglo/Réunion 19.10.2022.md",
-    "🌿 Le Troglo/Retour formation - 29.01.md"
-=======
-  "active": "fb06419b6e4f4769",
-  "lastOpenFiles": [
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/SLA.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de continuité d'activité.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Gérer un parc informatique.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/1. Gérer le parc informatique d'une entreprise/Plan de reprise d'activité.md",
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/TCO.md",
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/Shadow IT.md",
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/Questionnaire.md",
-    "🖖 TSSR/2. Assister à l'utilisation des ressources collaboratives/5. Google Workspace/TP.md"
->>>>>>> Stashed changes
+    "🚄 Wabtec/Projet OS Refresh.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "📚 Apprendre/Langages/PowerShell.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
   ]
 }
