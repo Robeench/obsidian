@@ -14,6 +14,8 @@ Les hyperviseurs de type 1 sont utilisés en entreprise pour  :
 
 # Exemples
 
-- Proxmox
+- [[Proxmox]]
 - ESXI
 - XEN
+- Citrix
+- ...

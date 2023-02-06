@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83fc2767881dd793",
+        "id": "a2be0f5789e0d1e1",
         "type": "tabs",
         "children": [
           {
-            "id": "a34d9b4a4ce6ca3f",
+            "id": "3bd6fa96ec9c011d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a34f1ff6f8d0f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Apprendre/Data Center.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "NAT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 337.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Data Center.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Data Center.md"
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md"
               }
             }
           },
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Data Center.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,17 +158,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a34f1ff6f8d0f26",
+  "active": "3bd6fa96ec9c011d",
   "lastOpenFiles": [
-    "400px-Introred.jpg",
-    "📚 Apprendre/Data Center.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
-    "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf",
-    "🚄 Wabtec/Script/Script PowerShell - Inventaire.md",
-    "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-    "Telechargements/Pasted image 20230131222147.png"
+    "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+    "🖖 TSSR/Devoirs.md",
+    "🚄 Wabtec/Divers.md",
+    "Projets à la maison/NAS.md",
+    "Projets à la maison/Nextcloud.md",
+    "Projets à la maison/Téléphonie.md",
+    "Untitled.canvas",
+    "Telechargements/Introred.jpg"
   ]
 }

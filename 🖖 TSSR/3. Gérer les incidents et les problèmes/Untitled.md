@@ -1,10 +1,10 @@
 
-## IV. Montage d'un Windows Serveur 2019 et mise en lien avec GLPI <a name="III"></a>
+## IV. Montage d'un [[Windows]] Serveur 2019 et mise en lien avec [[GLPI]] <a name="III"></a>
 
 * Au moins un domaine controler, mono domaine, mono serveur.  <br/>
 * tld : top level domain ( comme . fr; 1er niveau)  <br/>
-* FSMO : Flexible Single Master Operation, certains types de contrôleurs de domaine dans Active Directory, de Microsoft. Ce sont ceux qui jouent un rôle nécessitant un maître unique pour la réplication entre contrôleurs de domaine ; certains rôles sont uniques pour tous les domaines de la forêt ; d’autres rôles sont plus simplement uniques à l’intérieur d’un domaine. <br/>
-* AD DS : active directory domain service <br/>
+* FSMO : Flexible Single Master Operation, certains types de contrôleurs de domaine dans [[Active Directory]], de Microsoft. Ce sont ceux qui jouent un rôle nécessitant un maître unique pour la réplication entre contrôleurs de domaine ; certains rôles sont uniques pour tous les domaines de la forêt ; d’autres rôles sont plus simplement uniques à l’intérieur d’un domaine. <br/>
+* AD DS : [[active directory]] domain service <br/>
 * Le niveau fonctionnel de la foret : windowsSer 2019 n'est pas un vrai OS, c'est plus le nom marketing de win ser 16 version 2 donc pas de news, on est sur une base de 2016. 2019 c'est plus une maj.  
 
 
@@ -22,7 +22,7 @@
 </details>
 
 
-L'idée sera de créer un WServer qui servira de server entre notre GLPI et les usagers via un AD. Pour commencer il faudra donc monter un WServer propre et ensuite paramétrer l'AD pour gérer notre server GLPI. PLus précisément nous allons monter une machine Serveur qui doit s'occuper des noms de Second niveau ; et à un AD correspond non un serveur mais un nom de domaine au moins. Le premier contrôleur de domaine que nous installerons dans la forêt jouera les cinq rôles de la FSMO.  
+L'idée sera de créer un WServer qui servira de server entre notre [[GLPI]] et les usagers via un AD. Pour commencer il faudra donc monter un WServer propre et ensuite paramétrer l'AD pour gérer notre server [[GLPI]]. PLus précisément nous allons monter une machine Serveur qui doit s'occuper des noms de Second niveau ; et à un AD correspond non un serveur mais un nom de domaine au moins. Le premier contrôleur de domaine que nous installerons dans la forêt jouera les cinq rôles de la FSMO.  
 
 ### A) Préparation d'une baseline WServeur 2019 <a name="IIIA"></a>
 
@@ -30,8 +30,8 @@ L'idée sera de créer un WServer qui servira de server entre notre GLPI et les 
 * Pare feu en privé avec règle ICMP
 * Workgroup : TSSR
 * Hostname : DC1
-* IP FIXE en IPv4
-* IPv6 désactivée sur la carte ethernet0
+* [[IP]] FIXE en [[IPv4]]
+* [[IPv6]] désactivée sur la carte ethernet0
 * Configuration de sécurité renforcée désactivée pour IE
 * Bureau à distance activé
 * Mise à jour désactivée 
@@ -125,7 +125,7 @@ Cela nous permet d'étoffer les informations liées aux USERS.
 
 #### --- Générer les users créés dans le GLPI via un script shell --- <a name="IIIB5"></a>
 
-Le script devra avoir l'extension .ps1 c'est-à-dire powershell version 1, qui permet la plus grande compatibilité.
+Le script devra avoir l'extension .ps1 c'est-à-dire [[powershell]] version 1, qui permet la plus grande compatibilité.
 
 * Script PS1 : [Script sur cefim](https://campus.cefim.eu/pluginfile.php/54105/mod_resource/content/1/adimport.ps1)
 * Script PS1 simplifié 
@@ -151,7 +151,7 @@ foreach($user in $users)
 
 - Ouverture via NotePad++
 - On met le fichier csv (**import.csv**) et le fichier ps1 (**script.ps1**) sur le bureau 
-- On lance l'invite de commande PowerShell
+- On lance l'invite de commande [[PowerShell]]
 > `Set-Location C:\Users\TSSR\Desktop\`<br/>
 > `./script.ps1`<br/>
 
@@ -164,7 +164,7 @@ Pour le mappage des infos csv/ad : [SIte de microsoft qui donne le nom des caté
 
 Dans le chemin `/windows/system32/drivers/etc/` il y a un fichier *services* où toutes les infos ports sont dedans + fichier *hosts* où il est possible de filtrer le réseau via ip/nomdns (sert de DNS local)
 
-### A) Mise en lien d’Active Directory et de notre GLPI via DNS <a name="IVA"></a>
+### A) Mise en lien d’[[Active Directory]] et de notre [[GLPI]] via [[DNS]] <a name="IVA"></a>
 
 <details>
 <summary markdown="span">Ressources web, cliquez ici pour y accéder</summary>
@@ -175,11 +175,11 @@ Dans le chemin `/windows/system32/drivers/etc/` il y a un fichier *services* où
 
 </details>
 
-Il s'agire de faire en sorte que les machines puissent avoir accès via une résolution des noms de domaines aux différents server et vice-versa. Ainsi il faudra que nous permettions aux différents services DNS d'être raccord entre les noms de domaines et les IP que nous souhaitons liées.
+Il s'agire de faire en sorte que les machines puissent avoir accès via une résolution des noms de domaines aux différents server et vice-versa. Ainsi il faudra que nous permettions aux différents services [[DNS]] d'être raccord entre les noms de domaines et les [[IP]] que nous souhaitons liées.
 
 #### --- Mise sous tutelle du Wserveur via protocole DNS --- <a name="IVA1"></a>
 
-Ajouter un support glpi dans WServer2019 + une redirection DNS car il faut mettre notre WServeur sous tutelle du DNS. POur se faire nous allons ajouter un support glpi dans WServer2019 ainsi qu'une redirection DNS
+Ajouter un support [[glpi]] dans WServer2019 + une redirection [[DNS]] car il faut mettre notre WServeur sous tutelle du [[DNS]]. POur se faire nous allons ajouter un support [[glpi]] dans WServer2019 ainsi qu'une redirection [[DNS]]
 
 1. Pannel / DNS / gestion / DC1 / Zone de recherche directe / tssr.lan / Nouvel hôte
 -> support_glpi + 192.168.0.32(adresse serveur glpi)<br/>
@@ -191,7 +191,7 @@ Ainsi, nous mettons en lien via notre nom de domaine tssr.lan l'ip de notre serv
 
 ![Support glpi](https://raw.githubusercontent.com/cromm24/Hello_World/GLPI/ajout_support_dns.jpg)
 
-2. Sur la machine hôte faire pointer le DNS vers l'IP du WServeur (192.168.0.33) pour que ça fonctionne aussi sur la machine hôte
+2. Sur la machine hôte faire pointer le [[DNS]] vers l'IP du WServeur (192.168.0.33) pour que ça fonctionne aussi sur la machine hôte
 
 #### --- Modifications du DNS de réponse sur le serveur GLPI via VM Debian --- <a name="IVA2"></a>
 
