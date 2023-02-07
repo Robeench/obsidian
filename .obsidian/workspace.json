@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f96c52bf4e471fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 314.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md"
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,17 +171,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3bd6fa96ec9c011d",
+  "active": "f96c52bf4e471fd7",
   "lastOpenFiles": [
+    "Pasted image 20230207110020.png",
+    "Pasted image 20230207105941.png",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md",
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 2/Hyperviseur - Type 2.md",
     "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
     "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
     "🖖 TSSR/Devoirs.md",
-    "🚄 Wabtec/Divers.md",
-    "Projets à la maison/NAS.md",
-    "Projets à la maison/Nextcloud.md",
-    "Projets à la maison/Téléphonie.md",
-    "Untitled.canvas",
-    "Telechargements/Introred.jpg"
+    "🚄 Wabtec/Divers.md"
   ]
 }
