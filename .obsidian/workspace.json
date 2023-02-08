@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd6fa96ec9c011d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f96c52bf4e471fd7",
+            "id": "b15427ece01a3383",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +20,91 @@
             }
           },
           {
-            "id": "b15427ece01a3383",
+            "id": "130ea34679c9d06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/Stockage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ae7343ec91df34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Stockage/Stockage de données.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "563cb1875c9269eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Stockage/NAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1428b0d4a3a9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Stockage/Stockage de données.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d3b450ce878d033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Stockage/DAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "605ea77aae76fe66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Stockage/SAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96abba45680b9863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/Déléguée/Divers notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08bbcd2bc010ae27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -183,17 +255,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b15427ece01a3383",
+  "active": "08bbcd2bc010ae27",
   "lastOpenFiles": [
-    "🌿 Le Troglo/7.01.md",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/Stockage.md",
+    "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md",
+    "🖖 TSSR/Déléguée/Divers notes.md",
     "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/TP - Proxmox.md",
-    "Pasted image 20230207110020.png",
-    "Pasted image 20230207105941.png",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 2/Hyperviseur - Type 2.md",
-    "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
-    "🖖 TSSR/Devoirs.md"
+    "🌿 Le Troglo/8.01 - réunion matériel.md",
+    "Pasted image 20230207220851.png",
+    "Pasted image 20230207123017.png",
+    "Pasted image 20230207114216.png",
+    "📚 Apprendre/Stockage/SAN.md",
+    "📚 Apprendre/Stockage/DAS.md"
   ]
 }
