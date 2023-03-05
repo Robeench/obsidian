@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7e59c1472742f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md"
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md"
               }
             }
           },
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
+                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,15 +172,27 @@
   },
   "active": "5392d5378774fc6c",
   "lastOpenFiles": [
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/1. DNS/TP - Mise en oeuvre sous Linux.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec clonage.md",
-    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/PDF - Clustering et haute disponibilité.pdf",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/2. Stockage/Stockage.md",
-    "🌈 Home/Coudre/Untitled.md",
     "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
-    "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md",
-    "🖖 TSSR/Déléguée/Divers notes.md"
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+    "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
+    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
+    "Telechargements/Pasted image 20230207114216.png",
+    "🌈 Home/Notes du jour/26.02.2023.md",
+    "🌈 Home/Choses à faire.md",
+    "🌈 Home/Notes du jour/10.12.2022.md",
+    "🌈 Home/Notes du jour/12.12.2022.md",
+    "🌈 Home/Notes du jour/26.01.2023.md",
+    "🌈 Home/Notes du jour/11.12.2022.md",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
+    "🌿 Le Troglo/Coordonnées.md",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/4. VMWare/Untitled.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
+    "🌿 Le Troglo/Réunions/2023/07.02.2023.md",
+    "🌿 Le Troglo/Réunions/2023/08.02.2023.md",
+    "🌿 Le Troglo/A FAIRE.md",
+    "🌿 Le Troglo/Réunions/2023/29.01.2023.md",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec clonage.md",
+    "🖖 TSSR/Déléguée/Divers notes.md",
+    "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md"
   ]
 }

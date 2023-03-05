@@ -1,5 +1,6 @@
 La virtualisation de serveurs est un ensemble de techniques et d’outils permettant de faire tourner plusieurs systèmes d’exploitation sur un même serveur physique. Le principe de la virtualisation est donc un principe de partage : les différents systèmes d’exploitation se partagent les ressources du serveur.
 
+L'hyperviseur contrôle le processeur. 
 Les principaux éléments physiques utilisés sont le [[CPU]], la carte graphique, la mémoire [[RAM]], l'espace disque, . 
 
 # Principes fondamentaux
