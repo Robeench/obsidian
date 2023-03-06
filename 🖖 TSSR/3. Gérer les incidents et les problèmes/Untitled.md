@@ -3,8 +3,8 @@
 
 * Au moins un domaine controler, mono domaine, mono serveur.  <br/>
 * tld : top level domain ( comme . fr; 1er niveau)  <br/>
-* FSMO : Flexible Single Master Operation, certains types de contrôleurs de domaine dans [[Active Directory]], de Microsoft. Ce sont ceux qui jouent un rôle nécessitant un maître unique pour la réplication entre contrôleurs de domaine ; certains rôles sont uniques pour tous les domaines de la forêt ; d’autres rôles sont plus simplement uniques à l’intérieur d’un domaine. <br/>
-* AD DS : [[active directory]] domain service <br/>
+* FSMO : Flexible Single Master Operation, certains types de contrôleurs de domaine dans [[AD]], de Microsoft. Ce sont ceux qui jouent un rôle nécessitant un maître unique pour la réplication entre contrôleurs de domaine ; certains rôles sont uniques pour tous les domaines de la forêt ; d’autres rôles sont plus simplement uniques à l’intérieur d’un domaine. <br/>
+* AD DS : [[AD]] domain service <br/>
 * Le niveau fonctionnel de la foret : windowsSer 2019 n'est pas un vrai OS, c'est plus le nom marketing de win ser 16 version 2 donc pas de news, on est sur une base de 2016. 2019 c'est plus une maj.  
 
 
@@ -164,7 +164,7 @@ Pour le mappage des infos csv/ad : [SIte de microsoft qui donne le nom des caté
 
 Dans le chemin `/windows/system32/drivers/etc/` il y a un fichier *services* où toutes les infos ports sont dedans + fichier *hosts* où il est possible de filtrer le réseau via ip/nomdns (sert de DNS local)
 
-### A) Mise en lien d’[[Active Directory]] et de notre [[GLPI]] via [[DNS]] <a name="IVA"></a>
+### A) Mise en lien d’[[AD]] et de notre [[GLPI]] via [[DNS]] <a name="IVA"></a>
 
 <details>
 <summary markdown="span">Ressources web, cliquez ici pour y accéder</summary>

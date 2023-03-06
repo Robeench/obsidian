@@ -1,4 +1,4 @@
-[[Protocole]], [[Active directory]]
+[[Protocole]], [[AD]]
 # Lightweight Directory Access Protocol (LDAP) 
 [[Protocole]] permettant de gérer des annuaires. Il repose sur le [[Modèle TCP IP]]. 
 

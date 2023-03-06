@@ -19,4 +19,4 @@ Le protocole s’appuie sur une connexion TCP et le port 445 pour établir une c
 Nous avons besoin de :
 - une machine avec un partage, qui jouera le rôle de serveur au sein de la connexion SMB ([[Windows]])
 - une machine pour accéder aux données, qui jouera le rôle de client dans la connexion SMB ([[Linux]])
-- les deux machines font partie d’un même domaine [[Active directory]]
+- les deux machines font partie d’un même domaine [[AD]]

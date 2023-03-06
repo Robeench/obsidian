@@ -51,7 +51,7 @@ UPN (User Principal Name) = identifiant unique (bleroux@cefim.eu)
 - Domaines
 - Applications 
 
-## Azure [[Active directory]]
+## Azure [[AD]]
 - Utilisateurs : lien entre MS365 et AD
 ❗modification de l'UPN dans MS365, besoin d'un script [[PowerShell]] pour pousser la modification dans l'AD. Si AD vers MS365, se fait automatiquement.
 

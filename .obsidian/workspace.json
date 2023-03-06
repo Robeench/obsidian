@@ -8,30 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5392d5378774fc6c",
+            "id": "638352a0093f9444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7e59c1472742f1f",
+            "id": "ae909b09ed8e2549",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf"
+              }
+            }
+          },
+          {
+            "id": "2df7d7a9ac7b5e8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
+                "file": "📚 Apprendre/Protocole/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f729b50e238d4cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Protocole/AD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83d334a8774a08e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻 Root-Me/Bash - System 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md"
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md"
               }
             }
           },
@@ -135,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,10 +205,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5392d5378774fc6c",
+  "active": "4d85cf4ebcdb3fcb",
   "lastOpenFiles": [
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
+    "💻 Root-Me/APP - SCRIPT/Bash - System 1/SUID Privileged Programs.pdf",
+    "💻 Root-Me/APP - SCRIPT/Bash - System 1/Dangers of SUID Shell Scripts.pdf",
+    "💻 Root-Me/APP - SCRIPT/Bash - System 1",
+    "💻 Root-Me/APP - SCRIPT",
+    "📚 Apprendre/Protocole/AD.md",
+    "💻 Root-Me/Bash - System 1.md",
+    "💻 Root-Me",
+    "Untitled.md",
+    "📚 Apprendre/Protocole/Kerberos.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
+    "📚 Apprendre/Protocole/DNS.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi/Cours cefim à faire.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Cours - Active Directory.pdf",
     "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé",
+    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
     "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
     "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
     "Telechargements/Pasted image 20230207114216.png",
@@ -190,9 +242,6 @@
     "🌿 Le Troglo/Réunions/2023/07.02.2023.md",
     "🌿 Le Troglo/Réunions/2023/08.02.2023.md",
     "🌿 Le Troglo/A FAIRE.md",
-    "🌿 Le Troglo/Réunions/2023/29.01.2023.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec clonage.md",
-    "🖖 TSSR/Déléguée/Divers notes.md",
-    "🖖 TSSR/Déléguée/Conseil de perfectionnement - 31.01.2023.md"
+    "🌿 Le Troglo/Réunions/2023/29.01.2023.md"
   ]
 }
