@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md"
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -194,12 +194,13 @@
   },
   "active": "638352a0093f9444",
   "lastOpenFiles": [
+    "📚 Apprendre/Protocole/AD.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
+    "Pasted image 20230307101256.png",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/PFSense.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Active Directory.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
     "📚 Apprendre/Protocole/DNS.md",
-    "📚 Apprendre/Protocole/AD.md",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1/SUID Privileged Programs.pdf",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1/Dangers of SUID Shell Scripts.pdf",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1",
@@ -229,7 +230,6 @@
     "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/4. VMWare/Untitled.md",
     "🌿 Le Troglo/Réunions/2023/07.02.2023.md",
     "🌿 Le Troglo/Réunions/2023/08.02.2023.md",
-    "🌿 Le Troglo/A FAIRE.md",
-    "🌿 Le Troglo/Réunions/2023/29.01.2023.md"
+    "🌿 Le Troglo/A FAIRE.md"
   ]
 }
