@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "638352a0093f9444",
+            "id": "98448503eeeb501c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f560471814e69035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Apprendre/Protocole/AD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae909b09ed8e2549",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf"
-              }
-            }
-          },
-          {
-            "id": "2df7d7a9ac7b5e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Apprendre/Protocole/DNS.md",
+                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
+                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md"
+                "file": "🌿 Le Troglo/Réunions/2023/9.03.md"
               }
             }
           },
@@ -157,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
+                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -192,15 +158,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "638352a0093f9444",
+  "active": "98448503eeeb501c",
   "lastOpenFiles": [
-    "📚 Apprendre/Protocole/AD.md",
+    "📚 Apprendre/Windows Server/Active Directory/TP GPO.md",
+    "🌿 Le Troglo/Réunions/2023/9.03.md",
+    "📚 Apprendre/Windows Server/Serveur AD.md",
+    "📚 Apprendre/Windows Server/Serveur DNS.md",
+    "📚 Apprendre/Windows Server/Serveur DHCP.md",
+    "📚 Apprendre/Windows Server/Active Directory/Serveur de fichiers.md",
+    "📚 Apprendre/Windows Server/Active Directory/GPO.md",
+    "📚 Apprendre/Windows Server/Active Directory/AD.md",
+    "Pasted image 20230308164102.png",
+    "Pasted image 20230308164044.png",
+    "📚 Apprendre/Windows Server/Windows Server.md",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
+    "📚 Apprendre/Windows Server/Active Directory",
+    "Pasted image 20230308132703.png",
+    "15471323228309_p1c3.png",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
+    "Pasted image 20230308122619.png",
+    "📚 Apprendre/Windows Server",
+    "📚 Apprendre/Protocole/DNS.md",
     "Pasted image 20230307101256.png",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/PFSense.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
-    "📚 Apprendre/Protocole/DNS.md",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1/SUID Privileged Programs.pdf",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1/Dangers of SUID Shell Scripts.pdf",
     "💻 Root-Me/APP - SCRIPT/Bash - System 1",
@@ -213,8 +194,6 @@
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Cours - Active Directory.pdf",
     "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé",
     "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
     "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
     "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
@@ -223,13 +202,6 @@
     "🌈 Home/Choses à faire.md",
     "🌈 Home/Notes du jour/10.12.2022.md",
     "🌈 Home/Notes du jour/12.12.2022.md",
-    "🌈 Home/Notes du jour/26.01.2023.md",
-    "🌈 Home/Notes du jour/11.12.2022.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/3. ESXi/TP - ESXi monoinstance avec 2 réseaux.md",
-    "🌿 Le Troglo/Coordonnées.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/4. VMWare/Untitled.md",
-    "🌿 Le Troglo/Réunions/2023/07.02.2023.md",
-    "🌿 Le Troglo/Réunions/2023/08.02.2023.md",
-    "🌿 Le Troglo/A FAIRE.md"
+    "🌈 Home/Notes du jour/26.01.2023.md"
   ]
 }
