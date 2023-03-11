@@ -1,9 +1,54 @@
-13.09.2022 - cours par Vincent Boudias
+# Consignes
+- [ ] Le réseau host-only est en classe B privé /25 dans la plage 172.16.0.0 à 172.16.31.255
+- [ ] Construire un réseau host-only dans VirtualBox en n'assignant aucun serveur DHCP à VirtualBox
+- [ ] La dernière adresse possible est celle de la gateway sur la machine hôte
+- [ ] L'avant dernière est celle sur Windows Server 2022
+- [ ] Celle juste avant est celle du serveur apache
+- [ ] La première via DHCP sera celle du poste client
+- [ ] Choisir également un nom de domaine
 
-# TP - Création d'une petite infrastructure host only
+## SRV01-ADDHCPDNS
+- [ ] Windows Server 2022
+- [ ] 2Go de RAM
+- [ ] 50Go de disque SSD
+- [ ] Installer les logiciels suivants :
+	- [ ] 7zip
+	- [ ] SumatraPDF
+	- [ ] Notepad++
+	- [ ] Firefox
+- [ ] Installer le rôle DHCP sur ce serveur
+- [ ] Installer le rôle AD de base
+- [ ] Configurer - à minima - le serveur DNS avec un alias www.nitou.lan sur la VM3
+- [ ] Configurer un partage de fichier sur un deuxième disque dur partitionné et nommé DATA
+- [ ] Installer les Guest Additions
+
+## DESKTOP01
+- [ ] Windows 11 Enterprise
+- [ ] 4Go de RAM
+- [ ] 64Go de disque SSD
+- [ ] Installer les logiciels suivants :
+	- [ ] 7zip
+	- [ ] SumatraPDF
+	- [ ] Notepad++
+	- [ ] Firefox
+- [ ] Ajouter le poste au domaine nitou.lan
+- [ ] Installer les Guest Additions
+
+## SRV02-APACHE
+- [ ] Debian 11
+- [ ] 1Go de RAM
+- [ ] 8Go de disque SSD
+- [ ] Serveur Apache
+- [ ] Installer Apache2
+- [ ] Modifier la page index.html dans /var/www/html
+- [ ] Pas de HTTPS
+
+Ma VM2 doit pouvoir accéder à http://www.nitou.lan, sur ma page modifiée Apache.
+
+# Installation
 
 ## Calcul des adresses [[IP]]
-[Calcul des adresses IP](https://cric.grenoble.cnrs.fr/)
+[Calcul des adresses IP](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/)
 
 Je crée un réseau en classe B privée, en /25, dans la plage de 172.16.0.0 à 172.16.31.255
 
@@ -14,7 +59,7 @@ Serveur Apache (VM3) = 172.16.0.125
 via [[DHCP]] (VM2), doit correspondre à = 172.16.0.2
 Broadcast = 172.16.0.127
 Adresse réseau = 172.16.0.0
-Nom de domaine = dynamitejet.kid
+Nom de domaine = nitou.lan
 
 Première adresse disponible = 172.16.0.2
 Dernière adresse disponible = 172.16.0.126

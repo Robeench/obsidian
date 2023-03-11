@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a2be0f5789e0d1e1",
+        "id": "d11e4644c2632208",
         "type": "tabs",
         "children": [
           {
-            "id": "98448503eeeb501c",
+            "id": "a7aebb4ac54af7c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
+                "file": "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02cedb80bdf6c86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/01 - Installation/Debian/Serveur PFSense.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NAT",
+                "query": "debian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
+                "file": "📚 Apprendre/01 - Installation/Debian/Serveur PFSense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌿 Le Troglo/Réunions/2023/9.03.md"
+                "file": "📚 Apprendre/01 - Installation/Debian/Serveur PFSense.md"
               }
             }
           },
@@ -123,9 +136,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌿 Le Troglo/Réunions/2023/9.03.md",
+                "file": "📚 Apprendre/01 - Installation/Debian/Serveur PFSense.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -138,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,50 +170,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98448503eeeb501c",
+  "active": "02cedb80bdf6c86f",
   "lastOpenFiles": [
-    "📚 Apprendre/Windows Server/Active Directory/TP GPO.md",
-    "🌿 Le Troglo/Réunions/2023/9.03.md",
-    "📚 Apprendre/Windows Server/Serveur AD.md",
-    "📚 Apprendre/Windows Server/Serveur DNS.md",
-    "📚 Apprendre/Windows Server/Serveur DHCP.md",
-    "📚 Apprendre/Windows Server/Active Directory/Serveur de fichiers.md",
-    "📚 Apprendre/Windows Server/Active Directory/GPO.md",
-    "📚 Apprendre/Windows Server/Active Directory/AD.md",
-    "Pasted image 20230308164102.png",
-    "Pasted image 20230308164044.png",
-    "📚 Apprendre/Windows Server/Windows Server.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
-    "📚 Apprendre/Windows Server/Active Directory",
-    "Pasted image 20230308132703.png",
-    "15471323228309_p1c3.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
-    "Pasted image 20230308122619.png",
-    "📚 Apprendre/Windows Server",
-    "📚 Apprendre/Protocole/DNS.md",
-    "Pasted image 20230307101256.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/PFSense.md",
+    "📚 Apprendre/01 - Installation/Debian/Serveur Debian11.md",
+    "📚 Apprendre/01 - Installation/Debian/Serveur PFSense.md",
     "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - groupe 3.md",
-    "💻 Root-Me/APP - SCRIPT/Bash - System 1/SUID Privileged Programs.pdf",
-    "💻 Root-Me/APP - SCRIPT/Bash - System 1/Dangers of SUID Shell Scripts.pdf",
-    "💻 Root-Me/APP - SCRIPT/Bash - System 1",
-    "💻 Root-Me/APP - SCRIPT",
-    "💻 Root-Me/Bash - System 1.md",
-    "💻 Root-Me",
-    "Untitled.md",
-    "📚 Apprendre/Protocole/Kerberos.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi/Cours cefim à faire.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Cours - Active Directory.pdf",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Proxmox.md",
-    "🖖 TSSR/8. Maintenir et exploiter un environnement virtualisé/1. Proxmox/TP - Proxmox.md",
-    "📚 Apprendre/Applications/Virtualisation/Virtualisation.md",
-    "📚 Apprendre/Applications/Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
-    "Telechargements/Pasted image 20230207114216.png",
-    "🌈 Home/Notes du jour/26.02.2023.md",
-    "🌈 Home/Choses à faire.md",
-    "🌈 Home/Notes du jour/10.12.2022.md",
-    "🌈 Home/Notes du jour/12.12.2022.md",
-    "🌈 Home/Notes du jour/26.01.2023.md"
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Packet Tracer.md",
+    "🖖 TSSR/7. Maintenir et exploiter le réseau local et la téléphonie/2. DHCP/TP - DHCP sous Windows Server.md",
+    "🖖 TSSR/4. VOIP/TP - Installation d'un serveur XIVO.md",
+    "🖖 TSSR/4. VOIP/TP - Installation et configuration de 3CX.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/Consignes.md",
+    "📚 Apprendre/01 - Installation/Windows",
+    "📚 Apprendre/01 - Installation/Debian",
+    "📚 Apprendre/01 - Installation",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Windows Server 2022.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/4. TP final/TP final.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/Untitled.md",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 1/Proxmox.md",
+    "📚 Apprendre/02 - Virtualisation/Virtualisation.md",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 2/Hyperviseur - Type 2.md",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 2/Configurations réseaux de VMWare.pdf",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 2/VirtualBox/Clonage sous VirtualBox.md",
+    "📚 Apprendre/02 - Virtualisation/Hyperviseur - Type 2/VirtualBox",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Serveur de fichiers.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Serveur DHCP.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Serveur DNS.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/02 - Pratique/TP GPO.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie/GPO.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie/AD.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/02 - Pratique/01 - Serveur AD.md",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/02 - Pratique",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie",
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles",
+    "📚 Apprendre/OS/Linux/Linux.md",
+    "🌿 Le Troglo/A FAIRE.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/0. Infrastructure du CEFIM/Infrastructure CEFIM.pdf",
+    "Telechargements/Pasted image 20230307101256.png",
+    "Telechargements/Pasted image 20230308164102.png",
+    "Pasted image 20230308164044.png",
+    "Telechargements/Pasted image 20230308132703.png",
+    "Telechargements/Pasted image 20230308122619.png",
+    "15471323228309_p1c3.png",
+    "Telechargements/Pasted image 20230207114216.png"
   ]
 }

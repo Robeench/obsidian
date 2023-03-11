@@ -9,7 +9,7 @@ Norme [ISO 22301](https://fr.wikipedia.org/wiki/ISO_22301)
 - identification des solutions pour le maintien des activités critiques
 
 ## Outils à disposition
-- [[virtualisation]] de serveur en ferme ou unitaire
+- [[Virtualisation]] de serveur en ferme ou unitaire
 - stockage central type SAN physique ou virtuel
 - cloud de proximité
 - outils de sauvegarde adaptés et performants

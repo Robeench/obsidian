@@ -1,5 +1,3 @@
-# TP - Infrastructure CEFIM
-
 Pour définir l'IP publique : [What is my IP](https://www.whatismyip.com/)
 
 Pour trouver tous les éléments du réseau : IP Scanner
