@@ -23,7 +23,7 @@ Warning potentiel du navigateur, je force la connexion.
 * Password  
 * Adresse IP : 192.168.X.X (eth0), à mettre de préférence en IP fixe
 * Gateway : 192.168.X.X (celle fournie par ma box) 
-* DNS : 192.168.1.254  (celle fournie par ma box), dans une vrai infra je renseigne ici le serveur DNS local qui est souvent le DC1 de l'AD
+* DNS : 192.168.1.254  (celle fournie par ma box), dans une vrai infra je renseigne ici le [[serveur DNS]] local qui est souvent le DC1 de l'AD
 * Entité : nom de mon entreprise
 * Nom affiché : Appels internes  
 * Début de l'intervalle des numéro : 100  

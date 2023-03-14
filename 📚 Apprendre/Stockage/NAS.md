@@ -6,7 +6,7 @@ Baie de stockage avec :
 - système de fichiers
 - ensemble de disques indépendants
 
-Le NAS est rattaché au réseau de l'entreprise pour servir de serveur de fichiers. 
+Le NAS est rattaché au réseau de l'entreprise pour servir de [[serveur de fichiers]]. 
 Les disques durs ne sont pas reliés au serveur, mais au NAS. 
 Le NAS permet l'accès client aux données, sans passer par le serveur d'application.
 Il permet à plusieurs serveurs d'accéder au même fichier simultanément. 

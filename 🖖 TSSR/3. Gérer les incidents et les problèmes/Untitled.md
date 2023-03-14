@@ -729,7 +729,7 @@ permet également d’en comprendre l’organisation et d’en modifier la confi
 approche stratégique de la conception, la livraison, la gestion et l’amélioration de la façon d’utiliser les technologies de l’information dans l’entreprise. Le but de toute structure de gestion des SI est de s’assurer que les processus, les personnes et la technologie adéquats soient présents afin que l’entreprise puisse atteindre ses objectifs métier.
 
 * **RFC** : Requests for Comments ou Demande de Commentaires, sont une série
-numérotée de documents décrivant les aspects et spécifications techniques d’internet ou de différents matériels informatiques comme un routeur ou un serveur DHCP. Les RFC sont classées selon cinq classifications qui sont :
+numérotée de documents décrivant les aspects et spécifications techniques d’internet ou de différents matériels informatiques comme un routeur ou un [[serveur DHCP]]. Les RFC sont classées selon cinq classifications qui sont :
     -> Obligatoire
     -> Recommandée
     -> Facultative

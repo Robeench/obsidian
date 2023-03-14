@@ -1,14 +1,14 @@
 # Consignes
 - [ ] Le réseau host-only est en classe B privé /25 dans la plage 172.16.0.0 à 172.16.31.255
-- [ ] Construire un réseau host-only dans VirtualBox en n'assignant aucun serveur DHCP à VirtualBox
+- [ ] Construire un réseau host-only dans VirtualBox en n'assignant aucun [[serveur DHCP]] à VirtualBox
 - [ ] La dernière adresse possible est celle de la gateway sur la machine hôte
-- [ ] L'avant dernière est celle sur Windows Server 2022
+- [ ] L'avant dernière est celle sur [[Windows Server 2022]]
 - [ ] Celle juste avant est celle du serveur apache
 - [ ] La première via DHCP sera celle du poste client
 - [ ] Choisir également un nom de domaine
 
 ## SRV01-ADDHCPDNS
-- [ ] Windows Server 2022
+- [ ] [[Windows Server 2022]]
 - [ ] 2Go de RAM
 - [ ] 50Go de disque SSD
 - [ ] Installer les logiciels suivants :
@@ -18,7 +18,7 @@
 	- [ ] Firefox
 - [ ] Installer le rôle DHCP sur ce serveur
 - [ ] Installer le rôle AD de base
-- [ ] Configurer - à minima - le serveur DNS avec un alias www.nitou.lan sur la VM3
+- [ ] Configurer - à minima - le [[serveur DNS]] avec un alias www.nitou.lan sur la VM3
 - [ ] Configurer un partage de fichier sur un deuxième disque dur partitionné et nommé DATA
 - [ ] Installer les Guest Additions
 
