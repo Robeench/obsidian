@@ -1,3 +1,12 @@
+[Partage de fichiers sur un réseau dans Windows](https://support.microsoft.com/fr-fr/windows/partage-de-fichiers-sur-un-r%C3%A9seau-dans-windows-b58704b2-f53a-4b82-7bc1-80f9994725bf)
+[Protocole SMB pour les débutants](https://www.it-connect.fr/le-protocole-smb-pour-les-debutants/)
+[Partager un dossier sur Windows Server](https://rdr-it.com/partager-dossier-windows-serveur/)
+
+[Créer et formater une partition de disque dur](https://support.microsoft.com/fr-fr/windows/cr%C3%A9er-et-formater-une-partition-de-disque-dur-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e)
+
+
+# Cours
+
 # Installation
 ## Gestion du stockage
 Eteindre le serveur
@@ -16,7 +25,7 @@ Services de fichier et de stockage
 
 🗂 Créer un pool de stockage
 Sélectionner le pool de stockage
-	Nouveau disque dur virtuel
+	Nouveau [[Disque dur]] virtuel
 
 ## Partage
 

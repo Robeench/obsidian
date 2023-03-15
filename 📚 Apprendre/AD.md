@@ -373,7 +373,7 @@ Côté GPO
     - (1) need script powersheel pour reconnecter le lecteur reseeau (script de connexion dans une GPO)
     - (2) vous connectez sur le compte de l'user directement le ecteur reseau des partages collectifs avec l'onglet 
 
-**Côté [[serveur de fichiers]]**  
+**Côté [[Serveur de fichiers]]**  
 
 Grosse bête pointe vers une baie de stockage. Elle projète des volumes directement sur le serveur. Et le serveur dans l'explorateur Windows vas présenter la baie.
 

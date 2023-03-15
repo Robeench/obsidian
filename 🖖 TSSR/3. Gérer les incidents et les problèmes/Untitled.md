@@ -486,7 +486,7 @@ ITIL est un ensemble de livres qui regroupe les bonnes pratiques de management d
 * Gestions des opérations
 * Gestion des applications
 
-Datant de juin 2007, ITIL V3 est caractérisé par la prise en compte de la virtualisation, l’externalisation ou encore des nouvelles architectures technologiques.
+Datant de juin 2007, ITIL V3 est caractérisé par la prise en compte de la [[Virtualisation]], l’externalisation ou encore des nouvelles architectures technologiques.
 Quels sont les bénéfices pour l'entreprise ?
 
 Le principal objectif de l’ITIL est d’améliorer de manière significative le service au client, c’est pourquoi nous le retrouvons au cœur du modèle, en favorisant l’efficacité des fonctions informatiques. L’adoption du modèle apporte de nombreux avantages à l’entreprise utilisatrice :
@@ -729,7 +729,7 @@ permet également d’en comprendre l’organisation et d’en modifier la confi
 approche stratégique de la conception, la livraison, la gestion et l’amélioration de la façon d’utiliser les technologies de l’information dans l’entreprise. Le but de toute structure de gestion des SI est de s’assurer que les processus, les personnes et la technologie adéquats soient présents afin que l’entreprise puisse atteindre ses objectifs métier.
 
 * **RFC** : Requests for Comments ou Demande de Commentaires, sont une série
-numérotée de documents décrivant les aspects et spécifications techniques d’internet ou de différents matériels informatiques comme un routeur ou un [[serveur DHCP]]. Les RFC sont classées selon cinq classifications qui sont :
+numérotée de documents décrivant les aspects et spécifications techniques d’internet ou de différents matériels informatiques comme un [[Routeur]] ou un [[Serveur DHCP]]. Les RFC sont classées selon cinq classifications qui sont :
     -> Obligatoire
     -> Recommandée
     -> Facultative

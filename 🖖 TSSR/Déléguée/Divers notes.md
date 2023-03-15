@@ -4,5 +4,5 @@ Faire un retour à Amanda :
 Refaire le point avec Maxime GROUSSIN
 
 accès vm cloud
-proxmox a faire en présentiel
+[[Proxmox]] a faire en présentiel
 OU accès en lab à distance

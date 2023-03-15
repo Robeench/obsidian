@@ -67,5 +67,5 @@ multi-homing = plusieurs fournisseurs d'accès à internet ??
 mise en place de cluster
 
 ## Redondance de passerelle par défaut
-protocole de redondance de routeur
+protocole de redondance de [[Routeur]]
 

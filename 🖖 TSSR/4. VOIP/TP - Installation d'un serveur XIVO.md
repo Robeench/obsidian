@@ -7,7 +7,7 @@ Une infrastructures dans laquelle on place de la VOIP doit avoir : QOS + VLAN + 
 * POE (ou POE+) :alimenter les IP Phones
 
 # Installation
-Création d'une VM avec 2Go de RAM minimal, sur un noyau linux, branche Debian10 x 64bits 
+Création d'une VM avec 2Go de [[RAM]] minimal, sur un noyau linux, branche Debian10 x 64bits 
 avec l'[iso XIVO](http://mirror.xivo.solutions/iso/xivo-current/) current la plus récente (❗bien faire attention à être dans le bon dossier current, et pas dans le directory, sinon la version de Xivo ne fonctionne pas)
 
 Nous installerons par la suite deux softphones :
@@ -23,7 +23,7 @@ Warning potentiel du navigateur, je force la connexion.
 * Password  
 * Adresse IP : 192.168.X.X (eth0), à mettre de préférence en IP fixe
 * Gateway : 192.168.X.X (celle fournie par ma box) 
-* DNS : 192.168.1.254  (celle fournie par ma box), dans une vrai infra je renseigne ici le [[serveur DNS]] local qui est souvent le DC1 de l'AD
+* DNS : 192.168.1.254  (celle fournie par ma box), dans une vrai infra je renseigne ici le [[Serveur DNS]] local qui est souvent le DC1 de l'AD
 * Entité : nom de mon entreprise
 * Nom affiché : Appels internes  
 * Début de l'intervalle des numéro : 100  

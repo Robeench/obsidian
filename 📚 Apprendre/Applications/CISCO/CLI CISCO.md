@@ -16,7 +16,7 @@ enable
 ## Mode privilège
 = Privileged EXEC command
 Equivalent à root en linux. 
-utilisateur + gestion des fichiers à l'intérieur du routeur
+utilisateur + gestion des fichiers à l'intérieur du [[Routeur]]
 
 Pour passer en mode configuration globale :
 ```
@@ -26,7 +26,7 @@ configure terminal
 ## Mode configuration globale
 = Global Configuration command
 sous-mode du mode privilège. 
-permet la configuration du routeur.
+permet la configuration du [[Routeur]].
 
 ``` shell
 interface FastEthernet 0/1 #permet la connexion au mode configuration d'interfaces

@@ -7,4 +7,4 @@ Il délivre :
 - le bail DHCP : l'adresse [[IP]] a une durée limitée
 - des paramètres réseaux : masque de réseau, adresse [[IP]] de la passerelle, adresse [[IP]] du serveur [[DNS]].
 
-Au domicile, la box internet a le rôle de DHCP. Dans une entreprise ce sera un [[serveur DHCP]]. 
+Au domicile, la box internet a le rôle de DHCP. Dans une entreprise ce sera un [[Serveur DHCP]]. 

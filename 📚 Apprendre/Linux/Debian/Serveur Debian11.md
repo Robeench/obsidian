@@ -5,14 +5,14 @@ Récupérer l'ISO sur le [site de Debian](https://www.debian.org/distrib/index.f
 ## Configuration minimale requise
 [Matériel minimum pour Debian](https://www.debian.org/releases/jessie/i386/ch03s04.html.fr)
 
-- 128M de RAM
+- 128M de [[RAM]]
 - 2Go de disque SSD
-- 1 CPU
+- 1 [[CPU]]
 
 Pour être à l'aise : 
-- 2Go de RAM
+- 2Go de [[RAM]]
 - 12Go de disque SSD
-- 1 CPU
+- 1 [[CPU]]
 
 ## Connexion réseau
 Une connexion à internet est nécessaire lors de l'installation. 

@@ -1,5 +1,6 @@
 # Installation
-Mettre en œuvre deux serveurs contrôleurs de domaine pour répartir la charge et les rôles nécessaires au bon fonctionnement de l'annuaire. 
+
+[Installation et configuration du rôle AD-DS](https://vadmintic.wordpress.com/systemes-windows/installation-et-configuration/installation-et-configuration-du-role-ad-ds/)
 
 ## Configuration
 - Renommer le serveur
@@ -17,9 +18,6 @@ Pour vérifier la connectivité, désactiver temporairement le pare-feu.
 	Reboot
 
 Mon domaine est configuré et actif.
-
-## Second contrôleur de domaine
-Reproduire les opérations sur le deuxième serveur. 
 
 # Outils d'administration
 
@@ -55,7 +53,6 @@ Lorsque mes ressources peuvent être issues de tous les domaines au sein d’une
 ## Nomenclature type
 GG_R_IMPRIMANTE_RDC = groupe global restreint pour l'imprimante du rez de chaussée.
 GU_U_Accès-Internet = groupe universel d'utilisateurs ayant accès à internet.
-
 
 # GPO
 ## Paramètres d'une GPO

@@ -76,7 +76,7 @@ L'unique façon de déclarer une variable est de spécifier directement son type
 
 Il faut commencer par le type, puis le nom, puis la valeur. Si on n'a pas tout de suite de valeur à assigner à sa variable, il faut quand même lui définir un type. Par contre, elle ne sera pas utilisable tant que sa valeur ne lui aura pas été attribuée.
 
-Pendant l'exécution de mon programme, mon CPU (unité centrale de traitement) doit savoir combien d'espace réserver à ma variable. Le type permet d'allouer un espace mémoire adapté.
+Pendant l'exécution de mon programme, mon [[CPU]] (unité centrale de traitement) doit savoir combien d'espace réserver à ma variable. Le type permet d'allouer un espace mémoire adapté.
 
 Parmi les types, il existe les types primitifs, ils existent par eux-mêmes, par exemple les types numériques et les chaines.
 

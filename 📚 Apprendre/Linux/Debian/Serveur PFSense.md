@@ -3,8 +3,8 @@
 Récupérer l'ISO sur le [site de PFSense](https://www.pfsense.org/download/)
 
 ## Configuration minimale
-- 1Go de RAM
-- 1 CPU
+- 1Go de [[RAM]]
+- 1 [[CPU]]
 - 8Go de disque SSD
 - 2 cartes réseaux
 

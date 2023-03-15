@@ -10,9 +10,9 @@ Port 2000
 
 # Configuration
 
-Je me connecte à Packet Tracer pour configurer cette solution sur un routeur 2811. 
+Je me connecte à Packet Tracer pour configurer cette solution sur un [[Routeur]] 2811. 
 Je vais avoir besoin de plusieurs éléments : 
-- DHCP : gestion du network, default routeur (définit la passerelle, le Proxy SIP via option 150 pour faire passer les flux de voix).
+- DHCP : gestion du network, default [[Routeur]] (définit la passerelle, le Proxy SIP via option 150 pour faire passer les flux de voix).
 - dial numbers : gestion des extensions
 - max phones : nombre maximum de téléphones sur le réseau
 - MAC : attribuer un téléphone à un numéro en s'appuyant sur l'adresse MAC
@@ -36,9 +36,9 @@ Il existe 3 modes avec le système Cisco
 
 -        Le premier de ces modes est le mode dit « **Utilisateur ou Invité** ». C’est un mode de supervision, il vous permet d’effectuer des pings et quelques show (c’est une commande qui sert à afficher des renseignements sur le matériel) `“Nom du Router>”` s’affiche quand vous êtes dans ce mode. À partir de ce mode, on peut passer en mode **Privilège grâce à la commande enable.**
 
--        Le deuxième est le mode « **Privilège** ». Vous pouvez le voir comme l’équivalent du mode root chez Linux, on le reconnaît grâce au **#** dans le prompt. Il vous permet d’effectuer les mêmes commandes que le mode Utilisateur (avec tous les show) et de gérer les fichiers à l’intérieur du routeur (copy, erase).
+-        Le deuxième est le mode « **Privilège** ». Vous pouvez le voir comme l’équivalent du mode root chez Linux, on le reconnaît grâce au **#** dans le prompt. Il vous permet d’effectuer les mêmes commandes que le mode Utilisateur (avec tous les show) et de gérer les fichiers à l’intérieur du [[Routeur]] (copy, erase).
 
-`“Nom du Router#”` s’affiche après le nom du routeur quand on est dans ce mode. De ce mode, **on peut passer en mode « Configuration Globale » avec la commande** _configure terminal_.
+`“Nom du Router#”` s’affiche après le nom du [[Routeur]] quand on est dans ce mode. De ce mode, **on peut passer en mode « Configuration Globale » avec la commande** _configure terminal_.
 
 -        **Le troisième est le mode « Configuration globale »** : seul mode où on peut administrer
 
@@ -74,9 +74,9 @@ On déclare les options
 
 CME (dhcp-config)#**option 150 ip 192.168.150.1**
 
-_On déclare le serveur VOIP (ici le routeur fait office de VOIP, donc on prend son IP)_
+_On déclare le serveur VOIP (ici le [[Routeur]] fait office de VOIP, donc on prend son IP)_
 
-_Option 150 pour la VOIP (on peut définir de 0 à 254 en fonction du type de routeur) (la commande « option » est exclusivement pour la VOIP)_
+_Option 150 pour la VOIP (on peut définir de 0 à 254 en fonction du type de [[Routeur]]) (la commande « option » est exclusivement pour la VOIP)_
 
 On donne le nom de domaine : espace de nom qui permet de regrouper tous les éléments (objets) d’un réseau au sein d’un seul et même emplacement physique.
 

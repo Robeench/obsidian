@@ -78,9 +78,9 @@ Protocole propriétaire Cisco fonctionnant à peu près comme le H323, mais est 
 
 Port 2000 
 
-Peut être utilisé pour un petit réseau. Lorsque nous configurons une plateforme de VOIP selon Cisco, on parle de CME (Cisco Management Express), qui est le nom d’appellation d’une plateforme de VOIP de chez Cisco. 
+Peut être utilisé pour un petit réseau. Lorsque nous configurons une plateforme de VOIP selon Cisco, on parle de [[CME]] (Cisco Management Express), qui est le nom d’appellation d’une plateforme de VOIP de chez Cisco. 
 Il est également connu sous le nom de Callmanager. Le softphone (client VOIP applicatif) permet à un utilisateur de téléphoner via un système de type Android, [[Windows]] ou Mac afin de passer des appels. 
-Cisco Jabber est l’application propriétaire de chez Cisco pour les plateformes CME.
+Cisco Jabber est l’application propriétaire de chez Cisco pour les plateformes [[CME]].
 
 ### [[SIP]] 
 = Session Initiation Protocol

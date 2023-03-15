@@ -5,7 +5,7 @@ Armoire contenant plusieurs baies de disques qui sont reliées au SI par un rés
 Les disques durs ne sont pas reliés directement au serveur. Il est possible de relier un disque à plusieurs machines simultanément. 
 
 Les baies de stockage n'apparaissent pas comme des volumes partagés sur le réseau (comme pour le NAS). Elles sont directement accessibles en mode bloc par le système de fichiers des serveurs.
-Chaque serveur voit l'espace disque d'une baie SAN auquel il a accès comme son propre disque dur. 
+Chaque serveur voit l'espace disque d'une baie SAN auquel il a accès comme son propre [[Disque dur]]. 
 L'espace de stockage n'est plus limité par les ressources du serveur, il est évolutif à volonté par l'ajout de disques ou baies de stockages. 
 Il est plutôt utilisé pour les données applicatives. 
 

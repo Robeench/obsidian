@@ -13,8 +13,7 @@ Les utilisations d’un hyperviseur de type 2 sont multiples. Ils sont assez fac
 -   simuler une 2e machine et faire des tests de communication simples ;
 -   créer un petit réseau de plusieurs VM pour tester des protocoles réseau, des règles de pare-feu, configurer un serveur de supervision ou autre.
 
-# Exemples
-
+## Exemples
 - Hyper V
 - VMWare Workstation
 - VirtualBox

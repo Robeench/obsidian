@@ -1,16 +1,28 @@
+# Cours
 Environnement complet de gestion centralisée de datacenter, s'appuyant sur l'hyperviseur KVM et le gestionnaire de conteneurs LXC. 
 Open source avec support de service payant. 
 
 Port par défaut : 8006
 
-# Consignes
-- [x] Monter deux serveurs Proxmox (1 processeur, 4 cœurs + 4 Go de RAM + 30 Go ou plus de SSD)
-- [x] Mettre en cluster les serveurs promox
-- [x] Créer un template de machine virtuelle
-- [x] Créer une machine a l'aide de ce template
-- [x] Migrer la machine sur proxmox02, puis proxmox03
-- [x] Cloner une machine a chaud
-- [x] Migrer une machine à chaud
+## Fonctionnalité de datacenter
+Pour proxmox, un datacenter est le point unique de gestion des ressources : 
+- serveur
+- espaces de stockage 
+- templates de création de VM ou de conteneurs
+- ressources réseau (switch)
+- pools de ressources (regroupement de ressources sous une même entité)
+- VM
+- conteneurs
+
+# Installation
+## Consignes
+- [ ] Monter deux serveurs Proxmox (1 processeur, 4 cœurs + 4 Go de [[RAM]] + 30 Go ou plus de SSD)
+- [ ] Mettre en cluster les serveurs promox
+- [ ] Créer un template de machine virtuelle
+- [ ] Créer une machine a l'aide de ce template
+- [ ] Migrer la machine sur proxmox02, puis proxmox03
+- [ ] Cloner une machine a chaud
+- [ ] Migrer une machine à chaud
 - [ ] Créer un partage externe SMB sur Proxmox 
 - [ ] Sauvegarder une machine sur ce partage 
 - [ ] Détruisez la machine sauvegardé et la réinstaller via le backup externe
@@ -24,9 +36,8 @@ Port par défaut : 8006
 - [ ] Tester les migrations à chaud  
 - [ ] Configurer HA  
 - [ ] Arrêter proxmox01 et observer la migration à chaud de notre VM sur proxmox02
-- [x] Ajout d'un proxmox03 au cluster
+- [ ] Ajout d'un proxmox03 au cluster
 
-# Installation
 ## Configuration des VM Proxmox
 
 [Tutoriel installation Proxmox sur Developez](https://chrtophe.developpez.com/tutoriels/proxmox/)
@@ -34,7 +45,7 @@ Port par défaut : 8006
 
 Installation à partir d'un [fichier ISO](https://www.proxmox.com/en/downloads/category/iso-images-pve), disponible uniquement pour Debian. 
 - [ ] Connexion en bridge
-- [ ] 1 processeur, 4 cœur (ou 4 processeurs) + 4Go de RAM + 30 Go SSD
+- [ ] 1 processeur, 4 cœur (ou 4 processeurs) + 4Go de [[RAM]] + 30 Go SSD
 - [ ] Vérifier les adresses IP disponibles avec IP Scanner
 
 #### Sous VMWare
@@ -46,7 +57,7 @@ Configuration > System > Processor > Enable Nested VT-x/AMD-V
 ### Lancement VM
 - Install Proxmox VE
 - Accepter License Agreement
-- Target HardDisk : disque dur de la VM
+- Target HardDisk : [[Disque dur]] de la VM
 proxmox efface les données présentes.
 options = pour personnaliser le partitionnement
 - Sélection pays + heure + clavier
@@ -95,22 +106,22 @@ Ne pas cloner les VM, cela peut poser des problèmes de certificat, bloquant l'a
 
 ## Cluster
 ### Au sein du proxmox01
-Menu > Cluster > Create Cluster
+🗂 Menu > Cluster > Create Cluster
 	Nom du cluster = cluster-nitou
 	Réseau du cluster = adresse IP de proxmox01
 Menu > Cluster > Join information > Copy Information
 
 ### Au sein du proxmox02 et proxmox03
-Menu > Cluster > Join Cluster
+🗂 Menu > Cluster > Join Cluster
 	Coller les informations précédentes
 	Entrer le mdp root
 
 ## Machine virtuelle sous Proxmox
 ### Importer un fichier ISO
-Datacenter cluster-nitou > proxmox01 > local (proxmox01) > ISO images > Upload
+🗂 Datacenter cluster-nitou > proxmox01 > local (proxmox01) > ISO images > Upload
 
 ### Créer une machine virtuelle
-Cliquer sur le bouton en haut à droite de l'interface > Create VM
+🗂 Cliquer sur le bouton en haut à droite de l'interface > Create VM
 
 **General**
 Node = proxmox01
@@ -136,13 +147,3 @@ Lors de l'installation, si la connexion internet n'est pas repérée et bloque d
 
 
 
-# Fonctionnalité de datacenter
-
-Pour proxmox, un datacenter est le point unique de gestion des ressources : 
-- serveur
-- espaces de stockage 
-- templates de création de VM ou de conteneurs
-- ressources réseau (switch)
-- pools de ressources (regroupement de ressources sous une même entité)
-- VM
-- conteneurs

@@ -21,7 +21,7 @@
 ## Membres du groupe administrateurs
 `(Get-LocalGroupMember Administrateurs).Name` 
 
-## Virtualisation
+## [[Virtualisation]]
 Afficher les VM d'HyperV
 `Get-VM`
 

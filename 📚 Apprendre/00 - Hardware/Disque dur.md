@@ -1,7 +1,6 @@
+# HDD
+= Hard Disk Drive
 
-# Disque dur
-## HDD
-HDD = Hard Disk Drive
 Mémoire permettant de sauvegarder et conserver des données
 Paramètres de stockage interne : 
 - capacité : taille la plus répandue 500 Go. 1To si beaucoup de tâches graphiques
@@ -10,8 +9,9 @@ Paramètres de stockage interne :
 - vitesse de rotation (HDD) : vitesse à laquelle le disque dur fait tourner les plateaux magnétiques de stockage de données, plus la vitesse est rapide, plus les données peuvent être lues et écrites rapidement
 - taille
 
-### Mécanique
+## Mécanique
 Disque magnétique avec une tête de lecture permettant de lire et écrire dessus. 
 
-### SSD / Disque à mémoire flash
-Plus rapide et plus performant que le disque dur. Mémoire avec un chargement beaucoup plus rapide. 
+# SSD / Disque à mémoire flash
+Plus rapide et plus performant que le disque dur. 
+Mémoire avec un chargement beaucoup plus rapide. 

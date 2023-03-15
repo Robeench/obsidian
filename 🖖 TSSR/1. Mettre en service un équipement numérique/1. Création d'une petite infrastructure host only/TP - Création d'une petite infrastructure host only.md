@@ -1,6 +1,6 @@
 # Consignes
 - [ ] Le réseau host-only est en classe B privé /25 dans la plage 172.16.0.0 à 172.16.31.255
-- [ ] Construire un réseau host-only dans VirtualBox en n'assignant aucun [[serveur DHCP]] à VirtualBox
+- [ ] Construire un réseau host-only dans VirtualBox en n'assignant aucun [[Serveur DHCP]] à VirtualBox
 - [ ] La dernière adresse possible est celle de la gateway sur la machine hôte
 - [ ] L'avant dernière est celle sur [[Windows Server 2022]]
 - [ ] Celle juste avant est celle du serveur apache
@@ -9,7 +9,7 @@
 
 ## SRV01-ADDHCPDNS
 - [ ] [[Windows Server 2022]]
-- [ ] 2Go de RAM
+- [ ] 2Go de [[RAM]]
 - [ ] 50Go de disque SSD
 - [ ] Installer les logiciels suivants :
 	- [ ] 7zip
@@ -18,13 +18,13 @@
 	- [ ] Firefox
 - [ ] Installer le rôle DHCP sur ce serveur
 - [ ] Installer le rôle AD de base
-- [ ] Configurer - à minima - le [[serveur DNS]] avec un alias www.nitou.lan sur la VM3
-- [ ] Configurer un partage de fichier sur un deuxième disque dur partitionné et nommé DATA
+- [ ] Configurer - à minima - le [[Serveur DNS]] avec un alias www.nitou.lan sur la VM3
+- [ ] Configurer un partage de fichier sur un deuxième [[Disque dur]] partitionné et nommé DATA
 - [ ] Installer les Guest Additions
 
 ## DESKTOP01
 - [ ] Windows 11 Enterprise
-- [ ] 4Go de RAM
+- [ ] 4Go de [[RAM]]
 - [ ] 64Go de disque SSD
 - [ ] Installer les logiciels suivants :
 	- [ ] 7zip
@@ -36,7 +36,7 @@
 
 ## SRV02-APACHE
 - [ ] Debian 11
-- [ ] 1Go de RAM
+- [ ] 1Go de [[RAM]]
 - [ ] 8Go de disque SSD
 - [ ] Serveur Apache
 - [ ] Installer Apache2
@@ -174,10 +174,10 @@ Installation debian
 ![[Capture d’écran 2022-09-14 133708.png]]
 
 ### Installation Apache2
-`apt install apache2` 
+https://guillaume-cortes.fr/serveur-web-apache-debian-9/
 
 #### Modification page type Apache
-`nano /var/index/www/html/index.html`
+`nano /var/www/html/index.html`
 
 
 ![[Capture d’écran 2022-09-14 133622.png]]
