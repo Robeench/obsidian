@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1582cdf6527f6628",
+            "id": "d49e18bd922c0bb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚 Apprendre/Windows/Windows Server/Rôles/Serveur de fichiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e1b1678d8fbad9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc4dd0583ba59b6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚 Apprendre/Linux/Debian/Serveur Apache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9e855a100456c5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 283.5
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md"
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md"
               }
             }
           },
@@ -160,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -194,12 +157,30 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b9e855a100456c5d",
+  "active": "d49e18bd922c0bb9",
   "lastOpenFiles": [
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Virtual Box.md",
-    "📚 Apprendre/Linux/Debian/Serveur Apache.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+    "Pasted image 20230319230127.png",
+    "Pasted image 20230319230046.png",
+    "Pasted image 20230319194159.png",
+    "Pasted image 20230319193605.png",
+    "Pasted image 20230319191829.png",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
     "📚 Apprendre/Windows/Windows Server/Rôles/Serveur de fichiers.md",
+    "Pasted image 20230319180638.png",
+    "Pasted image 20230319180300.png",
+    "Telechargements/Pasted image 20230319174858.png",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
+    "Pasted image 20230319165027.png",
+    "Telechargements/Pasted image 20230319165042.png",
+    "Telechargements/Pasted image 20230319163638.png",
+    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur AD-DS.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
+    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Virtual Box.md",
+    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur DHCP.md",
+    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur DNS.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/PFSense.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
+    "📚 Apprendre/Linux/Debian/Serveur Apache.md",
     "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Hyperviseur - Type 2.md",
     "📚 Apprendre/00 - Hardware/Switch.md",
     "📚 Apprendre/00 - Hardware/Routeur.md",
@@ -216,28 +197,13 @@
     "📚 Apprendre/01 - Virtualisation/Virtualisation.md",
     "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Configurations réseaux de VMWare.pdf",
     "📚 Apprendre/00 - Virtualisation/Hyperviseur - Type 2/VirtualBox/Clonage sous VirtualBox.md",
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 1/Proxmox.md",
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
-    "📚 Apprendre/Prendre le contrôle à distance d'un poste/TP - Installation et configuration de TightVNC.md",
-    "📚 Apprendre/GPO.md",
     "📚 Apprendre/Théorie",
     "📚 Apprendre/Pratique",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur AD-DS.md",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur DNS.md",
-    "📚 Apprendre/AD.md",
     "📚 Apprendre/Windows",
     "📚 Apprendre/Linux/Debian",
     "📚 Apprendre/01 - Installation",
     "📚 Apprendre/00 - Virtualisation/Hyperviseur - Type 2/VirtualBox",
     "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/02 - Pratique",
-    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie",
-    "📚 Apprendre/Windows/Windows Server/Rôles",
-    "Telechargements/Pasted image 20230307101256.png",
-    "Telechargements/Pasted image 20230308164102.png",
-    "Pasted image 20230308164044.png",
-    "Telechargements/Pasted image 20230308132703.png",
-    "Telechargements/Pasted image 20230308122619.png",
-    "15471323228309_p1c3.png",
-    "Telechargements/Pasted image 20230207114216.png"
+    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie"
   ]
 }

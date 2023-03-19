@@ -4,7 +4,6 @@
 
 [Créer et formater une partition de disque dur](https://support.microsoft.com/fr-fr/windows/cr%C3%A9er-et-formater-une-partition-de-disque-dur-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e)
 
-
 # Cours
 
 # Installation
