@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "83fc2767881dd793",
+        "id": "8eb69b0761f6266f",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "d49e18bd922c0bb9",
-=======
-            "id": "7a34f1ff6f8d0f26",
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
+            "id": "a34d9b4a4ce6ca3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-=======
-                "file": "📚 Apprendre/Data Center.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6549646659b6f9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee6e8e578d4b998d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚄 Wabtec/ARP poison.md",
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-<<<<<<< HEAD
         ]
-=======
-        ],
-        "currentTab": 2
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
       }
     ],
     "direction": "vertical"
@@ -106,11 +65,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 283.5
-=======
     "width": 408.5
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
   },
   "right": {
     "id": "cde66ea3a2afdda3",
@@ -126,11 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-=======
-                "file": "🚄 Wabtec/ARP poison.md",
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,13 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md"
-=======
-                "file": "🚄 Wabtec/ARP poison.md"
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-=======
-                "file": "🚄 Wabtec/ARP poison.md",
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -211,68 +150,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
-  "active": "d49e18bd922c0bb9",
+  "active": "a34d9b4a4ce6ca3f",
   "lastOpenFiles": [
-    "Pasted image 20230319230127.png",
-    "Pasted image 20230319230046.png",
-    "Pasted image 20230319194159.png",
-    "Pasted image 20230319193605.png",
-    "Pasted image 20230319191829.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur de fichiers.md",
-    "Pasted image 20230319180638.png",
-    "Pasted image 20230319180300.png",
-    "Telechargements/Pasted image 20230319174858.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/Administration Windows Serveur 2016.pdf",
-    "Pasted image 20230319165027.png",
-    "Telechargements/Pasted image 20230319165042.png",
-    "Telechargements/Pasted image 20230319163638.png",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur AD-DS.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - Active Directory.md",
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Virtual Box.md",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur DHCP.md",
-    "📚 Apprendre/Windows/Windows Server/Rôles/Serveur DNS.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/PFSense.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/1. Création d'une petite infrastructure host only/TP - Création d'une petite infrastructure host only.md",
-    "📚 Apprendre/Linux/Debian/Serveur Apache.md",
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Hyperviseur - Type 2.md",
-    "📚 Apprendre/00 - Hardware/Switch.md",
-    "📚 Apprendre/00 - Hardware/Routeur.md",
-    "📚 Apprendre/Windows/Commandes Windows.md",
-    "🖖 TSSR/5. Maintenir et exploiter le réseau local et la téléphonie/Routage/Routage.md",
-    "🌿 Le Troglo/Réunions/2022/24.10.2022.md",
-    "🖖 TSSR/4. VOIP/CME.md",
-    "📚 Apprendre/00 - Hardware/RAM.md",
-    "📚 Apprendre/00 - Hardware/Disque dur.md",
-    "📚 Apprendre/00 - Hardware/CPU.md",
-    "📚 Apprendre/00 - Hardware/Carte mère.md",
-    "📚 Apprendre/00 - Hardware/Carte graphique.md",
-    "📚 Apprendre/00 - Hardware/BIOS.md",
-    "📚 Apprendre/01 - Virtualisation/Virtualisation.md",
-    "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Configurations réseaux de VMWare.pdf",
-    "📚 Apprendre/00 - Virtualisation/Hyperviseur - Type 2/VirtualBox/Clonage sous VirtualBox.md",
-    "📚 Apprendre/Théorie",
-    "📚 Apprendre/Pratique",
-    "📚 Apprendre/Windows",
-    "📚 Apprendre/Linux/Debian",
-    "📚 Apprendre/01 - Installation",
-    "📚 Apprendre/00 - Virtualisation/Hyperviseur - Type 2/VirtualBox",
-    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/02 - Pratique",
-    "📚 Apprendre/01 - Installation/Windows/Windows Server/Rôles/Active Directory/01 - Théorie"
-=======
-  "active": "ee6e8e578d4b998d",
-  "lastOpenFiles": [
-    "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-    "🚄 Wabtec/Nettoyage de session.md",
-    "📚 Apprendre/Data Center.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
-    "400px-Introred.jpg",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
-    "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf",
-    "🚄 Wabtec/Script/Script PowerShell - Inventaire.md"
->>>>>>> 8affb984f91a536247e45045b2f77aef96d254d0
+    "🚄 Wabtec/Projet OS Refresh.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🚄 Wabtec/Script PowerShell - Inventaire.md",
+    "❤ Home/Notes du jour/28.10.2022.md",
+    "📚 Apprendre/Langages/PowerShell.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
+    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
   ]
 }
