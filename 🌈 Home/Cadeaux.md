@@ -37,6 +37,16 @@ visiter Giverny
 Salopette en velours côtelé
 tatouage
 chaussure insecta
+Kayak gonflable
+Basse comme violette
+Pédale de guitare la rate
+Brosse pour nettoyer les vinyles
+Une boule à thé solide
+TC electronik june-60 korus v2
+Calvin et Hobbes
+La jeunesse de picsou de don rosa
+Voyage en Irlande
+Presse purée
 
 **Pour moi**
 Kit de feutres pour dessiner
@@ -51,7 +61,8 @@ grosses baguouzes
 
 Maman
 
-Papa
+**Papa**
+les tomes manquants de blueberry (voir avec maman)
 
 **Christophe**
 petite tasse à café de Thomas
@@ -62,10 +73,10 @@ chouchou maison : https://www.pinterest.fr/pin/556053885251997015/
 
 Yves
 
-Séverine
+**Séverine**
+puzzle (type escape game)
 
 **Erine**
-trottinette
 feutres fluo
 
 Audrick
@@ -83,3 +94,9 @@ couverts insultants
 **Divers**
 Atelier VAM
 atelier de création de parfum
+
+**MARTINE LAYAT**
+Kit à sangria
+
+**LANA**
+Adore le football, joue de la batterie
