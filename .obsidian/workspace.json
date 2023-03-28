@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdb64fd0cdddab64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌈 Home/Choses à faire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,19 +171,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a34f1ff6f8d0f26",
+  "active": "bdb64fd0cdddab64",
   "lastOpenFiles": [
+    "🌈 Home/Stratégies de travail.md",
+    "🌈 Home/Choses à faire.md",
+    "Telechargements/Pasted image 20230319180638.png",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
     "Telechargements/Pasted image 20230319174858.png",
     "Telechargements/Pasted image 20230319165042.png",
     "Telechargements/Pasted image 20230319163638.png",
-    "Pasted image 20230321225243.png",
-    "Pasted image 20230321222815.png",
-    "Pasted image 20230319230127.png",
-    "Pasted image 20230319230046.png",
-    "Pasted image 20230319194159.png",
-    "Pasted image 20230319193605.png",
-    "Pasted image 20230319191829.png",
+    "Telechargements/Pasted image 20230321225243.png",
+    "Telechargements/Pasted image 20230321222815.png",
+    "Telechargements/Pasted image 20230319230127.png",
+    "Telechargements/Pasted image 20230319230046.png",
+    "Telechargements/Pasted image 20230319194159.png",
+    "Telechargements/Pasted image 20230319193605.png",
     "📚 Apprendre/Data Center.md",
     "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
     "🚄 Wabtec/ARP poison.md",

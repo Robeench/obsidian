@@ -1,0 +1,14 @@
+- [ ] étudier avec des amis travailleurs
+- [ ] poser un miroir devant mon bureau
+- [ ] coin préféré pour les tâches très difficiles
+- [ ] avoir tout mon matériel sous la main
+- [ ] supprimer les alertes
+- [ ] utiliser un groupe sur un réseau social en cas de difficulté
+- [ ] m'imposer des tâches rebutantes si je n'étudie pas
+- [ ] logiciel pour m'empêcher d'aller sur certains sites
+- [ ] point sur l'avancement de mon travail
+- [ ] planifier de petites pauses
+- [ ] objectif en termes de temps minimum
+- [ ] récompense à m'offrir si le travail est bien fait
+- [ ] me lancer des défis
+- [ ] 
