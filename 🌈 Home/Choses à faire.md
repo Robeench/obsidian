@@ -15,3 +15,14 @@
 - [ ] lire les articles de PAV
 - [ ] finir ma pile à lire
 - [ ] 
+<<<<<<< Updated upstream
+=======
+
+# Travail
+- [ ] distribution des casques
+- [ ] procédures IT Lockers
+- [ ] création de notre sharepoint
+- [ ] créer une clé medicat
+- [ ] migration vers notre sharepoint
+- [ ] 
+>>>>>>> Stashed changes
