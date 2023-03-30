@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83fc2767881dd793",
+        "id": "516ab2e4f25a29d2",
         "type": "tabs",
         "children": [
           {
-            "id": "7a34f1ff6f8d0f26",
+            "id": "4f5fa19531067149",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "🌈 Home/Choses à faire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb64fd0cdddab64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌈 Home/Choses à faire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ca55ee4a1e98f22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌈 Home/Achats à prévoir.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌈 Home/Achats à prévoir.md",
+                "file": "🌈 Home/Choses à faire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌈 Home/Achats à prévoir.md"
+                "file": "🌈 Home/Choses à faire.md"
               }
             }
           },
@@ -148,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌈 Home/Achats à prévoir.md",
+                "file": "🌈 Home/Choses à faire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -183,51 +158,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "bdb64fd0cdddab64",
+  "active": "4f5fa19531067149",
   "lastOpenFiles": [
+    "Projets à la maison/Domotique/Miroir.md",
+    "Projets à la maison/Domotique/Lumières.md",
+    "🌈 Home/Choses à faire.md",
+    "Projets à la maison/AdGuard.md",
+    "Projets à la maison/Domotique/Chauffage et thermostat.md",
+    "Projets à la maison/Domotique/Aspirateur.md",
+    "Projets à la maison/Domotique",
     "🌈 Home/Stratégies de travail.md",
-    "🌈 Home/Choses à faire.md",
-    "Telechargements/Pasted image 20230319180638.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-    "Telechargements/Pasted image 20230319174858.png",
-    "Telechargements/Pasted image 20230319165042.png",
-    "Telechargements/Pasted image 20230319163638.png",
-    "Telechargements/Pasted image 20230321225243.png",
-    "Telechargements/Pasted image 20230321222815.png",
-    "Telechargements/Pasted image 20230319230127.png",
-    "Telechargements/Pasted image 20230319230046.png",
-    "Telechargements/Pasted image 20230319194159.png",
-    "Telechargements/Pasted image 20230319193605.png",
-    "📚 Apprendre/Data Center.md",
-    "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
-    "🚄 Wabtec/ARP poison.md",
-    "🚄 Wabtec/Nettoyage de session.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
-    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
-    "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
-    "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf",
-    "🚄 Wabtec/Script/Script PowerShell - Inventaire.md"
-=======
-  "active": "4ca55ee4a1e98f22",
-  "lastOpenFiles": [
-    "🌈 Home/Choses à faire.md",
-    "🌈 Home/Achats à prévoir.md",
-    "Telechargements/Pasted image 20230319180638.png",
-    "🌈 Home/Cadeaux.md",
-    "🌈 Home/Lire/A lire.md",
-    "🌈 Home/Lire/Vaisseau d'arcane - Adrien TOMAS.md",
-    "🌈 Home/Lire/affiche_feminisme.pdf",
-    "🌈 Home/Voir/A voir.md",
-    "🌈 Home/Voir/Incroyable mais vrai - Quentin Dupieux.png",
-    "🌈 Home/Notes du jour/26.02.2023.md",
-    "🌈 Home/Ecouter/Méditation bonheur.mp3",
-    "🌈 Home/Ecouter/Jeanne Tonique.png",
-    "🌈 Home/Coudre/Untitled.md",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
-    "Telechargements/Pasted image 20230321225243.png",
-    "Telechargements/Pasted image 20230321222815.png",
     "🚄 Wabtec/Projet OS Refresh.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
     "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
@@ -238,6 +178,5 @@
     "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
     "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
     "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
->>>>>>> Stashed changes
   ]
 }
