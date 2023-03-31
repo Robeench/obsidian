@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "516ab2e4f25a29d2",
+        "id": "83fc2767881dd793",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5fa19531067149",
+            "id": "7a34f1ff6f8d0f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌈 Home/Choses à faire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdb64fd0cdddab64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,25 +171,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f5fa19531067149",
+  "active": "bdb64fd0cdddab64",
   "lastOpenFiles": [
+    "🌈 Home/Achats à prévoir.md",
     "Projets à la maison/Domotique/Miroir.md",
     "Projets à la maison/Domotique/Lumières.md",
-    "🌈 Home/Choses à faire.md",
-    "Projets à la maison/AdGuard.md",
     "Projets à la maison/Domotique/Chauffage et thermostat.md",
     "Projets à la maison/Domotique/Aspirateur.md",
     "Projets à la maison/Domotique",
+    "Projets à la maison/AdGuard.md",
     "🌈 Home/Stratégies de travail.md",
-    "🚄 Wabtec/Projet OS Refresh.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/1. Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🚄 Wabtec/Script PowerShell - Inventaire.md",
-    "❤ Home/Notes du jour/28.10.2022.md",
-    "📚 Apprendre/Langages/PowerShell.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/5. Automatiser l'installation de logiciels/Automatiser l'installation de logiciels.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/4. Créer une clé d'installation Windows automatisée Ventoy/Créer une clé d'installation de Windows totalement automatisée - Ventoy.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/3. Automatiser l'installation de Windows avec les fichiers réponses ADK/Automatiser l'installation de Windows.md",
-    "🖖 TSSR/Mettre en service un équipement numérique/0. Infrastructure du CEFIM/TP - Infrastructure CEFIM.md"
+    "🌈 Home/Choses à faire.md",
+    "Telechargements/Pasted image 20230319180638.png",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
+    "Telechargements/Pasted image 20230319174858.png",
+    "Telechargements/Pasted image 20230319165042.png",
+    "Telechargements/Pasted image 20230319163638.png",
+    "Telechargements/Pasted image 20230321225243.png",
+    "Telechargements/Pasted image 20230321222815.png",
+    "Telechargements/Pasted image 20230319230127.png",
+    "Telechargements/Pasted image 20230319230046.png",
+    "Telechargements/Pasted image 20230319194159.png",
+    "Telechargements/Pasted image 20230319193605.png",
+    "📚 Apprendre/Data Center.md",
+    "🚄 Wabtec/Script/Ajout liste d'utilisateurs à une liste de diffusion.md",
+    "🚄 Wabtec/ARP poison.md",
+    "🚄 Wabtec/Nettoyage de session.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur web LAMP.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/Installation - Serveur GLPI commun.md",
+    "🖖 TSSR/3. Gérer les incidents et les problèmes/2. GLPI/GLPI.md",
+    "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
+    "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf",
+    "🚄 Wabtec/Script/Script PowerShell - Inventaire.md"
   ]
 }
