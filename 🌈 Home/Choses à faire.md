@@ -25,4 +25,5 @@
 - [ ] garder les bouteilles en verre de bière pour faire des distributeurs d'eau pour mes jardinières
 - [ ] laver les vitres
 - [ ] amener lampe au repair café
+- [ ] créer un script qui me crée un événement dans mon agenda lorsque je dois arroser les plantes le soir (lié à la météo du lendemain)
 - [ ] 
