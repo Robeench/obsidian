@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "83fc2767881dd793",
+        "id": "39278ceb360eb179",
         "type": "tabs",
         "children": [
           {
-            "id": "7a34f1ff6f8d0f26",
+            "id": "e6f146e0d052b623",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌈 Home/Choses à faire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdb64fd0cdddab64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌈 Home/Choses à faire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌈 Home/Choses à faire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🌈 Home/Choses à faire.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌈 Home/Choses à faire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,8 +150,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bdb64fd0cdddab64",
+  "active": "e6f146e0d052b623",
   "lastOpenFiles": [
+    "🌈 Home/Choses à faire.md",
     "🌈 Home/Achats à prévoir.md",
     "Projets à la maison/Domotique/Miroir.md",
     "Projets à la maison/Domotique/Lumières.md",
@@ -181,7 +161,6 @@
     "Projets à la maison/Domotique",
     "Projets à la maison/AdGuard.md",
     "🌈 Home/Stratégies de travail.md",
-    "🌈 Home/Choses à faire.md",
     "Telechargements/Pasted image 20230319180638.png",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
     "Telechargements/Pasted image 20230319174858.png",
