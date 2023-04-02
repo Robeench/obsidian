@@ -11,8 +11,24 @@
             "id": "e6f146e0d052b623",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c27227735375061f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚 Apprendre/Langages/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md"
+              }
             }
           },
           {
@@ -116,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -152,6 +172,14 @@
   },
   "active": "e6f146e0d052b623",
   "lastOpenFiles": [
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi/Cours cefim à faire.md",
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
+    "Projets à la maison/MOOC - Super étudiant/Stratégies de travail.md",
+    "Projets à la maison/MOOC - Super étudiant/Planning.md",
+    "Projets à la maison/MOOC - Super étudiant/Liste de tâches.md",
+    "📚 Apprendre/Langages/Markdown.md",
+    "📚 Apprendre/00 - Hardware/Bluetooth.md",
+    "Projets à la maison/MOOC - Super étudiant",
     "🌈 Home/Choses à faire.md",
     "🌈 Home/Achats à prévoir.md",
     "Projets à la maison/Domotique/Miroir.md",
@@ -160,9 +188,7 @@
     "Projets à la maison/Domotique/Aspirateur.md",
     "Projets à la maison/Domotique",
     "Projets à la maison/AdGuard.md",
-    "🌈 Home/Stratégies de travail.md",
     "Telechargements/Pasted image 20230319180638.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
     "Telechargements/Pasted image 20230319174858.png",
     "Telechargements/Pasted image 20230319165042.png",
     "Telechargements/Pasted image 20230319163638.png",
