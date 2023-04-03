@@ -1,5 +1,4 @@
 = hosted hypervisor
-= hyperviseur hébergé
 
 Adapté pour de petites infrastructures, pour une seule machine et faire des tests multiplateformes.
 
@@ -14,6 +13,6 @@ Les utilisations d’un hyperviseur de type 2 sont multiples. Ils sont assez fac
 -   créer un petit réseau de plusieurs VM pour tester des protocoles réseau, des règles de pare-feu, configurer un serveur de supervision ou autre.
 
 ## Exemples
-- Hyper V
 - VMWare Workstation
 - VirtualBox
+- EMU (sous Linux)

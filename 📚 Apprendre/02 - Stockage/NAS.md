@@ -20,3 +20,9 @@ Echanges de données via les protocoles :
 
 ## Tête de NAS
 système ne possédant pas de disque propre qui publie sous forme de fichiers des données blocs provenant d'un SAN. 
+
+# Exemple
+- Synology
+- QNAP
+- WD my cloud devices
+- Buffalo

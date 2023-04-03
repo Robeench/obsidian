@@ -1,3 +1,8 @@
+# Historique
+Créé par IBM dans les années 60, appelé à l'époque du partitionnement de la gamme Mainframes.
+Le but était d'optimiser l'utlisation afin d'éviter la sous-consommation. 
+
+
 La virtualisation de serveurs est un ensemble de techniques et d’outils permettant de faire tourner plusieurs systèmes d’exploitation sur un même serveur physique. Le principe de la virtualisation est donc un principe de partage : les différents systèmes d’exploitation se partagent les ressources du serveur.
 
 L'hyperviseur contrôle le processeur. 
@@ -21,6 +26,15 @@ Le fait de fonctionner en mode virtualisé ne change rien au fonctionnement du s
 - gestion plus simple du [[Plan de Reprise d'Activité]]
 - essayer sans surcoût
 - avenir tourné vers le cloud
+- consolidation
+- flexibilité
+- consommation
+- réduction du RTO
+- administration centralisée
+- facilités d'administration
+- productivité
+- réduction du TCO
+- 
 
 # Inconvénients
 - augmentation de la criticité de la machine en cas de panne matérielle
@@ -30,6 +44,10 @@ Le fait de fonctionner en mode virtualisé ne change rien au fonctionnement du s
 - indisponibilité des serveurs
 - ouverture de l'espace de stockage des VM
 - prise de contrôle du système par l'hôte
+- notion de coûts pour les décideurs de l'IT (licence, support ...)
+- réduction des performances dans certains cas particuliers (puissance de calcul moindre qu'un serveur physique, donc on peut privilégier du physique pour l'hébergement de bases de données)
+- virtualisation en elle-même
+- complexité du changement (si on souhaite changer entre plusieurs services de virtualisation, cela nécessite des arrêts de prod)
 
 # Configurations réseaux
 ## Bridge
@@ -80,3 +98,6 @@ Le serveur [[DHCP]] fournit aussi : la gateway, le server [[DNS]].
 
 ## Adaptateur réseau virtuel
 Lors de la création de la VM, un adaptateur réseau virtuel est installé sur l'hôte. Il est capable d'utiliser n'importe quel type de réseau. 
+
+# Virtualisation système
+# Virtualisation applicative

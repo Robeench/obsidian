@@ -16,6 +16,9 @@ Les hyperviseurs de type 1 sont utilisés en entreprise pour  :
 
 - [[Proxmox]]
 - ESXI
+- Hyper-V
+- Nutanix AHV
+- KVM (sous Linux)
 - XEN
 - Citrix
 - ...

@@ -18,4 +18,13 @@ L'administrateur doit définir :
 pour qu'un serveur Unix n'accède pas aux mêmes ressources qu'un serveur Windows utilisant un système de fichiers différents. 
 
 ## Avantages
-- Mutualisation des ressources de stockage. 
+- Mutualisation des ressources de stockage
+
+# Exemples
+- Dell EMC
+- HP
+- Lenovo
+- Netapp
+- IBM
+- Hitachi
+
