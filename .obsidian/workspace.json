@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82dc6d11c0c3af3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0503dfaf457f4658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 1 - Groupe 4.md",
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 1 - Groupe 4.md"
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md"
               }
             }
           },
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 1 - Groupe 4.md",
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,13 +183,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3c5b30e3da4bba19",
+  "active": "0503dfaf457f4658",
   "lastOpenFiles": [
-    "Pasted image 20230403164743.png",
-    "Pasted image 20230403163110.png",
-    "Pasted image 20230403163035.png",
-    "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/Cours.md",
+    "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 3 - Groupe 4.md",
+    "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 2 - Groupe 4.md",
+    "Pasted image 20230404170220.png",
+    "Pasted image 20230404161709.png",
+    "Pasted image 20230404161703.png",
+    "Pasted image 20230404141801.png",
+    "Pasted image 20230404141735.png",
+    "Pasted image 20230404135919.png",
+    "Pasted image 20230404111520.png",
     "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 1 - Groupe 4.md",
+    "Pasted image 20230404104639.png",
+    "Pasted image 20230404103936.png",
+    "Pasted image 20230404103143.png",
+    "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/Cours.md",
     "📚 Apprendre/01 - Virtualisation/Protection.md",
     "📚 Apprendre/01 - Virtualisation/Infrastructure On-Premise.md",
     "📚 Apprendre/02 - Stockage/SAN.md",
@@ -177,7 +211,6 @@
     "📚 Apprendre/01 - Virtualisation/Software Defined Data Center.md",
     "📚 Apprendre/02 - Stockage/NAS.md",
     "📚 Apprendre/01 - Virtualisation/Conteneur/Conteneur.md",
-    "Telechargements/container-what-is-container.png",
     "📚 Apprendre/01 - Virtualisation/Conteneur",
     "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 1/Hyperviseur - Type 1.md",
     "📚 Apprendre/01 - Virtualisation/Hyperviseur - Type 2/Hyper-V.md",
@@ -192,15 +225,7 @@
     "📚 Apprendre/00 - Hardware/Bluetooth.md",
     "Projets à la maison/MOOC - Super étudiant",
     "🌈 Home/Choses à faire.md",
-    "🌈 Home/Achats à prévoir.md",
     "Projets à la maison/Domotique",
-    "Telechargements/Pasted image 20230319180638.png",
-    "Telechargements/Pasted image 20230319174858.png",
-    "Telechargements/Pasted image 20230319165042.png",
-    "Telechargements/Pasted image 20230319163638.png",
-    "Telechargements/Pasted image 20230321225243.png",
-    "Telechargements/Pasted image 20230321222815.png",
-    "Telechargements/Pasted image 20230319230127.png",
     "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
     "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf"
   ]
