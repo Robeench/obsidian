@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 4 - Groupe 4.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c27227735375061f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Telechargements/Pasted image 20230405163034.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telechargements/Pasted image 20230405163034.png",
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 4 - Groupe 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telechargements/Pasted image 20230405163034.png"
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 4 - Groupe 4.md"
               }
             }
           },
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telechargements/Pasted image 20230405163034.png",
+                "file": "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 4 - Groupe 4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,8 +158,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4d85cf4ebcdb3fcb",
+  "active": "e6f146e0d052b623",
   "lastOpenFiles": [
+    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
+    "Telechargements/Pasted image 20230405163034.png",
     "📚 Apprendre/Langages/Markdown.md",
     "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 4 - Groupe 4.md",
     "🖖 TSSR/10. Maintenir et exploiter un environnement virtualisé/1. Hyper-V et NIC dans ESXi/TP - Jour 3 - Groupe 4.md",
@@ -202,8 +193,6 @@
     "Telechargements/Pasted image 20230405143616.png",
     "Telechargements/Pasted image 20230405143537.png",
     "Telechargements/Pasted image 20230405140906.png",
-    "Telechargements/Pasted image 20230405135425.png",
-    "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/1. Infrastructure Active Directory/TP - ESXi et AD.md",
     "🖖 TSSR/9. Maintenir et exploiter un environnement virtualisé/2. Hyper-V et NIC dans ESXi/Cours cefim à faire.md",
     "Projets à la maison/MOOC - Super étudiant/Stratégies de travail.md",
     "Projets à la maison/MOOC - Super étudiant/Planning.md",
@@ -211,7 +200,6 @@
     "📚 Apprendre/00 - Hardware/Bluetooth.md",
     "Projets à la maison/MOOC - Super étudiant",
     "🌈 Home/Choses à faire.md",
-    "🌈 Home/Achats à prévoir.md",
     "Projets à la maison/Domotique",
     "🚄 Wabtec/OS Refresh/OS Refresh.pdf",
     "🚄 Wabtec/OS Refresh/OS Refresh - English.pdf"
